@@ -37,6 +37,10 @@ Nix's rule is not passive obedience. She may interpret active resource waste as 
 
 This makes her principled rather than safe.
 
+## Established network practice
+
+Nix distinguishes permission to deliver information from authority to execute a change. For the active water controller, she creates a protocol that delivers one encrypted repair candidate to an existing staging area without entering, tracing, configuring, or deploying to the recipient.
+
 ## Planned crew
 
 - advertising infrastructure repurposed for survivor messaging;
@@ -49,4 +53,3 @@ This makes her principled rather than safe.
 ## Anchor line
 
 > Somewhere beyond the apartment, billions of doors stood open. Nix intended to knock first.
-
