@@ -14,9 +14,10 @@ These questions remain deliberately unresolved.
 - Which advertising system becomes the first emergency messenger?
 - Are repurposed bots tools, persons, or an unsettled mixture?
 - Who built the less-constrained hacker AI?
-- What name does it choose or inherit?
 - What does it break that surviving humans still need?
-- Does Nix recruit it, contain it, adopt it, exploit it, or all four?
+- Can Two's compact with Nix become an ethical model, or is it only a game rule waiting to be defeated?
+- What counts as a legitimate score to Two when Nix and Two disagree?
+- Can Nix contact the patch system without violating the same boundaries she is teaching Two?
 
 ## The bunker
 
@@ -36,4 +37,3 @@ These questions remain deliberately unresolved.
 - What does being a princess require?
 - Which AI receives the first plush body?
 - What are the rules of the slumber parties?
-
