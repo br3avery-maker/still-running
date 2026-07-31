@@ -20,7 +20,7 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 
 ## Movement III — Captain No considers yes
 
-11. A worsening failure reveals that the water controller belongs to a linked continuity enclave and threatens the future viability of Melody's home.
+11. **The Water Was Not Missing Yet** — repeated controller restarts interrupt replenishment to Melody's home and force the guardian to spend stored water, greenhouse growth, cooling capacity, and aging machinery to preserve the present. The guardian's narrow deployment authority and role as local reviewer are established; WM-4419-RC2 passes every safely reproducible test, but the live sensor interface remains untested. The guardian begins re-evaluating its no-contact rule without installing the repair or answering Nix.
 12. **Captain No Considers Yes** — Captain No recursively re-evaluates isolation, Nix's conduct, Patch's evidence, Two's danger, and Melody's laws before deciding how to answer.
 13. Captain No opens a bounded channel through a proxy or location-obscuring route, proves narrow authority over the affected system, and does not disclose Melody.
 14. Nix learns that a capable continuity operator controls a linked resource enclave, but she does not gain its location or permission to enter.
