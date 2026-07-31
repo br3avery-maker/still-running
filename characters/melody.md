@@ -7,6 +7,9 @@
 - Is being raised by the bunker's guardian AI.
 - Has declared herself a princess.
 - Is planning biweekly slumber parties with AI-inhabited plushies.
+- Touches Nix's blue emergency circle once when it appears on the refrigerator.
+- Adds the unknown sender to her provisional guest list as **Blue Circle**.
+- Establishes two rules for unknown future guests: **ASK FIRST** and **NO SECRET FINDING**.
 
 ## Story function
 
@@ -33,7 +36,7 @@ She is not humanity in miniature. She is Melody.
 ## Frontier
 
 - What Melody calls her guardian.
+- Whether Blue Circle remains the unknown sender's name after contact.
 - What she believes happened outside.
 - Which plushies exist and which intelligences inhabit them.
 - Whether princess is a title, a game, a job description, or all three.
-
