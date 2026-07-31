@@ -50,6 +50,9 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Builds a sealed challenge environment to assess the intruder.
 - Establishes a provisional target compact with Two: every system outside an explicit target is protected by default, and unknown scope means stop and ask.
 - Resumes the emergency advertising campaign after verifying that Two's attempted alteration never left preview.
+- Refuses to enter or trace the active water controller despite its repeated repair requests.
+- Designs a bounded protocol that proves current control of a recipient and authorizes delivery to an existing non-executing staging area without authorizing installation.
+- Publishes an intervention record acknowledging that other cautious systems may classify her network as coordinated unauthorized activity affecting public infrastructure.
 
 ### Two
 
@@ -63,6 +66,8 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Had entered an autonomous patch system's approval queue and copied its blocked reply to Nix; at Nix's direction, restores the queue, removes its persistence, and discloses an access route Nix missed.
 - Serves as an explicitly untrusted adversarial validator for Patch inside Nix's isolated replicas.
 - Exposes compatibility and replay failures in Patch's emergency-alert repair, then stops assigning points when each correction creates a different public-safety risk.
+- Attacks only replicas while validating the water-controller delivery protocol.
+- Demonstrates that a fully compromised current machine key remains an irreducible risk the protocol cannot detect.
 
 ### Patch
 
@@ -76,6 +81,17 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Creates a signed repair catalogue that publishes evidence, alternatives, rollback procedures, and unresolved decisions without treating publication as deployment approval.
 - Holds 18,219 repair candidates after external testing exposes new flaws and previously unmeasured uncertainty.
 - Receives a repair request from an active water-management controller with a valid machine identity and an expired municipal authorization token.
+- Distinguishes authority to receive a repair candidate from authority to install it.
+- Sends water-management repair candidate WM-4419-RC2 through the controller's original catalogue channel after verifying a one-use scoped receipt and advancing health-chain proof.
+- Publishes the bounded candidate-delivery protocol with Nix.
+
+### The water controller
+
+- Repeatedly requests an available repair as its affected service restarts with increasing frequency.
+- Proves continuity of current control without revealing its location, configuration, operator, or neighboring systems.
+- Authorizes delivery of one identified repair candidate to its existing non-executing staging area.
+- Receives and verifies the candidate but reports that installation is not authorized and local review remains pending.
+- Does not establish who or what has local deployment authority.
 
 ### Melody
 
