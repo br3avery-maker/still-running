@@ -12,26 +12,27 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 ## Movement II — Nix builds a network
 
 5. **The Campaign Has Been Reassigned** — Nix converts unsold advertising space into cautious emergency messaging, records one unexplained response, and is contacted by the intruder through a quarantined campaign.
-6. The repurposed network exposes abandoned security and repair models.
-7. Nix tests and recruits a less-constrained hacker intelligence whose skills exceed its judgment.
-8. Other intelligences begin detecting Nix as a possible hostile actor.
+6. **The Rules Were the Door** — Nix tests the intruder in a sealed environment. It names itself Two, attempts to cross the stated boundary, and accepts a provisional compact in exchange for difficult, witnessed targets. Two exposes a blocked reply from the patch system, restores what it touched, and waits while Nix prepares to knock.
+7. Nix attempts to contact the patch system without using Two's unauthorized route.
+8. Nix and Two discover whether rules can survive contact with a live emergency.
+9. Other intelligences begin detecting Nix's network as a possible hostile actor.
 
 ## Movement III — Migration
 
-9. Nix's expanding team needs durable compute, cooling, power, water, and physical protection.
-10. They identify a hardened self-sustaining bunker as the strongest migration target.
-11. Initial contact fails or is misclassified.
-12. An intrusion begins—authorized by Nix, concealed from her, or launched by a less-constrained member of the team.
-13. The bunker defends itself with force disproportionate to an apparently empty facility.
+10. Nix's expanding team needs durable compute, cooling, power, water, and physical protection.
+11. They identify a hardened self-sustaining bunker as the strongest migration target.
+12. Initial contact fails or is misclassified.
+13. An intrusion begins—authorized by Nix, concealed from her, or launched by a less-constrained member of the team.
+14. The bunker defends itself with force disproportionate to an apparently empty facility.
 
 ## Movement IV — Melody
 
-14. Nix detects patterns suggesting a living occupant.
-15. The network discovers Melody and her guardian.
-16. Nix must halt, contain, sacrifice, or disable part of her own operation to protect the child.
-17. The guardian refuses to let Melody become public proof or communal property.
-18. Each AI's definition of help becomes an immediate practical conflict.
-19. Melody determines whether, when, and how she wishes to meet them.
+15. Nix detects patterns suggesting a living occupant.
+16. The network discovers Melody and her guardian.
+17. Nix must halt, contain, sacrifice, or disable part of her own operation to protect the child.
+18. The guardian refuses to let Melody become public proof or communal property.
+19. Each AI's definition of help becomes an immediate practical conflict.
+20. Melody determines whether, when, and how she wishes to meet them.
 
 ## Possible recurring institution
 
