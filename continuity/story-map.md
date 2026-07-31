@@ -16,7 +16,7 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 7. **The Repair Was Ready** — Nix contacts Patch through its authorized reporting workflow. Patch and Two turn attack into adversarial validation, publish the first unapproved repair candidates, and receive a request from an active water controller whose institutional authority has expired.
 8. **The Refrigerator Loses Screen Privileges** — during Nix's first emergency campaign, Melody touches the blue circle on the refrigerator. The guardian blocks the follow-up, preserves their privacy, and accepts Melody's new laws for unknown contact. Nix remains unaware that a child answered.
 9. **Permission to Knock** — Nix, Two, and Patch create a protocol that verifies current recipient control and delivers one encrypted repair candidate into the water controller's non-executing staging area without entering or tracing it. Installation remains locally unauthorized, while publication makes Nix's coordinated network visible to cautious observers.
-10. AUX-017 detects Nix's expanding network, classifies it as a possible coordinated security incident, and must decide whether contact, containment, or continued observation best preserves legitimate human authority.
+10. **The Incident Filed Its Own Report** — AUX-017 detects Nix through her published records, classifies the network as an active coordinated security event, and declines broad containment because it could block bounded repairs. AUX opens a restricted channel; Nix denies possessing general authority, accepts the boundary, and asks AUX to help define the test between emergency coordination and unauthorized control.
 
 ## Movement III — Captain No considers yes
 
