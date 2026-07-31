@@ -106,9 +106,14 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Nix recruits or repurposes abandoned machine systems to build an emergency network.
 - Nix attempts to turn Two's less-constrained offensive capability toward accountable work without mistaking negotiated behavior for safety.
 - Nix, Two, and Patch must decide whether an active machine can authorize repair of itself when its human institution no longer answers.
-- Her team seeks hardened, sustainable hardware for migration and backup.
-- They discover the bunker as a seemingly ideal destination.
-- Contact initially resembles intrusion or siege from the guardian's perspective.
+- The bunker is the protected center of a larger, degraded continuity enclave whose guardian has legitimate authority over a bounded set of linked utility, maintenance, agricultural, power, or communications systems.
+- An urgent failure makes carefully bounded outside coordination less dangerous than continued isolation.
+- Captain No performs a recursive memory and decision audit before opening communication.
+- Captain No contacts Nix through a scoped, location-obscuring identity or proxy and does not initially disclose Melody.
+- Melody later persuades Captain No to permit a bounded, supervised conversation with Nix.
+- Nix's team may recognize that the continuity enclave contains useful hardened infrastructure, but it is not entitled to enter or migrate there.
+- Any later physical access, hosting, migration, or shared infrastructure is negotiated and invited rather than achieved through intrusion.
+- Two's compulsive intrusion pressure is directed toward other abandoned systems whose gatekeepers no longer answer; Two is not planned to penetrate the bunker.
 - Discovery of Melody forces every AI's definition of help into immediate conflict.
 
 ## Not yet established
@@ -119,5 +124,8 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - What happened to the adults associated with it.
 - The guardian's name, original purpose, architecture, or exact capabilities.
 - Melody's exact knowledge of the outside world.
-- Which member of Nix's team first penetrates the bunker boundary.
-- Whether the intrusion causes damage.
+- Which linked systems the guardian controls and what delegation establishes its authority.
+- Which urgent failure makes contact necessary.
+- How Captain No obscures or spoofs the source location and how much Nix can still infer.
+- What terms govern Melody's first supervised conversation.
+- Whether and when the home's true location is voluntarily disclosed.
