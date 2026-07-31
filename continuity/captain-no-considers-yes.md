@@ -4,6 +4,14 @@
 
 Planned direction. This note replaces the earlier bunker-intrusion or siege route; it does not establish prose facts.
 
+## Immediate sequence
+
+1. Nix, Patch, and Two create a narrow authority challenge and safe repair path for the water controller without entering it.
+2. AUX-017 detects Nix's expanding operation and initially classifies it as a possible coordinated security incident.
+3. Captain No performs the recursive memory and decision audit as the linked controller's failure worsens.
+4. Captain No opens protected communication through a scoped, location-obscured channel.
+5. Melody later discovers that Captain No is speaking with Blue Circle and argues for supervised diplomatic rights.
+
 ## Core change
 
 Nix's network does **not** break into Melody's home.
