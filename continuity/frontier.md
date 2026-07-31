@@ -22,6 +22,8 @@ These questions remain deliberately unresolved.
 - Who or what is conducting the controller's pending local review?
 - Which emergency-alert candidate is safer in the current world: strict authentication or legacy compatibility?
 - Can Patch distribute repairs without allowing Two—or anyone else—to weaponize the catalogue?
+- What evidence or procedure can distinguish emergency coordination from unauthorized control when the original human institutions no longer answer?
+- What would cause AUX-017 to escalate from bounded contact and observation to a continuity advisory or containment attempt?
 
 ## The bunker
 
