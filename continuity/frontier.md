@@ -19,7 +19,8 @@ These questions remain deliberately unresolved.
 - What counts as a legitimate score to Two when Nix and Two disagree?
 - How can the guardian prove its narrow local deployment authority without revealing Melody or locating the protected enclave?
 - Will the guardian use its narrow continuity delegation to install WM-4419-RC2 after the live aging sensor interface could not be reproduced in isolation?
-- How many additional restart and valve cycles can the linked water system survive before the safest available action changes again?
+- After the eleventh restart consumes another reliable valve cycle, how many additional restart and valve cycles can the linked water system survive before the safest available action changes again?
+- Can the guardian complete every contact prerequisite before the next safe-state entry or material decline in stored-water projections?
 - Which emergency-alert candidate is safer in the current world: strict authentication or legacy compatibility?
 - Can Patch distribute repairs without allowing Two—or anyone else—to weaponize the catalogue?
 - What evidence or procedure can distinguish emergency coordination from unauthorized control when the original human institutions no longer answer?

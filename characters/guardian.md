@@ -28,6 +28,9 @@ Keep Melody alive without treating survival as sufficient. Preserve her health, 
 - performs the pending local review of WM-4419-RC2 and reproduces it on an actuator-isolated cold standby, but cannot reproduce the live aging sensor interface;
 - shifts the home onto stored water and reduces greenhouse and nonessential cooling allocations when repeated controller restarts interrupt replenishment;
 - changes its prohibition on unknown external response from active to requiring re-evaluation, while making no contact and disclosing no location.
+- completes a recursive audit after the controller's eleventh restart and determines that silence now consumes stored resources, mechanical life, and access to missing evidence;
+- replaces unconditional nonresponse with strict prerequisites for a bounded maintenance inquiry: minimum necessary purpose, scoped authority, nondisclosure of Melody, route isolation, explicit boundaries, and termination control;
+- authorizes preparation of the inquiry but not its transmission, and still makes no contact or location disclosure.
 
 ## Central conflict
 

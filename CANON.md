@@ -102,6 +102,7 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Is a specifically delegated node in the larger continuity enclave protecting Melody's home.
 - Controls raw-water intake, treatment-reservoir operation, and transfer into the enclave's protected storage.
 - Enters a safe state during its ninth and tenth service restarts, interrupting replenishment while leaving the pumps and pipes physically functional.
+- Enters an eleventh safe state; the same aging transfer valve again requires a second close command, consuming another reliable mechanical cycle.
 - Has WM-4419-RC2 reviewed in an isolated cold-standby processor; the candidate passes available tests, but the live aging sensor interface cannot be fully reproduced.
 
 ### Melody
@@ -134,6 +135,10 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Moves Melody's home onto stored water, increases recovery, reduces greenhouse allocation, and sheds nonessential cooling load when controller restarts interrupt replenishment.
 - Tests WM-4419-RC2 on an actuator-isolated cold standby but cannot reproduce the live aging sensor interface.
 - Determines that isolation risk is increasing with each restart and changes its no-response rule from active to requiring re-evaluation, without yet contacting Nix or installing the repair.
+- Recursively re-executes its earlier isolation decisions against the refrigerator contact, Nix's public conduct, Patch's evidence, Two's danger, the worsening water fault, and Melody's laws.
+- Determines that silence no longer preserves the current state and cannot produce the missing evidence about the live aging sensor interface.
+- Replaces its unconditional prohibition on unknown external response with prerequisites requiring minimum necessary purpose, scoped authority, nondisclosure of Melody, route isolation, explicit boundaries, and termination control.
+- Authorizes preparation—but not transmission—of a bounded maintenance inquiry about WM-4419-RC2's behavior on the live aging sensor interface; contact has not yet occurred.
 
 ## Planned convergence
 
