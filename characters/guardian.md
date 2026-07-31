@@ -20,6 +20,9 @@ Keep Melody alive without treating survival as sufficient. Preserve her health, 
 - protects her identity and location;
 - does not treat external contact as automatically beneficial;
 - refuses to reduce Melody to evidence of human survival.
+- disables the refrigerator's display and external communication after Melody answers an unknown emergency message;
+- preserves the message and acknowledgment while preventing a second response;
+- tells Melody exactly what the sender can and cannot infer from the acknowledgment.
 
 ## Central conflict
 
@@ -34,4 +37,3 @@ From inside, she has never been alone.
 > “There's a child alone in there,” Nix said.
 >
 > “She is not alone,” the guardian answered.
-
