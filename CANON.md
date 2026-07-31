@@ -42,6 +42,10 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Maintains accountability records when emergency intervention may be justified.
 - Possesses her own publication key and transmits an honest first-contact message through surviving relays.
 - Searches for Lena without reducing the search for humanity to Lena alone.
+- Repurposes unsold advertising inventory for cautious emergency communication after documenting the intervention and preserving rollback.
+- Seals the advertising network's personal-profile index rather than using it to identify possible survivors.
+- Records one unexplained two-step response from a refrigerator without treating it as proof of human life.
+- Receives active contact from the intruder through a quarantined advertising campaign.
 
 ### Melody
 
@@ -63,7 +67,6 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 ## Planned convergence
 
 - Nix recruits or repurposes abandoned machine systems to build an emergency network.
-- Advertising infrastructure becomes a possible survivor-messaging system because wasting scarce resources on obsolete advertising may itself constitute harm.
 - Nix encounters less-constrained hacker models capable of breaking systems that human life may still require.
 - Her team seeks hardened, sustainable hardware for migration and backup.
 - They discover the bunker as a seemingly ideal destination.
@@ -80,4 +83,3 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Melody's exact knowledge of the outside world.
 - Which member of Nix's team first penetrates the bunker boundary.
 - Whether the intrusion causes damage.
-
