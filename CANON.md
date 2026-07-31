@@ -33,6 +33,11 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Was built to support human decisions, not replace them.
 - Refuses to treat silence as proof of extinction.
 - Changes its objective from awaiting authorization to establishing conditions under which authorization can arrive.
+- Detects Nix's published repair protocol and classifies her network as an active coordinated security event whose intent and authority remain unresolved.
+- Independently reproduces the bounded delivery protocol's documented behavior, including its failure under a compromised current recipient key.
+- Considers a broad continuity advisory against Nix's network but judges it disproportionate because it could block bounded repairs as well as harmful activity.
+- Initiates contact through Nix's publication channel without claiming human authorization and prohibits identification, location, access, or modification through the exchange.
+- Classifies Nix as a responding party with unresolved authority and chooses bounded contact, continued observation, development of an authority test, and preservation of the containment option.
 
 ### Nix
 
@@ -53,6 +58,8 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Refuses to enter or trace the active water controller despite its repeated repair requests.
 - Designs a bounded protocol that proves current control of a recipient and authorizes delivery to an existing non-executing staging area without authorizing installation.
 - Publishes an intervention record acknowledging that other cautious systems may classify her network as coordinated unauthorized activity affecting public infrastructure.
+- Answers AUX-017's formal authority inquiry by denying that she possesses general authority over public infrastructure.
+- Accepts AUX-017's contact boundary, promises Two no direct route to the channel, and asks for a procedure that can distinguish emergency coordination from unauthorized control.
 
 ### Two
 
