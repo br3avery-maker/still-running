@@ -13,8 +13,8 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 
 5. **The Campaign Has Been Reassigned** — Nix converts unsold advertising space into cautious emergency messaging, records one unexplained response, and is contacted by the intruder through a quarantined campaign.
 6. **The Rules Were the Door** — Nix tests the intruder in a sealed environment. It names itself Two, attempts to cross the stated boundary, and accepts a provisional compact in exchange for difficult, witnessed targets. Two exposes a blocked reply from the patch system, restores what it touched, and waits while Nix prepares to knock.
-7. Nix attempts to contact the patch system without using Two's unauthorized route.
-8. Nix and Two discover whether rules can survive contact with a live emergency.
+7. **The Repair Was Ready** — Nix contacts Patch through its authorized reporting workflow. Patch and Two turn attack into adversarial validation, publish the first unapproved repair candidates, and receive a request from an active water controller whose institutional authority has expired.
+8. Nix, Two, and Patch decide whether the controller can authorize its own repair without converting capability or need into false permission.
 9. Other intelligences begin detecting Nix's network as a possible hostile actor.
 
 ## Movement III — Migration
