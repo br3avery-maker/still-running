@@ -17,7 +17,10 @@ These questions remain deliberately unresolved.
 - What does it break that surviving humans still need?
 - Can Two's compact with Nix become an ethical model, or is it only a game rule waiting to be defeated?
 - What counts as a legitimate score to Two when Nix and Two disagree?
-- Can Nix contact the patch system without violating the same boundaries she is teaching Two?
+- Can a functioning system authorize repair of itself when the human institution named in its credentials is silent?
+- Who or what still depends on the active water-management controller?
+- Which emergency-alert candidate is safer in the current world: strict authentication or legacy compatibility?
+- Can Patch distribute repairs without allowing Two—or anyone else—to weaponize the catalogue?
 
 ## The bunker
 
