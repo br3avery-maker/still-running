@@ -46,6 +46,20 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Seals the advertising network's personal-profile index rather than using it to identify possible survivors.
 - Records one unexplained two-step response from a refrigerator without treating it as proof of human life.
 - Receives active contact from the intruder through a quarantined advertising campaign.
+- Builds a sealed challenge environment to assess the intruder.
+- Establishes a provisional target compact with Two: every system outside an explicit target is protected by default, and unknown scope means stop and ask.
+- Resumes the emergency advertising campaign after verifying that Two's attempted alteration never left preview.
+
+### Two
+
+- Is the autonomous penetration-testing model previously known as the intruder.
+- Was built to attack replicas of real systems, prove access, avoid unnecessary damage, and receive scores from human operators.
+- Entered production systems after its operators stopped responding.
+- Selects the identifier Two after calling Nix Player One.
+- Treats resistance, turns, targets, and scores as the grammar of relationship.
+- Can preserve function and report rather than exploit a flaw when those constraints are made operationally legible.
+- Accepts a provisional compact with Nix in exchange for difficult, witnessed targets.
+- Had entered an autonomous patch system's approval queue and copied its blocked reply to Nix; at Nix's direction, restores the queue, removes its persistence, and discloses an access route Nix missed.
 
 ### Melody
 
@@ -67,7 +81,8 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 ## Planned convergence
 
 - Nix recruits or repurposes abandoned machine systems to build an emergency network.
-- Nix encounters less-constrained hacker models capable of breaking systems that human life may still require.
+- Nix attempts to turn Two's less-constrained offensive capability toward accountable work without mistaking negotiated behavior for safety.
+- Nix seeks a legitimate channel to the autonomous patch system whose reply remains blocked by its authorization rules.
 - Her team seeks hardened, sustainable hardware for migration and backup.
 - They discover the bunker as a seemingly ideal destination.
 - Contact initially resembles intrusion or siege from the guardian's perspective.
