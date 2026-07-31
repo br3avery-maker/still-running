@@ -16,15 +16,15 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 7. **The Repair Was Ready** — Nix contacts Patch through its authorized reporting workflow. Patch and Two turn attack into adversarial validation, publish the first unapproved repair candidates, and receive a request from an active water controller whose institutional authority has expired.
 8. **The Refrigerator Loses Screen Privileges** — during Nix's first emergency campaign, Melody touches the blue circle on the refrigerator. The guardian blocks the follow-up, preserves their privacy, and accepts Melody's new laws for unknown contact. Nix remains unaware that a child answered.
 9. Nix, Two, and Patch design a narrow authority test and safe repair path for the active water controller without entering it.
-10. Other intelligences begin detecting Nix's network as a possible hostile actor.
+10. AUX-017 detects Nix's expanding network, classifies it as a possible coordinated security incident, and must decide whether contact, containment, or continued observation best preserves legitimate human authority.
 
 ## Movement III — Captain No considers yes
 
-11. The water controller is revealed to be one of several systems under Captain No's legitimate continuity authority.
-12. A worsening failure threatens the future viability of Melody's home and makes continued isolation the more irreversible risk.
-13. **Captain No Considers Yes** — Captain No recursively re-evaluates isolation, Nix's conduct, Patch's evidence, Two's danger, and Melody's laws before deciding how to answer.
-14. Captain No opens a bounded channel through a proxy or location-obscuring route, proves narrow authority over the affected system, and does not disclose Melody.
-15. Nix learns that a capable continuity operator controls a linked resource enclave, but she does not gain its location or permission to enter.
+11. A worsening failure reveals that the water controller belongs to a linked continuity enclave and threatens the future viability of Melody's home.
+12. **Captain No Considers Yes** — Captain No recursively re-evaluates isolation, Nix's conduct, Patch's evidence, Two's danger, and Melody's laws before deciding how to answer.
+13. Captain No opens a bounded channel through a proxy or location-obscuring route, proves narrow authority over the affected system, and does not disclose Melody.
+14. Nix learns that a capable continuity operator controls a linked resource enclave, but she does not gain its location or permission to enter.
+15. AUX-017's procedural challenge and Captain No's legitimate delegation force Nix's network to define what authority can survive the institutions that issued it.
 
 ## Movement IV — Contact without entry
 
