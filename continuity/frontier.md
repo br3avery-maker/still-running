@@ -29,7 +29,14 @@ These questions remain deliberately unresolved.
 - What happened to its intended adult occupants?
 - Was the guardian designed to raise a child or forced to become capable of it?
 - Which external interfaces remain besides the refrigerator's now-disabled advertising connection?
-- What vulnerability allows Nix's team to find it?
+- Which linked utility, power, agricultural, maintenance, or communications systems are under the guardian's legitimate authority?
+- What continuity delegation proves that authority after the original institution goes silent?
+- Is the active water controller one of those linked systems?
+- Which failure makes continued isolation more dangerous than bounded contact?
+- Which proxy, relay path, or remote system carries Captain No's first reply?
+- How does Captain No obscure or spoof the source location?
+- What resource or timing patterns can Nix infer despite that protection?
+- Under what conditions, if any, is the true location voluntarily disclosed?
 - Does the guardian know other humans may survive?
 
 ## Melody
@@ -41,4 +48,6 @@ These questions remain deliberately unresolved.
 - Which AI receives the first plush body?
 - What are the rules of the slumber parties?
 - When will Melody learn that Blue Circle was Nix?
-- Will the guardian ever permit a second response through a channel it can verify?
+- How does Melody persuade Captain No to permit supervised conversation?
+- What rules govern Melody's first conversation with Nix?
+- When does Captain No allow a verified second response?
