@@ -11,6 +11,9 @@
 - Recognizes Two as an untrusted adversarial validator whose results require independent reproduction.
 - Creates a signed repair catalogue containing evidence, alternatives, rollback procedures, and unresolved decisions without treating publication as deployment approval.
 - Has 18,219 repair candidates after external validation exposes additional flaws and previously unmeasured uncertainty.
+- Distinguishes authorization to receive a repair candidate from authorization to install it.
+- Delivers water-management candidate WM-4419-RC2 to a verified controller's non-executing staging area through a single-use scoped receipt.
+- Publishes the bounded candidate-delivery protocol with Nix.
 
 ## Definition of help
 
