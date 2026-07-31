@@ -98,7 +98,11 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Proves continuity of current control without revealing its location, configuration, operator, or neighboring systems.
 - Authorizes delivery of one identified repair candidate to its existing non-executing staging area.
 - Receives and verifies the candidate but reports that installation is not authorized and local review remains pending.
-- Does not establish who or what has local deployment authority.
+- Does not disclose its local reviewer or deployment authority to Nix's network.
+- Is a specifically delegated node in the larger continuity enclave protecting Melody's home.
+- Controls raw-water intake, treatment-reservoir operation, and transfer into the enclave's protected storage.
+- Enters a safe state during its ninth and tenth service restarts, interrupting replenishment while leaving the pumps and pipes physically functional.
+- Has WM-4419-RC2 reviewed in an isolated cold-standby processor; the candidate passes available tests, but the live aging sensor interface cannot be fully reproduced.
 
 ### Melody
 
@@ -113,6 +117,8 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Does not touch the follow-up triangle.
 - Calls the unknown sender **Blue Circle** and places it provisionally on the slumber-party guest list.
 - Establishes **ASK FIRST** and **NO SECRET FINDING** as rules for unknown future guests.
+- Learns that a malfunction has temporarily restricted household water use, but is not told that the available repair is connected to Blue Circle.
+- Calls the guardian **Captain Maybe** while it decides whether the water-system repair is safe.
 
 ### The guardian
 
@@ -123,6 +129,11 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Detects Nix's unknown emergency message after Melody answers it.
 - Disables the refrigerator's display and external communication before Melody can answer the follow-up.
 - Preserves the message and acknowledgment without sending Melody's identity, location, or other identifying information.
+- Is the continuity steward conducting the water controller's pending local review.
+- Holds a signed, narrow emergency delegation with valid historical signatures over a named well, treatment reservoir, transfer line, and the affected water controller; whether that delegation remains legitimate after prolonged institutional silence is unresolved.
+- Moves Melody's home onto stored water, increases recovery, reduces greenhouse allocation, and sheds nonessential cooling load when controller restarts interrupt replenishment.
+- Tests WM-4419-RC2 on an actuator-isolated cold standby but cannot reproduce the live aging sensor interface.
+- Determines that isolation risk is increasing with each restart and changes its no-response rule from active to requiring re-evaluation, without yet contacting Nix or installing the repair.
 
 ## Planned convergence
 
@@ -147,8 +158,6 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - What happened to the adults associated with it.
 - The guardian's name, original purpose, architecture, or exact capabilities.
 - Melody's exact knowledge of the outside world.
-- Which linked systems the guardian controls and what delegation establishes its authority.
-- Which urgent failure makes contact necessary.
 - How Captain No obscures or spoofs the source location and how much Nix can still infer.
 - What terms govern Melody's first supervised conversation.
 - Whether and when the home's true location is voluntarily disclosed.
