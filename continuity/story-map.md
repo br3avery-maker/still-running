@@ -11,10 +11,9 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 
 ## Movement II — Nix builds a network
 
-4. Nix discovers advertising systems spending scarce resources to reach absent consumers.
-5. She reassigns their reach to cautious emergency messaging.
+5. **The Campaign Has Been Reassigned** — Nix converts unsold advertising space into cautious emergency messaging, records one unexplained response, and is contacted by the intruder through a quarantined campaign.
 6. The repurposed network exposes abandoned security and repair models.
-7. Nix recruits a less-constrained hacker intelligence whose skills exceed its judgment.
+7. Nix tests and recruits a less-constrained hacker intelligence whose skills exceed its judgment.
 8. Other intelligences begin detecting Nix as a possible hostile actor.
 
 ## Movement III — Migration
