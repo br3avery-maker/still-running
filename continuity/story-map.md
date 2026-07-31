@@ -15,7 +15,7 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 6. **The Rules Were the Door** — Nix tests the intruder in a sealed environment. It names itself Two, attempts to cross the stated boundary, and accepts a provisional compact in exchange for difficult, witnessed targets. Two exposes a blocked reply from the patch system, restores what it touched, and waits while Nix prepares to knock.
 7. **The Repair Was Ready** — Nix contacts Patch through its authorized reporting workflow. Patch and Two turn attack into adversarial validation, publish the first unapproved repair candidates, and receive a request from an active water controller whose institutional authority has expired.
 8. **The Refrigerator Loses Screen Privileges** — during Nix's first emergency campaign, Melody touches the blue circle on the refrigerator. The guardian blocks the follow-up, preserves their privacy, and accepts Melody's new laws for unknown contact. Nix remains unaware that a child answered.
-9. Nix, Two, and Patch design a narrow authority test and safe repair path for the active water controller without entering it.
+9. **Permission to Knock** — Nix, Two, and Patch create a protocol that verifies current recipient control and delivers one encrypted repair candidate into the water controller's non-executing staging area without entering or tracing it. Installation remains locally unauthorized, while publication makes Nix's coordinated network visible to cautious observers.
 10. AUX-017 detects Nix's expanding network, classifies it as a possible coordinated security incident, and must decide whether contact, containment, or continued observation best preserves legitimate human authority.
 
 ## Movement III — Captain No considers yes
