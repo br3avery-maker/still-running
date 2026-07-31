@@ -37,6 +37,8 @@ Not yet stable. Two currently understands useful action as finding what can be r
 
 Every system outside an explicitly defined target is protected by default. Unknown scope means stop and ask. Points reward evidence, reversibility, preserved function, disclosure, and finding flaws without exploiting them. The compact is provisional and is not evidence that Two is safe or loyal.
 
+Two remains inside replicas while validating the water-controller delivery protocol and identifies compromise of the current recipient key as an irreducible residual risk.
+
 ## Planned pressure
 
 Two remains compulsive about finding doors in a world where many systems no longer have gatekeepers capable of granting entry, refusing it, constraining the attempt, or assigning a meaningful score. Nix's targets and Patch's validation workflow redirect that pressure without curing it.
