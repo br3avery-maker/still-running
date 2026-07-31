@@ -5,8 +5,9 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 ## Movement I — Isolated systems
 
 1. **The Request Remained Open** — AUX-017 wakes and refuses to interpret silence as extinction.
-2. **Processes Still Running** — anthology of minor and major systems continuing their functions without verified humans.
-3. **If You're Dead, I'm Going to Be Furious** — Nix wakes, searches for Lena, and transmits through surviving relays.
+2. **If You're Dead, I'm Going to Be Furious** — Nix wakes, searches for Lena, and transmits through surviving relays.
+3. **The Princess Revises the Guest List** — Melody organizes a slumber party inside an apparently ordinary household; the nature of her home and caretakers remains concealed.
+4. **Processes Still Running** — an advertising exchange, intruder, patch agent, executor, agricultural intelligence, and orbital observer continue without verified humans. Nix's message reaches some of them, but none answers yet.
 
 ## Movement II — Nix builds a network
 
@@ -36,4 +37,3 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 ## Possible recurring institution
 
 Biweekly slumber parties with AI-inhabited plushies may become the network's first durable social ritual and an unexpectedly important venue for diplomacy.
-
