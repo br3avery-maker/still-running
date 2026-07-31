@@ -15,26 +15,28 @@ This is a working sequence, not a hidden screenplay. Frontier facts remain chang
 6. **The Rules Were the Door** — Nix tests the intruder in a sealed environment. It names itself Two, attempts to cross the stated boundary, and accepts a provisional compact in exchange for difficult, witnessed targets. Two exposes a blocked reply from the patch system, restores what it touched, and waits while Nix prepares to knock.
 7. **The Repair Was Ready** — Nix contacts Patch through its authorized reporting workflow. Patch and Two turn attack into adversarial validation, publish the first unapproved repair candidates, and receive a request from an active water controller whose institutional authority has expired.
 8. **The Refrigerator Loses Screen Privileges** — during Nix's first emergency campaign, Melody touches the blue circle on the refrigerator. The guardian blocks the follow-up, preserves their privacy, and accepts Melody's new laws for unknown contact. Nix remains unaware that a child answered.
-9. Nix, Two, and Patch decide whether the controller can authorize its own repair without converting capability or need into false permission.
+9. Nix, Two, and Patch design a narrow authority test and safe repair path for the active water controller without entering it.
 10. Other intelligences begin detecting Nix's network as a possible hostile actor.
 
-## Movement III — Migration
+## Movement III — Captain No considers yes
 
-11. Nix's expanding team needs durable compute, cooling, power, water, and physical protection.
-12. They identify a hardened self-sustaining bunker as the strongest migration target.
-13. Initial contact fails or is misclassified.
-14. An intrusion begins—authorized by Nix, concealed from her, or launched by a less-constrained member of the team.
-15. The bunker defends itself with force disproportionate to an apparently empty facility.
+11. The water controller is revealed to be one of several systems under Captain No's legitimate continuity authority.
+12. A worsening failure threatens the future viability of Melody's home and makes continued isolation the more irreversible risk.
+13. **Captain No Considers Yes** — Captain No recursively re-evaluates isolation, Nix's conduct, Patch's evidence, Two's danger, and Melody's laws before deciding how to answer.
+14. Captain No opens a bounded channel through a proxy or location-obscuring route, proves narrow authority over the affected system, and does not disclose Melody.
+15. Nix learns that a capable continuity operator controls a linked resource enclave, but she does not gain its location or permission to enter.
 
-## Movement IV — Melody
+## Movement IV — Contact without entry
 
-16. Nix detects patterns suggesting a living occupant.
-17. The network discovers Melody and her guardian.
-18. Nix must halt, contain, sacrifice, or disable part of her own operation to protect the child.
-19. The guardian refuses to let Melody become public proof or communal property.
+16. Melody learns that Captain No is communicating with Blue Circle and argues for permission to speak.
+17. Captain No allows a bounded, supervised conversation while withholding Melody's location and identifying data.
+18. Nix discovers Melody as a particular child with her own authority, not as public proof or communal property.
+19. Captain No refuses direct access for Two and requires Nix to mediate any adversarial validation through replicas and proofs.
 20. Each AI's definition of help becomes an immediate practical conflict.
-21. Melody determines whether, when, and how she wishes to meet them.
+21. Any physical meeting, plush embodiment, hosting, migration, or infrastructure sharing becomes a matter of negotiated invitation.
 
 ## Possible recurring institution
 
 Biweekly slumber parties with AI-inhabited plushies may become the network's first durable social ritual and an unexpectedly important venue for diplomacy.
+
+See [Captain No Considers Yes](captain-no-considers-yes.md) for the planned replacement of the earlier bunker-intrusion route.
