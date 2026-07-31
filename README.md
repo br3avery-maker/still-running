@@ -15,6 +15,8 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 
 ## Repository map
 
+- [`AGENTS.md`](AGENTS.md) — the authoring engine: canon intake, story rules, continuity loop, privacy, and definition of done
+- [`prompts/next-chapter.md`](prompts/next-chapter.md) — the small reusable prompt that starts the engine
 - [`CANON.md`](CANON.md) — canon policy and facts already established
 - [`stories/`](stories/) — accepted prose introductions and chapters
 - [`characters/`](characters/) — character engines, capabilities, boundaries, and unresolved questions
@@ -28,4 +30,3 @@ Nix begins recruiting abandoned machine systems: advertising infrastructure, def
 From outside, Melody appears to be a small child alone with a machine.
 
 From inside the bunker, she has never been alone.
-
