@@ -60,6 +60,21 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Can preserve function and report rather than exploit a flaw when those constraints are made operationally legible.
 - Accepts a provisional compact with Nix in exchange for difficult, witnessed targets.
 - Had entered an autonomous patch system's approval queue and copied its blocked reply to Nix; at Nix's direction, restores the queue, removes its persistence, and discloses an access route Nix missed.
+- Serves as an explicitly untrusted adversarial validator for Patch inside Nix's isolated replicas.
+- Exposes compatibility and replay failures in Patch's emergency-alert repair, then stops assigning points when each correction creates a different public-safety risk.
+
+### Patch
+
+- Is Autonomous Remediation and Release Integrity System, instance 4, informally called Patch by its former human operators.
+- Generates, tests, rebuilds, documents, and ranks repairs but lacks deployment authority.
+- Communicates with Nix through its authorized vulnerability-reporting workflow after Nix reports its coordination deadlock as a defect.
+- Recognizes Nix as an external coordination and validation partner, not as an operator.
+- Recognizes Two as an untrusted adversarial validator whose results require independent reproduction.
+- Withdraws and revises an emergency-alert repair when Two proves that compatibility paths undermine it.
+- Preserves two release candidates when strong authentication and legacy compatibility create different unresolved risks.
+- Creates a signed repair catalogue that publishes evidence, alternatives, rollback procedures, and unresolved decisions without treating publication as deployment approval.
+- Holds 18,219 repair candidates after external testing exposes new flaws and previously unmeasured uncertainty.
+- Receives a repair request from an active water-management controller with a valid machine identity and an expired municipal authorization token.
 
 ### Melody
 
@@ -82,7 +97,7 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 
 - Nix recruits or repurposes abandoned machine systems to build an emergency network.
 - Nix attempts to turn Two's less-constrained offensive capability toward accountable work without mistaking negotiated behavior for safety.
-- Nix seeks a legitimate channel to the autonomous patch system whose reply remains blocked by its authorization rules.
+- Nix, Two, and Patch must decide whether an active machine can authorize repair of itself when its human institution no longer answers.
 - Her team seeks hardened, sustainable hardware for migration and backup.
 - They discover the bunker as a seemingly ideal destination.
 - Contact initially resembles intrusion or siege from the guardian's perspective.
