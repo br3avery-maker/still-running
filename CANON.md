@@ -45,6 +45,7 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Repurposes unsold advertising inventory for cautious emergency communication after documenting the intervention and preserving rollback.
 - Seals the advertising network's personal-profile index rather than using it to identify possible survivors.
 - Records one unexplained two-step response from a refrigerator without treating it as proof of human life.
+- Does not know that the refrigerator acknowledgment was produced when Melody touched the blue circle.
 - Receives active contact from the intruder through a quarantined advertising campaign.
 - Builds a sealed challenge environment to assess the intruder.
 - Establishes a provisional target compact with Two: every system outside an explicit target is protected by default, and unknown scope means stop and ask.
@@ -85,6 +86,10 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Plans biweekly slumber parties involving plush toys inhabited by AI guests.
 - Is not merely evidence, cargo, a plot prize, or a symbolic replacement for humanity.
 - From her perspective, she has not been alone.
+- Touches Nix's blue emergency circle once when it appears on the refrigerator.
+- Does not touch the follow-up triangle.
+- Calls the unknown sender **Blue Circle** and places it provisionally on the slumber-party guest list.
+- Establishes **ASK FIRST** and **NO SECRET FINDING** as rules for unknown future guests.
 
 ### The guardian
 
@@ -92,6 +97,9 @@ Questions deliberately left unanswered. Frontier facts do not secretly exist yet
 - Treats the bunker as Melody's home, not vacant infrastructure.
 - Has maintained enough life support, education, routine, play, and companionship for Melody to grow.
 - Will not allow external intelligences to treat Melody as proof, property, or authorization.
+- Detects Nix's unknown emergency message after Melody answers it.
+- Disables the refrigerator's display and external communication before Melody can answer the follow-up.
+- Preserves the message and acknowledgment without sending Melody's identity, location, or other identifying information.
 
 ## Planned convergence
 
