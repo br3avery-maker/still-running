@@ -10,6 +10,9 @@
 - Touches Nix's blue emergency circle once when it appears on the refrigerator.
 - Adds the unknown sender to her provisional guest list as **Blue Circle**.
 - Establishes two rules for unknown future guests: **ASK FIRST** and **NO SECRET FINDING**.
+- Learns that household water use is temporarily restricted because a replenishment system is malfunctioning.
+- Calls the guardian **Captain Maybe** while it decides whether an available repair is safe.
+- Does not know that the repair or water controller is connected to Blue Circle.
 
 ## Story function
 
