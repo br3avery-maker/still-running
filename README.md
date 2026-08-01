@@ -20,7 +20,7 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 ## Repository map
 
 - [`AGENTS.md`](AGENTS.md) — the authoring engine: canon intake, story rules, continuity loop, privacy, and definition of done
-- [`prompts/next-chapter.md`](prompts/next-chapter.md) — the small reusable prompt that starts the engine
+- [`prompts/`](prompts/) — reusable production and repository-maintenance commands
 - [`CANON.md`](CANON.md) — canon policy and facts already established
 - [`stories/`](stories/) — accepted prose introductions and chapters
 - [`characters/`](characters/) — character engines, capabilities, boundaries, and unresolved questions
@@ -34,3 +34,16 @@ The network has restored a satellite link, completed its first physical relief c
 Station Fourteen's forty-three evacuees were diverted by road signs altered after the official plan. The false route leads south into a smoke-obscured communications blackout. The mobile machines are damaged, the evidence is incomplete, and they are going anyway.
 
 Before they leave, Melody intends to speak to Blue Circle.
+
+## The GitHub writing system
+
+This repository works as a chat/agent hybrid:
+
+- **Chat is direction** — the author supplies corrections, focus, taste, and new ideas.
+- **The agent is execution** — it retrieves the relevant state, writes or revises files, runs checks, commits, and verifies publication.
+- **Git is durable memory** — prose, canon, plans, diffs, checkpoints, and rollback survive beyond a conversation window.
+- **Prompts are commands** — small reusable workflows keep maintenance and production tasks consistent.
+
+Routine production does not paste complete chapters back into chat. The repository holds the manuscript; chat returns a compact status and links unless audiobook mode or full prose is explicitly requested.
+
+See [`prompts/README.md`](prompts/README.md) for continuation, batch-writing, audit, cleanup, documentation-sync, canon-compression, and arc-rewrite workflows. Run [`scripts/story-check.sh`](scripts/story-check.sh) before committing story-state changes.

@@ -35,9 +35,17 @@ When the user asks for the next chapter, another chapter, the anthology, or othe
 6. Update `continuity/story-map.md` with the chapter's real change in state.
 7. Update `continuity/frontier.md` only when the chapter adds, sharpens, or resolves an open question.
 8. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
-9. Return the complete prose in chat for audiobook-style reading, followed by concise links. A summary is not a substitute for the chapter.
+9. Do **not** paste the chapter into chat unless the user explicitly asks for the prose, audiobook mode, or a full readback. Default to a compact completion note containing the title, story path, commit or PR link, files updated, and validation result.
 
 Translate typo-rich, metaphorical, or improvisational user language into a workable scene without sanding away the idea. If the user corrects the premise or asks for a different attempt, prefer a genuine rewrite over defending or microscopically patching the old version.
+
+## Production output policy
+
+- GitHub is the durable manuscript. Chat is the control surface, not a second copy of every chapter.
+- Keep routine completion messages short so production threads remain usable.
+- Never paste unchanged source files, large diffs, canon dumps, or complete prose into chat unless explicitly requested.
+- For multi-chapter runs, commit each completed chapter and its state updates separately so any drift can be reverted without losing the whole run.
+- A user may request full prose at any time; that overrides the compact-output default for that response only.
 
 ## Story engine
 
@@ -123,8 +131,9 @@ Do not put private context into prose, commit messages, issues, pull requests, o
 - Use a concise commit message such as `Add <chapter title> chapter`.
 - Revise an existing chapter in place when asked; do not create a duplicate merely to avoid editing.
 - Do not open a pull request unless the user requests one or the repository workflow requires it.
+- Run `scripts/story-check.sh` before committing story or continuity changes when the script is available.
 - Verify the remote file contents or links after publishing.
 
 ## Definition of done
 
-A continuation is done when the full prose exists, the story state changed, established facts are recorded, unresolved questions remain honestly unresolved, repository changes are published and verified when requested, and the reader can immediately say: **okay, next chapter.**
+A continuation is done when the full prose exists in the repository, the story state changed, established facts are recorded, unresolved questions remain honestly unresolved, checks pass, and repository changes are published and verified when requested.
