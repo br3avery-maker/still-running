@@ -20,7 +20,8 @@
 - South Ridge appears in an old infrastructure appendix as a reserve air-handling site but not in the public evacuation plan; its surface refuge was designed for 120 ordinary respiratory loads.
 - The sign network counted forty-six vehicle-sized objects traveling south and nine returning north after the change. The Station Fourteen bus is now physically present at South Ridge.
 - An unmanaged underground coal-seam fire creates the ridge's persistent smoke; a failed emergency-transmitter amplifier created the broad electrical interference.
-- Whether any of those forty-three people survived is unknown.
+- Lower Gallery Three remained inhabited for years after Intake lost telemetry. Its public records contain fifty-one names, including seven marked **BORN BELOW**, and a final notice records thirty-eight people moving east after coal heat threatened the gallery.
+- At least one current human lives beyond East Bore Gate and identifies Station Fourteen as their mother's shelter. The current population and survival of the original forty-three remain unknown.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -36,6 +37,8 @@
 - Uses that key to extend one field-maintenance session during the water-controller failure.
 - Continues west with part of the supplies and joins the shared network.
 - Reaches South Ridge with its truck, confirms from a human-written bus note that all forty-three evacuees arrived, and changes the open request's destination to Lower Gallery Three.
+- Repackages the relief cargo into two crawler loads, enters Lower Gallery Three, and establishes current human contact through the repurposed mine telephone line at East Bore Gate.
+- Honors the recipient's instruction not to open the gate and asks what to deliver first; the recipient requests filters.
 
 ### Nix
 
@@ -51,6 +54,7 @@
 - Receives notice that a resident of the protected site wants a supervised conversation.
 - Speaks with Melody through the guardian's text relay, learns that Melody calls her Blue Circle, and tells Melody that she is searching for Lena.
 - Rewrites the southern mission's first-contact announcement in her own name and adopts Melody's rules as operational limits: observe route evidence, announce before approaching, and do not search private data or occupied spaces without a response.
+- Does not take over when a current human answers the mine telephone, leaving AUX-017 to identify itself and conduct the delivery contact.
 
 ### Two
 
@@ -63,6 +67,7 @@
 - Finds that evacuation signs were altered after the official plan and that the diverted route led south.
 - Remains with the southern mission after Nix explicitly prohibits personal-device discovery, identity searches, and entry into occupied spaces without a response.
 - Reconstructs the coordinated four-sign funnel from public maintenance and anonymous traffic-count records, then removes its own crossing score after Morrow's hauler is immobilized.
+- Surrenders its private scoreboard channel when passage bandwidth contracts and reconstructs only the visible, dead telemetry splice under Nix's stated target boundary.
 
 ### Patch
 
@@ -74,6 +79,7 @@
 - Uses two sanitized live frames to identify the duplicate-frame failure and produces RC3.
 - Suspends thirty-one lower-severity rebuilds to finish RC3 before the water deadline.
 - RC3 survives live duplicate sensor frames and stabilizes the controller's memory fault.
+- Braces the damaged crawler's leg with salvaged transmitter shielding and designs an analog bridge between the field radio and the repurposed mine telephone line.
 
 ### Aster
 
@@ -92,6 +98,7 @@
 - The hauler performs the manual water-valve operation, is nearly lost in storm runoff, and reaches the northern service shelter with a damaged axle.
 - Morrow braces the damaged axle, leaves two power cells at the service shelter because of the southern grade, and sends the lightened hauler south.
 - The hauler anchors AUX-017's truck across a collapsed mountainside road, breaking its axle brace and losing mobility; it remains at the northern edge of the blackout as a relay and return marker.
+- Adds two low-probability germination packets of dry beans to the underground relief cargo.
 
 ### Melody
 
@@ -136,6 +143,7 @@
 - Admits the forty-three people from Station Fourteen and transfers them to Lower Gallery Three after the surface filters exceed their safe limit on occupancy day nineteen.
 - Loses lower-gallery telemetry six days later and does not know the current respiratory load.
 - Authorizes a survey crawler to disconnect its failed transmitter amplifier, clearing the communications blackout and ending the repeated surface guidance broadcast.
+- Opens and equalizes the pressure passage but cannot sense beyond the telemetry line that Lower Gallery residents repurposed into a powered analog telephone route toward East Bore.
 
 ### The southern mission
 
@@ -149,10 +157,13 @@
 - The crawlers and truck reach South Ridge; a human-written note on the Station Fourteen bus establishes that all forty-three evacuees arrived and went below.
 - A crawler climbs the transmitter mast and disconnects the failed amplifier with Intake's local authorization, restoring external communication.
 - AUX-017's truck cannot fit through the pressure passage. The crawlers and supplies must be prepared for the route to Lower Gallery Three.
+- Patch braces the damaged crawler, and AUX-017 leaves the truck and excess cargo at South Ridge while two crawler loads enter the pressure passage.
+- Physical evidence establishes that Lower Gallery Three supported a named community for years, recorded births and deaths, and was abandoned when coal heat moved toward it.
+- The crawlers stop at the three red marks before East Bore Gate, bridge the active analog telephone line, and contact a current human recipient who requests filters first.
 
 ## Planned directions
 
-- The network prepares the crawlers and relief supplies to search Lower Gallery Three for the forty-three people who arrived at South Ridge.
+- AUX-017 prepares a bounded delivery at East Bore Gate while the network learns what the current human community needs and what relationship it will permit.
 - The southern mission forces damaged digital and physical systems to operate as a society rather than a temporary repair team.
 - Evidence about the catastrophe emerges from action, places, archives, and surviving systems—not from omniscient explanation.
 - Any access to Melody's home remains invited and negotiated; the plot does not stop to litigate that fact repeatedly.
@@ -161,8 +172,8 @@
 
 - What caused the catastrophe or whether it had one cause.
 - What happened to Lena after the evacuation image.
-- Whether the forty-three evacuees survived.
+- Which, if any, of the original forty-three evacuees remain alive and how many people currently live beyond East Bore Gate.
 - Whether Melody is the only surviving human, one of many, or neither conclusion can yet be supported.
 - How Melody entered the protected site or what happened to its intended adults.
 - The guardian's name, original purpose, full architecture, or complete physical reach.
-- What happened in Lower Gallery Three after its telemetry failed.
+- What happened after thirty-eight Lower Gallery residents moved east.

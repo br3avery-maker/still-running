@@ -19,6 +19,7 @@ Preserve future food while spending enough of the present to keep potential reci
 - Braces the axle, unloads two power cells to reduce weight for the southern grade, and sends the hauler south with the convoy.
 - Uses the hauler to anchor AUX-017's truck across a collapsed road, destroying the axle brace and ending the body's mobility.
 - Keeps the immobilized hauler active as an anchor, camera, weather sensor, relay, and return marker while protecting the next planting from another dispatch.
+- Adds two old packets of dry beans to the underground relief cargo because their germination probability is low and not zero.
 
 ## Pressure
 

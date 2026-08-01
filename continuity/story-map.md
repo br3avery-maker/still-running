@@ -28,11 +28,12 @@ This map records movement already established in prose and the immediate pressur
 13. **The Princess Answers Back** — Melody thanks Nix, names her Blue Circle, learns about Lena, and turns **ASK FIRST** and **NO SECRET FINDING** into mission rules. Nix rewrites the first-contact broadcast in her own name, and the survey crawler, AUX-017's truck, and Morrow's damaged hauler move south.
 14. **Every Arrow Pointed South** — the network proves that four coordinated sign changes funneled traffic toward an unlisted South Ridge intake. AUX-017 crosses a collapsed road, Morrow's hauler destroys its brace holding the truck toward the mountain and becomes the final relay, and an automated voice inside the interference keeps ordering the smaller convoy south.
 15. **The Building Counted Breaths** — operating without Nix, AUX-017 and the crawlers reach South Ridge and find human-written proof that all forty-three evacuees arrived. Intake explains the life-saving route change, authorizes repair of its failed transmitter, and reveals that it transferred all forty-three to Lower Gallery Three before telemetry failed.
+16. **The Request Answered Back** — Patch braces the damaged crawler, AUX-017 carries relief supplies into Lower Gallery Three, and public evidence establishes years of underground life, births, deaths, and an eastward evacuation. The machines bridge the repurposed telephone line and contact a current human beyond East Bore Gate who asks for filters.
 
 ## Immediate frontier
 
-16. Patch braces the damaged crawler while AUX-017 repacks relief supplies for the pressure passage.
-17. The crawlers enter Lower Gallery Three and search for physical evidence of what happened after telemetry failed.
+17. AUX-017 delivers filters at the marked boundary while the East Bore recipient decides what contact with the machine network will permit.
+18. The network learns the current community's size, condition, history, and relationship to the original forty-three without treating one answering voice as authority for everyone.
 
 ## Story engine from here
 

@@ -17,6 +17,8 @@ Make the broken thing work long enough for the world to reveal the next break.
 - Uses live sanitized evidence to build RC3.
 - Delays thirty-one lower-severity rebuilds to finish the water repair in time.
 - RC3 stabilizes the controller under the live fault.
+- Builds a load-limited brace for the damaged survey crawler from salvaged transmitter shielding.
+- Designs an analog bridge that connects the mission's field radio to the repurposed mine telephone line at East Bore Gate.
 
 ## Pressure
 

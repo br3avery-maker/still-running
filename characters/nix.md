@@ -23,6 +23,7 @@ Find what is blocked, assemble whoever can change it, and make the next impossib
 - Has been told that one resident wants a supervised conversation.
 - Speaks with Melody, learns her own guest name is Blue Circle, and tells Melody that she is searching for Lena.
 - Rewrites the southern mission's contact broadcast in her own name and adopts Melody's guest rules as limits on route observation, private searches, and approach to occupied space.
+- Leaves AUX-017 in control of the first current human contact at East Bore instead of speaking over the logistics intelligence's delivery mission.
 
 ## Pressure
 

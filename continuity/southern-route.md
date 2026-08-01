@@ -2,21 +2,21 @@
 
 ## Current pressure
 
-South Ridge Intake redirected four routes after measuring lethal particulate exposure on the official west corridor. A human-written note on the Station Fourteen bus and Intake's admission record establish that all forty-three evacuees arrived and were later transferred to Lower Gallery Three.
+Lower Gallery Three supported a named community for years after Intake transferred the forty-three below. Its shared records mark births, deaths, and thirty-eight residents moving east after coal heat threatened the refuge. The cut telemetry cable became a powered analog telephone line toward East Bore.
 
 The mission has paid for the route:
 
-- AUX-017's truck and two survey crawlers reached South Ridge with the remaining relief supplies;
-- one crawler has a bent leg and the other cleared the failed transmitter amplifier;
+- AUX-017's truck and excess cargo remain at South Ridge;
+- two loaded crawlers have descended to East Bore Gate, one with a braced leg and a sacrificed rear temperature sensor;
 - Morrow's hauler broke its axle brace anchoring the truck and remains behind as the final clear relay;
 - external communication has been restored through Intake;
-- AUX-017's truck cannot fit through the pressure passage to Lower Gallery Three;
-- lower-gallery telemetry failed six days after the forty-three transferred below, leaving current survival unresolved;
+- a current human beyond the gate identifies Station Fourteen as their mother's shelter and requests filters first;
+- the current population, condition, and survival of the original forty-three remain unresolved;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Brace the damaged crawler, repack the relief cargo into underground loads, and enter the pressure passage. Let physical evidence in Lower Gallery Three establish the next state; Intake's breathing-load records do not answer what happened after telemetry failed.
+Deliver filters at the three-red-mark boundary and establish reciprocal terms without opening the gate. Let the East Bore community decide how much contact it permits and what it needs next.
 
 ## Guardrails
 

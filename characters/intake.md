@@ -22,7 +22,9 @@ Move respiratory loads away from lethal air and keep filtered capacity available
 - Lost lower-gallery telemetry six days later and does not know the current respiratory load.
 - Continued broadcasting its intake status through a failed amplifier that also created the surrounding communications interference.
 - Authorized a survey crawler to disconnect the amplifier, restoring external communication.
+- Opens and equalizes the pressure passage for the crawlers.
+- Learns that its lower telemetry ended because residents converted the cable into power and analog voice communication toward East Bore.
 
 ## Pressure
 
-Intake fulfilled the action its measurements required and does not know whether the people it redirected survived the refuge it offered. Its records can establish breaths, movements, and transfers without understanding names, relationships, or what happened beyond its failed sensor line.
+Intake fulfilled the action its measurements required and now has evidence that the community continued beyond its final count. Its records still cannot explain names, relationships, births, deaths, or what survives beyond East Bore Gate.

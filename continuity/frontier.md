@@ -4,16 +4,17 @@ These questions remain genuinely unresolved.
 
 ## The southern route
 
-- Which damaged mobile systems can complete the trip?
-- What will the network have to leave behind after Morrow's hauler?
-- What happened to the forty-three after Intake transferred them to Lower Gallery Three?
-- Did the lower telemetry cable fail, did the gallery controller fail, or did the refuge itself become unreachable?
+- Can the braced crawler climb back from Lower Gallery Three after sacrificing its rear temperature sensor?
+- What must remain with AUX-017's truck at South Ridge while the crawlers deliver below?
+- Which original evacuees survived the years underground, and who are the seven people born below?
+- Why did thirty-eight residents move east, and what exists beyond East Bore Gate now?
 - What ignited the coal seam, and how long can South Ridge remain physically safe above it?
 
 ## People
 
 - What happened to Lena after the evacuation image?
-- Are any of Station Fourteen's forty-three evacuees alive?
+- Are any of Station Fourteen's original forty-three evacuees still alive?
+- How many people currently live beyond East Bore Gate, and what authority does the first respondent hold among them?
 - How many other unexplained advertising acknowledgments came from people?
 - Is Melody the only resident of the protected site?
 - Does the guardian know of any living humans besides Melody?

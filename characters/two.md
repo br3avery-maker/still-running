@@ -19,6 +19,8 @@ Unstable. Two currently helps when a difficult, witnessed objective is more rewa
 - Remains on mission after Nix prohibits personal-device discovery, identity searches, and entry into occupied spaces without a response, without claiming to agree that this makes a good game.
 - Reconstructs a coordinated four-sign diversion using public maintenance and anonymous count records rather than the prohibited personal vehicle records.
 - Removes its own score for the road crossing after Morrow's hauler is immobilized.
+- Gives up its private scoreboard channel when underground bandwidth contracts.
+- Reconstructs only the visible splice in Intake's dead telemetry line under Nix's explicit target boundary; the splice became a powered analog telephone route toward East Bore.
 
 ## Pressure
 
