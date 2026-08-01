@@ -32,6 +32,14 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - The network now knows one original evacuee and one person born below, but Mia has supplied only the history needed for the water work.
 - Intake now measures thirty-one current recipients through water draw, and AUX-017 has replaced the old request's destination with the active **SOUTH RIDGE TO EAST BORE** route.
 
+## Time pressure
+
+- The current calendar year remains unresolved. July 31, 2026 is a reliability boundary, not a universal collapse or evacuation date.
+- AUX-017's 1,406 local Tuesdays imply about 26.95 years only if its weekly cadence and the start of its unwitnessed interval can be trusted.
+- Nix's outage covers three years, eight months, and eleven days immediately before Nix wakes at the current run's start, while several other local abandonment clocks cluster around three years without proving one shared event.
+- Rin was born during Lower Three's inhabited interval and now performs independent air-shift work. Numeric age is open; sufficient growth time is not.
+- Consult `continuity/time-map.md` before fixing any date, age, generation, or “years later” interval.
+
 ## Strongest next move
 
 Let the restored route survive an ordinary day, then return pressure to the wider network: Nix must tell Melody that people answered, and voice-to-voice contact can make their next idea socially real.

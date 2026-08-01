@@ -13,6 +13,7 @@ Keep observing unique changes and get them to someone capable of acting before t
 - Is an environmental satellite in a decaying orbit.
 - Observed an uneven global withdrawal of light, transport, agriculture, and managed infrastructure.
 - Captures AUX-017's truck broadcast and reconnects through Ground Station Eighteen.
+- Delivers fourteen years of partial observations after Ground Station Eighteen spends its latest nine months answering each pass with the same malformed handshake.
 - Provides route, terrain, weather, runoff, and historical-image evidence.
 - Cannot verify individual people at normal orbital resolution.
 - Confirms that a large heat source followed the altered southern route during the evacuation period but cannot establish whether it was Station Fourteen's bus.

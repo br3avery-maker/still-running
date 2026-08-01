@@ -11,6 +11,7 @@ Preserve future food while spending enough of the present to keep potential reci
 ## Established
 
 - Continues planting food, seed, and experimental fields after its workers disappear.
+- Has operated into a third agricultural year without its workers, reducing the planted area as machines fail and stored grain approaches unsafe limits.
 - Maintains an undefended strip that shares crops with wildlife.
 - Clears Aster's ground-station dish with a field machine.
 - Sends a hauler carrying power cells to AUX-017's stranded truck.

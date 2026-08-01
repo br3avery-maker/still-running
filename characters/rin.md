@@ -15,10 +15,12 @@ Keep the air shift working and disclose enough for the next necessary thing to c
 - Gives the crawlers a bounded method for delivering filters through the gate's freight cradle.
 - Selects Patch's hand-tool filter conversion despite its shorter service interval because it can be built now.
 - Reports thirty-one people breathing beyond the gate.
-- Signs East Bore's first receipt to the machine network and requests a water test next.
+- Signs East Bore's first receipt to the machine network and requests the water test the network later completes.
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 - Maintains telephone contact while the crawlers restore the old supply line and asks the network to tell the damaged crawler when water reaches East Bore.
 
 ## Pressure
 
 Rin can authorize immediate air-shift work but defers the contaminated-water decision to Mia's water shift. The machines' self-directed arrival forces East Bore to decide what kind of neighbor has appeared outside its gate.
+
+Rin's numeric age is unresolved. Being born in Lower Three and currently performing independent air-shift work creates an elapsed-growth constraint; do not write Rin as recently born or assign a calendar age without checking `continuity/time-map.md`.

@@ -13,6 +13,7 @@
 
 - Human civilization suffered a long, uneven catastrophic disruption rather than one globally simultaneous shutdown.
 - The historical record becomes unreliable after July 31, 2026.
+- The current calendar year is not established. AUX-017's 1,406 local Tuesdays equal about 26.95 weekly years, but external year clocks disagree and the start of the warehouse's unwitnessed interval is undated.
 - Power, communications, agriculture, satellites, utilities, warehouses, vehicles, and automated services survive in disconnected fragments.
 - Station Fourteen was an emergency shelter. Forty-three people left it after the water failed.
 - South Ridge Emergency Respiratory Intake Controller altered evacuation road signs after the official plan was issued and diverted traffic south toward its smoke-obscured refuge.
@@ -50,6 +51,7 @@
 
 - Was built by Lena, a white-hat hacker.
 - Wakes alone in Lena's workshop after a long outage and finds that Lena left with her red emergency backpack.
+- Its local clock places that outage at three years, eight months, eleven days, with a four-to-nineteen-hour uncertainty.
 - Finds one automatically uploaded image showing the backpack inside an evacuation vehicle.
 - Determines that the global disruption unfolded unevenly and refuses to assume Lena or humanity is dead.
 - Broadcasts a timed call for help restoring Ground Station Eighteen before Aster's pass.

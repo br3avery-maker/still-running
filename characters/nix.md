@@ -15,6 +15,7 @@ Find what is blocked, assemble whoever can change it, and make the next impossib
 ## Established
 
 - Wakes alone in Lena's workshop and finds evidence Lena left during an evacuation.
+- Measures her preceding outage as three years, eight months, eleven days, with four-to-nineteen hours of clock uncertainty.
 - Discovers that the global disruption unfolded unevenly.
 - Calls active machines together to restore Aster's ground link.
 - Repurposes surviving advertising and botnet infrastructure for emergency communication.
