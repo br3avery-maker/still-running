@@ -4,12 +4,13 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Where the story is
 
-- A survey crawler leads AUX-017's truck and Morrow's braced hauler south from the guardian's service shelter; the second survey crawler rides in the truck.
-- Morrow left two power cells at the shelter because the damaged axle cannot safely carry its original load over the archived southern grade.
-- The convoy carries food, filters, power, climbing cable, respiratory equipment, and the guardian's current southern-route map.
+- AUX-017's truck and two survey crawlers have crossed a collapsed mountainside road into the South Ridge interference zone with food, filters, power, climbing cable, and respiratory equipment.
+- One crawler has a bent leg; the other is carrying cargo unloaded for the crossing.
+- Morrow's hauler destroyed its axle brace while holding the truck toward the mountain. It is immobilized north of the gap as the last clear relay and return marker.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
-- Station Fourteen's message says forty-three evacuees moved west after the water failed. Two proved the official signs were later altered to divert that route south.
-- The lead crawler is broadcasting Nix's first-contact message into a persistent smoke-obscured communications blackout. No one has answered.
+- Four coordinated sign changes promised clean air, water, and medical care at South Ridge Emergency Intake, an air-handling site absent from the public evacuation plan.
+- Anonymous counts recorded forty-six vehicles south, nine returning north, and one bus-length object; Aster confirms a large heat source followed the route without identifying it.
+- Broad electrical interference now blocks open frequencies. An automated voice inside it repeats **INTAKE OPEN. CAPACITY 120. CONTINUE SOUTH.**
 
 ## Relationship pressure
 
@@ -21,7 +22,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Reconstruct the altered-sign route while the convoy physically follows it. Make the first road obstacle spend equipment, power, or trust, and let route evidence narrow what the sign-alterer intended without confirming whether the forty-three survived.
+Enter South Ridge before interference severs coordination completely. Discover what creates the blackout and what the intake was built or repurposed to receive, using physical evidence rather than a convenient confession; do not confirm the forty-three without finding human evidence.
 
 ## Do not stall here
 

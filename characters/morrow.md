@@ -17,7 +17,9 @@ Preserve future food while spending enough of the present to keep potential reci
 - Performs the manual water-valve operation.
 - The hauler survives storm runoff with a damaged axle and reaches the northern service shelter.
 - Braces the axle, unloads two power cells to reduce weight for the southern grade, and sends the hauler south with the convoy.
+- Uses the hauler to anchor AUX-017's truck across a collapsed road, destroying the axle brace and ending the body's mobility.
+- Keeps the immobilized hauler active as an anchor, camera, weather sensor, relay, and return marker while protecting the next planting from another dispatch.
 
 ## Pressure
 
-The southern journey needs Morrow's power cells, food, and machines. Every resource spent searching is a resource not used for the next planting.
+The southern mission has consumed Morrow's only nearby moving body. The farm continues, but Morrow can now observe and relay from the blackout edge without physically touching what happens farther south.

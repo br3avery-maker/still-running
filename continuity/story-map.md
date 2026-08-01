@@ -26,10 +26,10 @@ This map records movement already established in prose and the immediate pressur
 ## Movement IV — South into smoke
 
 13. **The Princess Answers Back** — Melody thanks Nix, names her Blue Circle, learns about Lena, and turns **ASK FIRST** and **NO SECRET FINDING** into mission rules. Nix rewrites the first-contact broadcast in her own name, and the survey crawler, AUX-017's truck, and Morrow's damaged hauler move south.
+14. **Every Arrow Pointed South** — the network proves that four coordinated sign changes funneled traffic toward an unlisted South Ridge intake. AUX-017 crosses a collapsed road, Morrow's hauler destroys its brace holding the truck toward the mountain and becomes the final relay, and an automated voice inside the interference keeps ordering the smaller convoy south.
 
 ## Immediate frontier
 
-14. Two, AUX-017, Aster, Morrow, and Nix reconstruct the false-sign route toward the communications blackout.
 15. The mobile team travels south with damaged equipment, finite power, and no guarantee that the people they seek are alive or friendly.
 16. The network discovers what created the blackout and why someone wanted evacuees sent into it.
 

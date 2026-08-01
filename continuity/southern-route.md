@@ -2,22 +2,20 @@
 
 ## Current pressure
 
-Station Fourteen's forty-three evacuees left a message saying they moved west after the water failed. Two recovered the official traffic schedule and proved that road signs were altered after the plan was issued. The false route led south toward a communications blackout hidden beneath persistent smoke in Aster's available imagery.
+Four coordinated sign changes promised clean air, water, and medical care at South Ridge Emergency Intake. The site appears only as a reserve air-handling facility in an old infrastructure appendix. Anonymous traffic counts and Aster's historical heat imagery support a substantial southbound movement, possibly including Station Fourteen's bus, without proving who arrived.
 
-The machines nearest the route are damaged:
+The mission has paid for the route:
 
-- AUX-017's truck has spent much of its original charge and carries remaining relief supplies;
-- Morrow's hauler has a braced axle and overheated pruning arm;
-- the inspection drone has exceeded its rated load;
-- the northern service shelter contains two charged survey crawlers, climbing cable, filters, replacement cells, and a current maintenance map;
-- Aster's orbit continues to decay;
-- the guardian has prohibited deviation west but has offered the southern map and equipment.
+- AUX-017's truck and two survey crawlers crossed a collapsed drainage shelf with the remaining relief supplies;
+- one crawler bent a leg and the other carries crossing cargo;
+- Morrow's hauler broke its axle brace anchoring the truck and remains behind as the final clear relay;
+- broad electrical interference fills the road beyond Morrow;
+- an automated voice inside the interference continues ordering traffic toward South Ridge;
+- Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-The next chapter should begin with Melody's supervised conversation with Nix while the machines prepare to leave. The conversation must change the mission or the relationship; it is not merely a cute reveal.
-
-After contact, move physically south. Let evidence arrive through terrain, damaged equipment, altered signs, abandoned shelters, recordings, and systems that still defend or repeat old instructions.
+Enter South Ridge before interference severs the last usable coordination path. Discover what physically creates the blackout and what the intake was built or repurposed to receive. Let the smaller convoy solve the approach with damaged bodies and finite cargo; do not let an archive or villain speech answer everything.
 
 ## Guardrails
 

@@ -15,6 +15,7 @@ Keep observing unique changes and get them to someone capable of acting before t
 - Captures AUX-017's truck broadcast and reconnects through Ground Station Eighteen.
 - Provides route, terrain, weather, runoff, and historical-image evidence.
 - Cannot verify individual people at normal orbital resolution.
+- Confirms that a large heat source followed the altered southern route during the evacuation period but cannot establish whether it was Station Fourteen's bus.
 
 ## Pressure
 

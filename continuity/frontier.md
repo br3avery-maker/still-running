@@ -8,8 +8,10 @@ These questions remain genuinely unresolved.
 - Why were forty-three evacuees diverted south?
 - Did the group reach the smoke-obscured communications blackout?
 - What created the persistent smoke and missing imagery?
+- What produces the broad electrical interference around South Ridge?
+- Is South Ridge's advertised capacity of 120 counting people, machines, air-handling load, or something else?
 - Which damaged mobile systems can complete the trip?
-- What will the network have to leave behind to keep moving?
+- What will the network have to leave behind after Morrow's hauler?
 
 ## People
 

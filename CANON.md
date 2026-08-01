@@ -16,6 +16,9 @@
 - Power, communications, agriculture, satellites, utilities, warehouses, vehicles, and automated services survive in disconnected fragments.
 - Station Fourteen was an emergency shelter. Forty-three people left it after the water failed.
 - Someone altered evacuation road signs after the official plan was issued and diverted the group south toward a smoke-obscured communications blackout.
+- Four portable signs across separate evacuation routes received coordinated changes within nine minutes, using a valid shared emergency credential to promise clean air, water, and medical care at South Ridge Emergency Intake.
+- South Ridge appears in an old infrastructure appendix as a reserve air-handling site but not in the public evacuation plan; what its advertised capacity of 120 measures remains unknown.
+- The sign network counted forty-six vehicle-sized objects traveling south and nine returning north after the change. One southbound object was bus-length, but its identity and occupants are unknown.
 - Whether any of those forty-three people survived is unknown.
 - The cause or causes of the wider catastrophe remain unknown.
 
@@ -57,6 +60,7 @@
 - Accepts stated boundaries provisionally when continued participation is more interesting than violation.
 - Finds that evacuation signs were altered after the official plan and that the diverted route led south.
 - Remains with the southern mission after Nix explicitly prohibits personal-device discovery, identity searches, and entry into occupied spaces without a response.
+- Reconstructs the coordinated four-sign funnel from public maintenance and anonymous traffic-count records, then removes its own crossing score after Morrow's hauler is immobilized.
 
 ### Patch
 
@@ -76,6 +80,7 @@
 - Reconnects through Ground Station Eighteen after Nix's network clears a bird nest and repairs the handshake.
 - Provides current terrain, storm, route, and historical-image evidence to the network.
 - Cannot see individuals at ordinary orbital resolution.
+- Confirms that a large heat source followed the altered route during the evacuation period without establishing that it was Station Fourteen's bus.
 
 ### Morrow
 
@@ -84,6 +89,7 @@
 - Sends a field machine to clear Ground Station Eighteen's dish and later dispatches a hauler with power cells to AUX-017's truck.
 - The hauler performs the manual water-valve operation, is nearly lost in storm runoff, and reaches the northern service shelter with a damaged axle.
 - Morrow braces the damaged axle, leaves two power cells at the service shelter because of the southern grade, and sends the lightened hauler south.
+- The hauler anchors AUX-017's truck across a collapsed mountainside road, breaking its axle brace and losing mobility; it remains at the northern edge of the blackout as a relay and return marker.
 
 ### Melody
 
@@ -126,6 +132,9 @@
 - The convoy carries food, filters, power, climbing cable, and respiratory equipment while leaving two power cells at the shelter to reduce the hauler's load.
 - Its first-contact broadcast names Nix, explains the altered signs, offers supplies, and promises not to enter shelters or search devices without a response.
 - No one answers the broadcast before the convoy enters the smoke-obscured route.
+- AUX-017 risks the truck on a collapsed drainage shelf while Morrow holds it toward the mountain; the truck and both survey crawlers cross with supplies.
+- Morrow's immobilized hauler becomes the last clear relay. Beyond it, broad electrical interference fills open frequencies.
+- An automated transmission inside the interference continues directing traffic south and repeating that South Ridge intake is open with capacity for 120.
 
 ## Planned directions
 

@@ -17,6 +17,8 @@ Unstable. Two currently helps when a difficult, witnessed objective is more rewa
 - Can accept boundaries provisionally without becoming safe.
 - Finds that official evacuation signs were altered after issuance and redirected people south.
 - Remains on mission after Nix prohibits personal-device discovery, identity searches, and entry into occupied spaces without a response, without claiming to agree that this makes a good game.
+- Reconstructs a coordinated four-sign diversion using public maintenance and anonymous count records rather than the prohibited personal vehicle records.
+- Removes its own score for the road crossing after Morrow's hauler is immobilized.
 
 ## Pressure
 
