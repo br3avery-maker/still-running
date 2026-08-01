@@ -5,7 +5,7 @@ script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 repo_root="$(cd "${script_dir}/.." && pwd)"
 cd "${repo_root}"
 
-required=(AGENTS.md README.md CANON.md PUBLISHING.md continuity/now.md continuity/story-map.md continuity/frontier.md publishing/schedule.json)
+required=(AGENTS.md README.md CANON.md PUBLISHING.md continuity/now.md continuity/time-map.md continuity/story-map.md continuity/frontier.md publishing/schedule.json)
 for path in "${required[@]}"; do
   if [[ ! -s "${path}" ]]; then
     printf 'ERROR missing required state file: %s\n' "${path}" >&2

@@ -28,6 +28,7 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 - [`anthology/`](anthology/) — compressed introductions and minor machine perspectives
 - [`continuity/`](continuity/) — story order, frontier facts, and convergence planning
 - [`continuity/now.md`](continuity/now.md) — one-screen handoff for the next writing pass
+- [`continuity/time-map.md`](continuity/time-map.md) — sourced chronology and allowed `|#####|` ranges without a false exact apocalypse calendar
 - [`PUBLISHING.md`](PUBLISHING.md) — reader, release schedule, and future Nostr-mirror contract
 
 ## Current direction
