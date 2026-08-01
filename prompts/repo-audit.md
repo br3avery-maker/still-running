@@ -10,6 +10,7 @@ Inspect:
 - established facts accidentally presented as planned, and planned ideas accidentally presented as canon;
 - stale links, obsolete planning files, abandoned branches of story logic, duplicated instructions, and redundant context;
 - missing character or capability records needed for the next chapter;
+- timestamp-shaped clues that fall outside `continuity/time-map.md`, incompatible age or elapsed-time ranges, and local system clocks accidentally treated as one global date;
 - repeated scene engines, pacing stalls, unresolved contradictions, and anything that is part of the thing that killed the plot;
 - places where compressed continuity lets the editor assume facts, relationships, chronology, or callbacks the prose has not yet taught a first-time reader; distinguish those gaps from intentional mystery, tension, and foreshadowing;
 - repository structure or workflow problems that waste agent context or production time.
@@ -18,7 +19,7 @@ Return a compact audit with:
 
 1. current story frontier in one paragraph;
 2. blocking contradictions or breakage;
-3. the five highest-value fixes in priority order;
+3. the five highest-value fixes in priority order, including chronology repair when needed;
 4. exact files each fix would touch;
 5. a recommendation: continue, sync docs, compress canon, clean repository, or rewrite an arc.
 
