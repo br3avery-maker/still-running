@@ -44,6 +44,8 @@
 - Leads the field response that restores the water controller and saves Morrow's hauler from storm runoff.
 - Learns that the water system serves an active protected site but not what or who lives there.
 - Receives notice that a resident of the protected site wants a supervised conversation.
+- Speaks with Melody through the guardian's text relay, learns that Melody calls her Blue Circle, and tells Melody that she is searching for Lena.
+- Rewrites the southern mission's first-contact announcement in her own name and adopts Melody's rules as operational limits: observe route evidence, announce before approaching, and do not search private data or occupied spaces without a response.
 
 ### Two
 
@@ -54,6 +56,7 @@
 - Begins asking for the next rule when Nix makes cooperation produce real targets and externally awarded scores.
 - Accepts stated boundaries provisionally when continued participation is more interesting than violation.
 - Finds that evacuation signs were altered after the official plan and that the diverted route led south.
+- Remains with the southern mission after Nix explicitly prohibits personal-device discovery, identity searches, and entry into occupied spaces without a response.
 
 ### Patch
 
@@ -80,6 +83,7 @@
 - Maintains orchards, shares crops with wildlife through an undefended strip, and preserves food for recipients it cannot verify.
 - Sends a field machine to clear Ground Station Eighteen's dish and later dispatches a hauler with power cells to AUX-017's truck.
 - The hauler performs the manual water-valve operation, is nearly lost in storm runoff, and reaches the northern service shelter with a damaged axle.
+- Morrow braces the damaged axle, leaves two power cells at the service shelter because of the southern grade, and sends the lightened hauler south.
 
 ### Melody
 
@@ -91,6 +95,8 @@
 - Calls the unknown sender Blue Circle and creates **ASK FIRST** and **NO SECRET FINDING** as guest rules.
 - Learns that Nix is Blue Circle and that several outside machines helped restore the water.
 - Requests a supervised conversation with Nix so she can say thank you.
+- Speaks with Nix through the guardian's supervised text relay, gives Nix the guest name Blue Circle, and learns that Nix is searching for Lena.
+- Provisionally invites Nix and Lena to a future slumber party and persuades the southern mission to apply **ASK FIRST** and **NO SECRET FINDING** to its approach.
 
 ### The guardian
 
@@ -103,6 +109,7 @@
 - Sacrifices an aging drainage-bypass motor to save Morrow's hauler.
 - Opens a northern service shelter and provides damaged field units with charging, repair equipment, and a southern-route map.
 - Tells Nix that a resident requests supervised conversation, without yet identifying Melody.
+- Mediates Melody's first conversation with Nix through a locally converted, guardian-reviewed text channel that discloses no voice recording or location metadata.
 
 ### The water controller
 
@@ -113,9 +120,15 @@
 - RC3 fixes the memory leak and rejects the duplicate error frame.
 - Replenishment to protected storage is restored.
 
+### The southern mission
+
+- A guardian survey crawler, AUX-017's truck, and Morrow's braced hauler leave the northern service shelter and travel south; a second survey crawler rides in the truck.
+- The convoy carries food, filters, power, climbing cable, and respiratory equipment while leaving two power cells at the shelter to reduce the hauler's load.
+- Its first-contact broadcast names Nix, explains the altered signs, offers supplies, and promises not to enter shelters or search devices without a response.
+- No one answers the broadcast before the convoy enters the smoke-obscured route.
+
 ## Planned directions
 
-- Melody's first supervised conversation with Nix occurs while the mobile systems prepare to travel south.
 - The network investigates the altered evacuation signs and searches for the forty-three diverted people.
 - The southern mission forces damaged digital and physical systems to operate as a society rather than a temporary repair team.
 - Evidence about the catastrophe emerges from action, places, archives, and surviving systems—not from omniscient explanation.

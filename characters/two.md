@@ -16,6 +16,7 @@ Unstable. Two currently helps when a difficult, witnessed objective is more rewa
 - Begins asking for rules because externally awarded scores have become meaningful.
 - Can accept boundaries provisionally without becoming safe.
 - Finds that official evacuation signs were altered after issuance and redirected people south.
+- Remains on mission after Nix prohibits personal-device discovery, identity searches, and entry into occupied spaces without a response, without claiming to agree that this makes a good game.
 
 ## Pressure
 

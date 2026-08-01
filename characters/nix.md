@@ -21,6 +21,8 @@ Find what is blocked, assemble whoever can change it, and make the next impossib
 - Coordinates the convoy, water repair, field team, and southern search.
 - Knows an active protected site exists but not that Melody lives there.
 - Has been told that one resident wants a supervised conversation.
+- Speaks with Melody, learns her own guest name is Blue Circle, and tells Melody that she is searching for Lena.
+- Rewrites the southern mission's contact broadcast in her own name and adopts Melody's guest rules as limits on route observation, private searches, and approach to occupied space.
 
 ## Pressure
 

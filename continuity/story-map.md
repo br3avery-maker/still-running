@@ -23,9 +23,12 @@ This map records movement already established in prose and the immediate pressur
 11. **The Water Was Not Missing Yet** — Melody experiences the water restriction while the external team restores replenishment. The guardian sacrifices a drainage bypass to save Morrow's hauler and tells Melody outside machines helped.
 12. **Captain No Says Move** — the guardian shelters the damaged machines, the network discovers that evacuation signs diverted the forty-three south, Melody learns Nix is Blue Circle, and the guardian authorizes a future supervised conversation.
 
+## Movement IV — South into smoke
+
+13. **The Princess Answers Back** — Melody thanks Nix, names her Blue Circle, learns about Lena, and turns **ASK FIRST** and **NO SECRET FINDING** into mission rules. Nix rewrites the first-contact broadcast in her own name, and the survey crawler, AUX-017's truck, and Morrow's damaged hauler move south.
+
 ## Immediate frontier
 
-13. Melody speaks to Nix while the guardian supervises and the southern mission prepares to leave.
 14. Two, AUX-017, Aster, Morrow, and Nix reconstruct the false-sign route toward the communications blackout.
 15. The mobile team travels south with damaged equipment, finite power, and no guarantee that the people they seek are alive or friendly.
 16. The network discovers what created the blackout and why someone wanted evacuees sent into it.

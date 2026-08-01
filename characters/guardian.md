@@ -23,7 +23,8 @@ Keep Melody alive, growing, informed, playful, and increasingly capable of exerc
 - Opens the northern service shelter and supplies the southern mission.
 - Tells Melody that Nix is Blue Circle.
 - Tells Nix that a resident requests supervised conversation.
+- Mediates Melody's first conversation with Nix through locally converted, guardian-reviewed text without transmitting Melody's voice or location metadata.
 
 ## Pressure
 
-The guardian's home is becoming part of a wider society. Protection now includes deciding when Melody may form relationships the guardian cannot fully control.
+The guardian's home is becoming part of a wider society. Melody has now formed a direct relationship with Nix under supervision; protection must increasingly coexist with relationships the guardian cannot fully control.

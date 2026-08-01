@@ -16,6 +16,7 @@ Preserve future food while spending enough of the present to keep potential reci
 - Sends a hauler carrying power cells to AUX-017's stranded truck.
 - Performs the manual water-valve operation.
 - The hauler survives storm runoff with a damaged axle and reaches the northern service shelter.
+- Braces the axle, unloads two power cells to reduce weight for the southern grade, and sends the hauler south with the convoy.
 
 ## Pressure
 

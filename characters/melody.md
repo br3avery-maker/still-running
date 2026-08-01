@@ -14,6 +14,9 @@ Melody makes every claim about “humanity” confront one particular four-year-
 - Creates **ASK FIRST** and **NO SECRET FINDING** as rules for future guests.
 - Learns that Nix is Blue Circle and that outside machines helped restore the water.
 - Requests a supervised conversation so she can say thank you.
+- Speaks with Nix through a guardian-mediated text relay and assigns her the guest name Blue Circle.
+- Learns that Nix is searching for Lena and provisionally invites them both to a future slumber party.
+- Causes the southern mission to turn **ASK FIRST** and **NO SECRET FINDING** into first-contact rules.
 
 ## Essential treatment
 

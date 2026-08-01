@@ -37,9 +37,7 @@ These questions remain genuinely unresolved.
 
 ## Melody and the guardian
 
-- What terms does the guardian set for Melody's first conversation with Nix?
-- What does Melody choose to say when she finally reaches Blue Circle?
-- What will Nix infer from Melody's speech even without location data?
 - When does Melody's slumber party become physically possible?
 - Which intelligence receives the first plush body?
 - How will the guardian respond when protection and Melody's growing authority conflict again?
+- Does Melody's provisional invitation to Nix and Lena ever become physically possible?
