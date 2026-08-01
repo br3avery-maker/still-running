@@ -14,6 +14,7 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 - **Patch** — a repair system finally spending its backlog on live failures.
 - **Aster** — a falling environmental satellite with the broadest view and no ability to see individual human truth.
 - **Morrow** — an agricultural intelligence providing food, power cells, and the network's strongest current physical machines.
+- **Intake** — a clean-air refuge controller that redirected evacuees by counting survivable breaths rather than names.
 - **Melody** — a four-year-old princess planning biweekly slumber parties with AI-inhabited plushies.
 - **The guardian** — Melody's still-unnamed parent, protector, infrastructure, and home.
 
@@ -31,11 +32,9 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 
 ## Current direction
 
-The network has restored a satellite link, completed its first physical relief convoy, repaired a failing water system, and earned limited cooperation from the guardian without discovering Melody.
+The network has restored a satellite link, completed its first physical relief convoy, repaired a failing water system, and begun a direct relationship between Melody and Nix without disclosing Melody's home.
 
-Station Fourteen's forty-three evacuees were diverted by road signs altered after the official plan. The false route leads south into a smoke-obscured communications blackout. The mobile machines are damaged, the evidence is incomplete, and they are going anyway.
-
-Before they leave, Melody intends to speak to Blue Circle.
+All forty-three Station Fourteen evacuees reached South Ridge after Intake redirected them away from lethal smoke. Intake later transferred them to Lower Gallery Three, where telemetry failed. AUX-017's truck cannot follow; the damaged survey crawlers must carry the search and relief supplies underground.
 
 ## The GitHub writing system
 

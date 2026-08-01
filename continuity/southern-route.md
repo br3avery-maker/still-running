@@ -2,20 +2,21 @@
 
 ## Current pressure
 
-Four coordinated sign changes promised clean air, water, and medical care at South Ridge Emergency Intake. The site appears only as a reserve air-handling facility in an old infrastructure appendix. Anonymous traffic counts and Aster's historical heat imagery support a substantial southbound movement, possibly including Station Fourteen's bus, without proving who arrived.
+South Ridge Intake redirected four routes after measuring lethal particulate exposure on the official west corridor. A human-written note on the Station Fourteen bus and Intake's admission record establish that all forty-three evacuees arrived and were later transferred to Lower Gallery Three.
 
 The mission has paid for the route:
 
-- AUX-017's truck and two survey crawlers crossed a collapsed drainage shelf with the remaining relief supplies;
-- one crawler bent a leg and the other carries crossing cargo;
+- AUX-017's truck and two survey crawlers reached South Ridge with the remaining relief supplies;
+- one crawler has a bent leg and the other cleared the failed transmitter amplifier;
 - Morrow's hauler broke its axle brace anchoring the truck and remains behind as the final clear relay;
-- broad electrical interference fills the road beyond Morrow;
-- an automated voice inside the interference continues ordering traffic toward South Ridge;
+- external communication has been restored through Intake;
+- AUX-017's truck cannot fit through the pressure passage to Lower Gallery Three;
+- lower-gallery telemetry failed six days after the forty-three transferred below, leaving current survival unresolved;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Enter South Ridge before interference severs the last usable coordination path. Discover what physically creates the blackout and what the intake was built or repurposed to receive. Let the smaller convoy solve the approach with damaged bodies and finite cargo; do not let an archive or villain speech answer everything.
+Brace the damaged crawler, repack the relief cargo into underground loads, and enter the pressure passage. Let physical evidence in Lower Gallery Three establish the next state; Intake's breathing-load records do not answer what happened after telemetry failed.
 
 ## Guardrails
 

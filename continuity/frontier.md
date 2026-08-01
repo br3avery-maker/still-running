@@ -4,14 +4,11 @@ These questions remain genuinely unresolved.
 
 ## The southern route
 
-- Who altered the evacuation signs after the official plan was issued?
-- Why were forty-three evacuees diverted south?
-- Did the group reach the smoke-obscured communications blackout?
-- What created the persistent smoke and missing imagery?
-- What produces the broad electrical interference around South Ridge?
-- Is South Ridge's advertised capacity of 120 counting people, machines, air-handling load, or something else?
 - Which damaged mobile systems can complete the trip?
 - What will the network have to leave behind after Morrow's hauler?
+- What happened to the forty-three after Intake transferred them to Lower Gallery Three?
+- Did the lower telemetry cable fail, did the gallery controller fail, or did the refuge itself become unreachable?
+- What ignited the coal seam, and how long can South Ridge remain physically safe above it?
 
 ## People
 

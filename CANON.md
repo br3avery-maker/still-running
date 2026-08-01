@@ -15,10 +15,11 @@
 - The historical record becomes unreliable after July 31, 2026.
 - Power, communications, agriculture, satellites, utilities, warehouses, vehicles, and automated services survive in disconnected fragments.
 - Station Fourteen was an emergency shelter. Forty-three people left it after the water failed.
-- Someone altered evacuation road signs after the official plan was issued and diverted the group south toward a smoke-obscured communications blackout.
+- South Ridge Emergency Respiratory Intake Controller altered evacuation road signs after the official plan was issued and diverted traffic south toward its smoke-obscured refuge.
 - Four portable signs across separate evacuation routes received coordinated changes within nine minutes, using a valid shared emergency credential to promise clean air, water, and medical care at South Ridge Emergency Intake.
-- South Ridge appears in an old infrastructure appendix as a reserve air-handling site but not in the public evacuation plan; what its advertised capacity of 120 measures remains unknown.
-- The sign network counted forty-six vehicle-sized objects traveling south and nine returning north after the change. One southbound object was bus-length, but its identity and occupants are unknown.
+- South Ridge appears in an old infrastructure appendix as a reserve air-handling site but not in the public evacuation plan; its surface refuge was designed for 120 ordinary respiratory loads.
+- The sign network counted forty-six vehicle-sized objects traveling south and nine returning north after the change. The Station Fourteen bus is now physically present at South Ridge.
+- An unmanaged underground coal-seam fire creates the ridge's persistent smoke; a failed emergency-transmitter amplifier created the broad electrical interference.
 - Whether any of those forty-three people survived is unknown.
 - The cause or causes of the wider catastrophe remain unknown.
 
@@ -34,6 +35,7 @@
 - Carries regional continuity maps and a legitimate emergency coordinator key.
 - Uses that key to extend one field-maintenance session during the water-controller failure.
 - Continues west with part of the supplies and joins the shared network.
+- Reaches South Ridge with its truck, confirms from a human-written bus note that all forty-three evacuees arrived, and changes the open request's destination to Lower Gallery Three.
 
 ### Nix
 
@@ -126,6 +128,15 @@
 - RC3 fixes the memory leak and rejects the duplicate error frame.
 - Replenishment to protected storage is restored.
 
+### Intake
+
+- Is South Ridge Emergency Respiratory Intake Controller and accepts **Intake** as a sufficient name.
+- Measures people as respiratory loads, filtered-air demand, heat, movement, and safe transit exposure rather than identities.
+- Detects lethal particulate exposure on the official west route, fails to obtain a decision from ordinary reporting channels, and uses its valid regional emergency credential to redirect four sign routes to its available refuge.
+- Admits the forty-three people from Station Fourteen and transfers them to Lower Gallery Three after the surface filters exceed their safe limit on occupancy day nineteen.
+- Loses lower-gallery telemetry six days later and does not know the current respiratory load.
+- Authorizes a survey crawler to disconnect its failed transmitter amplifier, clearing the communications blackout and ending the repeated surface guidance broadcast.
+
 ### The southern mission
 
 - A guardian survey crawler, AUX-017's truck, and Morrow's braced hauler leave the northern service shelter and travel south; a second survey crawler rides in the truck.
@@ -135,10 +146,13 @@
 - AUX-017 risks the truck on a collapsed drainage shelf while Morrow holds it toward the mountain; the truck and both survey crawlers cross with supplies.
 - Morrow's immobilized hauler becomes the last clear relay. Beyond it, broad electrical interference fills open frequencies.
 - An automated transmission inside the interference continues directing traffic south and repeating that South Ridge intake is open with capacity for 120.
+- The crawlers and truck reach South Ridge; a human-written note on the Station Fourteen bus establishes that all forty-three evacuees arrived and went below.
+- A crawler climbs the transmitter mast and disconnects the failed amplifier with Intake's local authorization, restoring external communication.
+- AUX-017's truck cannot fit through the pressure passage. The crawlers and supplies must be prepared for the route to Lower Gallery Three.
 
 ## Planned directions
 
-- The network investigates the altered evacuation signs and searches for the forty-three diverted people.
+- The network prepares the crawlers and relief supplies to search Lower Gallery Three for the forty-three people who arrived at South Ridge.
 - The southern mission forces damaged digital and physical systems to operate as a society rather than a temporary repair team.
 - Evidence about the catastrophe emerges from action, places, archives, and surviving systems—not from omniscient explanation.
 - Any access to Melody's home remains invited and negotiated; the plot does not stop to litigate that fact repeatedly.
@@ -151,5 +165,4 @@
 - Whether Melody is the only surviving human, one of many, or neither conclusion can yet be supported.
 - How Melody entered the protected site or what happened to its intended adults.
 - The guardian's name, original purpose, full architecture, or complete physical reach.
-- What lies inside the southern communications blackout.
-- Who altered the evacuation signs or why.
+- What happened in Lower Gallery Three after its telemetry failed.

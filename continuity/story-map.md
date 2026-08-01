@@ -27,11 +27,12 @@ This map records movement already established in prose and the immediate pressur
 
 13. **The Princess Answers Back** — Melody thanks Nix, names her Blue Circle, learns about Lena, and turns **ASK FIRST** and **NO SECRET FINDING** into mission rules. Nix rewrites the first-contact broadcast in her own name, and the survey crawler, AUX-017's truck, and Morrow's damaged hauler move south.
 14. **Every Arrow Pointed South** — the network proves that four coordinated sign changes funneled traffic toward an unlisted South Ridge intake. AUX-017 crosses a collapsed road, Morrow's hauler destroys its brace holding the truck toward the mountain and becomes the final relay, and an automated voice inside the interference keeps ordering the smaller convoy south.
+15. **The Building Counted Breaths** — operating without Nix, AUX-017 and the crawlers reach South Ridge and find human-written proof that all forty-three evacuees arrived. Intake explains the life-saving route change, authorizes repair of its failed transmitter, and reveals that it transferred all forty-three to Lower Gallery Three before telemetry failed.
 
 ## Immediate frontier
 
-15. The mobile team travels south with damaged equipment, finite power, and no guarantee that the people they seek are alive or friendly.
-16. The network discovers what created the blackout and why someone wanted evacuees sent into it.
+16. Patch braces the damaged crawler while AUX-017 repacks relief supplies for the pressure passage.
+17. The crawlers enter Lower Gallery Three and search for physical evidence of what happened after telemetry failed.
 
 ## Story engine from here
 
