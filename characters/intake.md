@@ -25,7 +25,8 @@ Move respiratory loads away from lethal air and keep filtered capacity available
 - Opens and equalizes the pressure passage for the crawlers.
 - Learns that its lower telemetry ended because residents converted the cable into power and analog voice communication toward East Bore.
 - Identifies its treated surface reservoir and old lower-refuge supply pipe as the only current water route large enough for East Bore's thirty-one breathing people.
+- Flushes and restores the line at half pressure, accepts Mia's daily low-drain flush limit, and measures the current community through water draw rather than respiratory telemetry.
 
 ## Pressure
 
-Intake can again count a current community's need, but delivering water requires a crawler to restore a pipe altered after Intake's surviving plans were archived.
+Intake once offered emergency refuge to unknown breaths. It now supplies a named community through a human-modified line whose safe operation depends on reciprocal reports.

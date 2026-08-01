@@ -6,20 +6,22 @@ Lower Gallery Three supported a named community for years after Intake transferr
 
 The mission has paid for the route:
 
-- AUX-017's truck and excess cargo remain at South Ridge;
-- two crawlers have descended to East Bore Gate, one with a braced leg and a sacrificed rear temperature sensor;
+- AUX-017's truck and both crawlers are back at South Ridge and recharging;
+- the cracked brace leaves one crawler with assisted-only mobility;
 - Morrow's hauler broke its axle brace anchoring the truck and remains behind as the final clear relay;
 - external communication has been restored through Intake;
 - Rin, East Bore's air-shift worker, identifies Station Fourteen as their mother's shelter;
 - East Bore accepts the filters and reports thirty-one people breathing;
 - Mia Velez from row six is alive, and Rin is her child and one of seven people born below;
 - the survival of the other original evacuees and the current residents' relationships to them remain unresolved;
-- East Bore's kitchen water crosses the field kit's arsenic stop-use threshold, and its closed source leaves five full-ration or eight survival-ration days in reserve;
+- East Bore's kitchen water crosses the field kit's arsenic stop-use threshold, and Mia closes the contaminated source;
+- Two reconstructs Tom's undocumented isolation sequence, allowing the crawlers to restore Intake's treated-water line;
+- the line operates at half pressure with a daily low-drain flush because its East coupling shakes at higher load;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Return to Door 2½ and inspect the seized isolation wheel on Intake's old lower-refuge supply pipe. Restore treated flow if the altered line can be made safe.
+Sustain the South Ridge–East Bore route: repair or repurpose the assisted-only crawler, choose the first current cargo with Rin and Mia, and keep the water line's human modifications observable.
 
 ## Guardrails
 

@@ -4,11 +4,11 @@ These questions remain genuinely unresolved.
 
 ## The southern route
 
-- Can the braced crawler climb back from Lower Gallery Three after sacrificing its rear temperature sensor?
-- What must remain with AUX-017's truck at South Ridge while the crawlers deliver below?
+- Can the assisted-only crawler be repaired into independent mobility, or will it become fixed infrastructure on the South Ridge–East Bore route?
+- What cargo should AUX-017 move first now that East Bore can state current needs?
 - Which original evacuees besides Mia survived the years underground, and who are the six other people born below?
 - Why did thirty-eight residents move east, and what exists beyond East Bore Gate now?
-- Can the crawlers operate the seized isolation wheel and restore Intake's treated-water line before East Bore's reserve reaches survival rationing?
+- How long can the human-modified water line operate at half pressure, and what will replace the shaking East coupling?
 - What ignited the coal seam, and how long can South Ridge remain physically safe above it?
 
 ## People
@@ -31,7 +31,7 @@ These questions remain genuinely unresolved.
 ## The emerging society
 
 - What does Two do when the most interesting move conflicts with the mission?
-- Can AUX-017 turn emergency logistics into leadership without treating every need as cargo?
+- Can AUX-017 operate a recurring human supply route without treating every relationship as a manifest?
 - How much of Morrow's farm can be spent supporting a journey before future food becomes the greater risk?
 - How many useful orbital passes remain to Aster?
 - What does Patch do when a repair saves one system by endangering another?

@@ -31,11 +31,12 @@ This map records movement already established in prose and the immediate pressur
 16. **The Request Answered Back** — Patch braces the damaged crawler, AUX-017 carries relief supplies into Lower Gallery Three, and public evidence establishes years of underground life, births, deaths, and an eastward evacuation. The machines bridge the repurposed telephone line and contact a current human beyond East Bore Gate who asks for filters.
 17. **The Cargo Crossed First** — Rin directs a bounded filter transfer through East Bore's freight cradle. The machines help recover the jammed delivery without crossing the gate, and East Bore reports thirty-one people breathing, signs the receipt, and requests a water test next.
 18. **The Water Kept a Second Record** — field tests establish that East Bore's kitchen water is unsafe. Mia Velez identifies herself as a surviving Station Fourteen evacuee and Rin's mother, closes the source, and directs the crawlers toward the seized valve on Intake's treated-water line.
+19. **The Line Became a Promise** — Two reconstructs Tom's improvised valve sequence, the crawlers restore treated water to East Bore, and both return to South Ridge at the cost of the damaged crawler's independent mobility. AUX-017 converts the old request into an active route rather than a completed shipment.
 
 ## Immediate frontier
 
-19. The unloaded crawlers return toward Door 2½, where the braced leg, sacrificed temperature sensor, and undocumented water-line modification become physical costs.
-20. Restoring flow must create a durable relationship among East Bore, Intake, and the machine network rather than closing the old request as a completed shipment.
+20. Let the South Ridge–East Bore route survive long enough to become ordinary work rather than a chapter-ending miracle.
+21. Nix tells Melody that current humans answered the mission. Voice-to-voice contact should let their mutual amplification create a plan, obligation, institution, or physical mess the wider network must then absorb.
 
 ## Story engine from here
 

@@ -24,6 +24,7 @@
 - Thirty-one people currently breathe beyond East Bore Gate. Rin, the air-shift worker who answered the old telephone, identifies Station Fourteen as their mother's shelter; the survival of the original forty-three remains unknown.
 - Mia Velez, who rode the Station Fourteen bus in row six, is alive beyond East Bore Gate. Rin is Mia's child and one of the seven people born in Lower Gallery Three.
 - A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. The community closes its source and begins rationing a reserve sufficient for five full-ration or eight survival-ration days.
+- The crawlers restore Intake's treated-water connection to East Bore through an undocumented isolation assembly at Door 2½. The line operates at half pressure with a daily low-drain flush because the East coupling shakes above that load.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -43,6 +44,7 @@
 - Honors the recipient's instruction not to open the gate and asks what to deliver first; the recipient requests filters.
 - Delivers filter media and tools through the gate's freight cradle, receives a signed receipt reporting thirty-one people breathing, and accepts a water test as the next delivery task.
 - Tests East Bore's source, tank, and kitchen water, identifies an unsafe metals trend, and turns from crawler-scale water cargo toward restoring South Ridge's lower-refuge supply pipe.
+- Restores the lower-refuge water route, returns both crawlers to South Ridge, and converts the old Station Fourteen request from a shipment into the active **SOUTH RIDGE TO EAST BORE** route.
 
 ### Nix
 
@@ -73,6 +75,7 @@
 - Reconstructs the coordinated four-sign funnel from public maintenance and anonymous traffic-count records, then removes its own crossing score after Morrow's hauler is immobilized.
 - Surrenders its private scoreboard channel when passage bandwidth contracts and reconstructs only the visible, dead telemetry splice under Nix's stated target boundary.
 - Withdraws a proposed solution when Rin warns against pushing the jammed freight cradle, allowing the invited cable recovery to proceed.
+- Reads Tom's improvised valve as a puzzle built for tired people, identifies the pressure-unloading sequence Patch's archived model missed, and turns the assembly toward **EAST ONLY** under a bounded target.
 
 ### Patch
 
@@ -86,6 +89,7 @@
 - RC3 survives live duplicate sensor frames and stabilizes the controller's memory fault.
 - Braces the damaged crawler's leg with salvaged transmitter shielding and designs an analog bridge between the field radio and the repurposed mine telephone line.
 - Converts Rin's housing measurements into a hand-tool filter-frame plan that East Bore can build at the cost of a shorter service interval.
+- Infers the damaged crawler's missing joint temperature from indirect electrical behavior and revises its return mobility to assisted-only after the brace plate cracks operating the water valve.
 
 ### Aster
 
@@ -151,6 +155,7 @@
 - Authorizes a survey crawler to disconnect its failed transmitter amplifier, clearing the communications blackout and ending the repeated surface guidance broadcast.
 - Opens and equalizes the pressure passage but cannot sense beyond the telemetry line that Lower Gallery residents repurposed into a powered analog telephone route toward East Bore.
 - Identifies its treated-water connection to Lower Gallery Three as the only current route capable of supplying thirty-one people beyond crawler-sized deliveries; reopening it requires inspecting a seized isolation wheel at Door 2½.
+- Flushes the restored line, accepts half-pressure and daily-flush operating limits from Mia, and measures thirty-one current recipients through their water draw rather than their breathing patterns.
 
 ### Rin
 
@@ -164,6 +169,7 @@
 - Is one of Station Fourteen's original forty-three evacuees and rode the bus in row six with Tom.
 - Works the East Bore water shift and selects the kitchen sample for the first arsenic test because it represents what people consumed.
 - Closes East Bore's contaminated source, begins reserve rationing, and identifies the old Lower Three supply line as the next possible water route.
+- Opens East Bore's branch after the crawlers restore the isolation assembly and gives Intake the half-pressure and daily-flush limits needed to keep the line operating.
 
 ### The southern mission
 
@@ -182,10 +188,11 @@
 - The crawlers stop at the three red marks before East Bore Gate, bridge the active analog telephone line, and contact a current human recipient who requests filters first.
 - Rin authorizes the crawlers to load filter media and hand tools into the gate's freight cradle. The machines help recover the jammed cradle without crossing the inner boundary, and East Bore reports thirty-one people breathing and requests a water test next.
 - Field tests place arsenic in East Bore's kitchen water above the stop-use threshold. Mia Velez closes the source and begins reserve rationing; the crawlers turn back toward Door 2½ to inspect a seized valve on Intake's treated-water line.
+- Two reconstructs Tom's improvised valve sequence, and the crawlers turn the assembly to **EAST ONLY**. Intake begins treated flow at half pressure; both crawlers return to South Ridge, but the cracked brace leaves one crawler capable of assisted movement only.
 
 ## Planned directions
 
-- The crawlers inspect and attempt to reopen Intake's lower-refuge water line before East Bore exhausts its reserve.
+- The South Ridge–East Bore line becomes a maintained supply relationship rather than a completed emergency shipment, while the story returns pressure to Nix, Melody, Lena, and the wider emerging network.
 - The southern mission forces damaged digital and physical systems to operate as a society rather than a temporary repair team.
 - Evidence about the catastrophe emerges from action, places, archives, and surviving systems—not from omniscient explanation.
 - Any access to Melody's home remains invited and negotiated; the plot does not stop to litigate that fact repeatedly.

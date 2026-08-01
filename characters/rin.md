@@ -17,6 +17,7 @@ Keep the air shift working and disclose enough for the next necessary thing to c
 - Reports thirty-one people breathing beyond the gate.
 - Signs East Bore's first receipt to the machine network and requests a water test next.
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
+- Maintains telephone contact while the crawlers restore the old supply line and asks the network to tell the damaged crawler when water reaches East Bore.
 
 ## Pressure
 

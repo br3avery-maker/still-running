@@ -34,7 +34,7 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 
 The network has restored a satellite link, completed its first physical relief convoy, repaired a failing water system, and begun a direct relationship between Melody and Nix without disclosing Melody's home.
 
-All forty-three Station Fourteen evacuees reached South Ridge after Intake redirected them away from lethal smoke. Lower Gallery Three supported a community for years before thirty-eight residents moved east. The damaged survey crawlers have now contacted a present human beyond East Bore Gate, and the old supply request finally has someone who can say what to bring first.
+All forty-three Station Fourteen evacuees reached South Ridge after Intake redirected them away from lethal smoke. Lower Gallery Three supported a community for years before thirty-eight residents moved east. Thirty-one people now live beyond East Bore Gate, including Mia Velez from the original bus and her child Rin. The machines have restored a treated-water line between Intake and East Bore, turning the old supply request into an active route.
 
 ## The GitHub writing system
 

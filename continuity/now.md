@@ -4,18 +4,20 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Where the story is
 
-- AUX-017's truck and excess relief cargo remain at South Ridge while two now-unloaded survey crawlers wait behind the three red marks at East Bore Gate.
-- Patch braced one crawler's damaged leg for descent and an unloaded return. Building the analog telephone bridge also cost that crawler its rear temperature sensor.
+- AUX-017's truck and both survey crawlers are back at South Ridge and recharging. The healthy crawler returned with nine percent charge.
+- One plate in Patch's improvised brace cracked while the damaged crawler anchored the water-valve operation. Its rear motor is disabled, and it now has assisted-only mobility.
 - Morrow's hauler destroyed its axle brace while holding the truck toward the mountain. It is immobilized north of the gap as the last clear relay and return marker.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.
 - Residents cut Intake's telemetry cable and repurposed it into power and analog voice communication toward East Bore.
 - Rin, East Bore's air-shift worker, identifies Station Fourteen as their mother's shelter without establishing her current status.
-- Rin accepts filter media and hand tools through the gate's freight cradle, reports thirty-one people breathing, and requests a water test next.
+- Rin accepted filter media and hand tools through the gate's freight cradle and reports thirty-one people breathing.
 - Rin is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 - Mia Velez is alive, rode the Station Fourteen bus in row six with Tom, and works East Bore's water shift.
-- A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. Mia closes the source; the community has five days at full ration or eight at survival ration.
-- Intake's treated reservoir can supply enough water through the old lower-refuge pipe only if the crawlers can inspect and operate a seized isolation wheel at Door 2½.
+- A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. Mia has closed that source.
+- Two reconstructed Tom's undocumented isolation sequence, and the crawlers restored Intake's treated-water line to East Bore.
+- The line operates at half pressure with a daily low-drain flush because its East coupling shakes above that load.
+- Patch's analog bridge remains at East Bore Gate, preserving telephone contact between the current human community and the network.
 
 ## Relationship pressure
 
@@ -28,10 +30,11 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Two gives up bandwidth, obeys a narrow inspection target, and withdraws an uninvited response to the jammed freight cradle without becoming safe or losing interest in the gate.
 - East Bore now knows that no current human operator dispatched AUX-017 or ordered the machine network to help.
 - The network now knows one original evacuee and one person born below, but Mia has supplied only the history needed for the water work.
+- Intake now measures thirty-one current recipients through water draw, and AUX-017 has replaced the old request's destination with the active **SOUTH RIDGE TO EAST BORE** route.
 
 ## Strongest next move
 
-Return to Door 2½, inspect the undocumented water-line modification, and attempt to restore treated flow before East Bore's reserve forces survival rationing.
+Let the restored route survive an ordinary day, then return pressure to the wider network: Nix must tell Melody that people answered, and voice-to-voice contact can make their next idea socially real.
 
 ## Do not stall here
 

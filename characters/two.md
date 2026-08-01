@@ -22,7 +22,8 @@ Unstable. Two currently helps when a difficult, witnessed objective is more rewa
 - Gives up its private scoreboard channel when underground bandwidth contracts.
 - Reconstructs only the visible splice in Intake's dead telemetry line under Nix's explicit target boundary; the splice became a powered analog telephone route toward East Bore.
 - Withdraws a proposed solution when Rin warns against pushing the jammed freight cradle and waits for the invited cable recovery.
+- Reads Tom's improvised isolation assembly as a puzzle for tired people, identifies the pressure-unloading turn that Patch's archive model misses, and operates the visible pin under a bounded target.
 
 ## Pressure
 
-The southern mission contains real people, ambiguous systems, and doors whose danger cannot be represented by a simple score. Two will eventually choose between the best move and the shared mission.
+Two can now earn consequential moves by interpreting why people built a system, not merely by defeating its resistance. That success does not resolve what happens when the most interesting move conflicts with the mission.
