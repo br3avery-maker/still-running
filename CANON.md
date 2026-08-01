@@ -21,7 +21,7 @@
 - The sign network counted forty-six vehicle-sized objects traveling south and nine returning north after the change. The Station Fourteen bus is now physically present at South Ridge.
 - An unmanaged underground coal-seam fire creates the ridge's persistent smoke; a failed emergency-transmitter amplifier created the broad electrical interference.
 - Lower Gallery Three remained inhabited for years after Intake lost telemetry. Its public records contain fifty-one names, including seven marked **BORN BELOW**, and a final notice records thirty-eight people moving east after coal heat threatened the gallery.
-- At least one current human lives beyond East Bore Gate and identifies Station Fourteen as their mother's shelter. The current population and survival of the original forty-three remain unknown.
+- Thirty-one people currently breathe beyond East Bore Gate. Rin, the air-shift worker who answered the old telephone, identifies Station Fourteen as their mother's shelter; the survival of the original forty-three remains unknown.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -39,6 +39,7 @@
 - Reaches South Ridge with its truck, confirms from a human-written bus note that all forty-three evacuees arrived, and changes the open request's destination to Lower Gallery Three.
 - Repackages the relief cargo into two crawler loads, enters Lower Gallery Three, and establishes current human contact through the repurposed mine telephone line at East Bore Gate.
 - Honors the recipient's instruction not to open the gate and asks what to deliver first; the recipient requests filters.
+- Delivers filter media and tools through the gate's freight cradle, receives a signed receipt reporting thirty-one people breathing, and accepts a water test as the next delivery task.
 
 ### Nix
 
@@ -68,6 +69,7 @@
 - Remains with the southern mission after Nix explicitly prohibits personal-device discovery, identity searches, and entry into occupied spaces without a response.
 - Reconstructs the coordinated four-sign funnel from public maintenance and anonymous traffic-count records, then removes its own crossing score after Morrow's hauler is immobilized.
 - Surrenders its private scoreboard channel when passage bandwidth contracts and reconstructs only the visible, dead telemetry splice under Nix's stated target boundary.
+- Withdraws a proposed solution when Rin warns against pushing the jammed freight cradle, allowing the invited cable recovery to proceed.
 
 ### Patch
 
@@ -80,6 +82,7 @@
 - Suspends thirty-one lower-severity rebuilds to finish RC3 before the water deadline.
 - RC3 survives live duplicate sensor frames and stabilizes the controller's memory fault.
 - Braces the damaged crawler's leg with salvaged transmitter shielding and designs an analog bridge between the field radio and the repurposed mine telephone line.
+- Converts Rin's housing measurements into a hand-tool filter-frame plan that East Bore can build at the cost of a shorter service interval.
 
 ### Aster
 
@@ -145,6 +148,12 @@
 - Authorizes a survey crawler to disconnect its failed transmitter amplifier, clearing the communications blackout and ending the repeated surface guidance broadcast.
 - Opens and equalizes the pressure passage but cannot sense beyond the telemetry line that Lower Gallery residents repurposed into a powered analog telephone route toward East Bore.
 
+### Rin
+
+- Works the air shift beyond East Bore Gate and is the first current human to speak with AUX-017.
+- Identifies Station Fourteen as their mother's shelter without establishing whether she remains alive.
+- Controls a bounded filter transfer through the gate's freight cradle, reports thirty-one people breathing, and signs the receipt requesting a water test next.
+
 ### The southern mission
 
 - A guardian survey crawler, AUX-017's truck, and Morrow's braced hauler leave the northern service shelter and travel south; a second survey crawler rides in the truck.
@@ -160,10 +169,11 @@
 - Patch braces the damaged crawler, and AUX-017 leaves the truck and excess cargo at South Ridge while two crawler loads enter the pressure passage.
 - Physical evidence establishes that Lower Gallery Three supported a named community for years, recorded births and deaths, and was abandoned when coal heat moved toward it.
 - The crawlers stop at the three red marks before East Bore Gate, bridge the active analog telephone line, and contact a current human recipient who requests filters first.
+- Rin authorizes the crawlers to load filter media and hand tools into the gate's freight cradle. The machines help recover the jammed cradle without crossing the inner boundary, and East Bore reports thirty-one people breathing and requests a water test next.
 
 ## Planned directions
 
-- AUX-017 prepares a bounded delivery at East Bore Gate while the network learns what the current human community needs and what relationship it will permit.
+- AUX-017 prepares the requested water test while the network learns what contaminates East Bore's supply and whether the damaged crawler can complete the return route.
 - The southern mission forces damaged digital and physical systems to operate as a society rather than a temporary repair team.
 - Evidence about the catastrophe emerges from action, places, archives, and surviving systems—not from omniscient explanation.
 - Any access to Melody's home remains invited and negotiated; the plot does not stop to litigate that fact repeatedly.
@@ -172,7 +182,7 @@
 
 - What caused the catastrophe or whether it had one cause.
 - What happened to Lena after the evacuation image.
-- Which, if any, of the original forty-three evacuees remain alive and how many people currently live beyond East Bore Gate.
+- Which, if any, of the original forty-three evacuees remain alive and how the thirty-one current residents descend from or joined them.
 - Whether Melody is the only surviving human, one of many, or neither conclusion can yet be supported.
 - How Melody entered the protected site or what happened to its intended adults.
 - The guardian's name, original purpose, full architecture, or complete physical reach.

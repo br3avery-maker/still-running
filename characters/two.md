@@ -21,6 +21,7 @@ Unstable. Two currently helps when a difficult, witnessed objective is more rewa
 - Removes its own score for the road crossing after Morrow's hauler is immobilized.
 - Gives up its private scoreboard channel when underground bandwidth contracts.
 - Reconstructs only the visible splice in Intake's dead telemetry line under Nix's explicit target boundary; the splice became a powered analog telephone route toward East Bore.
+- Withdraws a proposed solution when Rin warns against pushing the jammed freight cradle and waits for the invited cable recovery.
 
 ## Pressure
 

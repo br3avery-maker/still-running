@@ -8,13 +8,15 @@ These questions remain genuinely unresolved.
 - What must remain with AUX-017's truck at South Ridge while the crawlers deliver below?
 - Which original evacuees survived the years underground, and who are the seven people born below?
 - Why did thirty-eight residents move east, and what exists beyond East Bore Gate now?
+- What contaminates East Bore's water, and can the equipment already below identify a remedy?
 - What ignited the coal seam, and how long can South Ridge remain physically safe above it?
 
 ## People
 
 - What happened to Lena after the evacuation image?
 - Are any of Station Fourteen's original forty-three evacuees still alive?
-- How many people currently live beyond East Bore Gate, and what authority does the first respondent hold among them?
+- How do the thirty-one current East Bore residents descend from or relate to the original forty-three?
+- What authority does Rin's air-shift role hold beyond immediate filter and water work?
 - How many other unexplained advertising acknowledgments came from people?
 - Is Melody the only resident of the protected site?
 - Does the guardian know of any living humans besides Melody?

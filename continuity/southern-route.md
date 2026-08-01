@@ -7,16 +7,17 @@ Lower Gallery Three supported a named community for years after Intake transferr
 The mission has paid for the route:
 
 - AUX-017's truck and excess cargo remain at South Ridge;
-- two loaded crawlers have descended to East Bore Gate, one with a braced leg and a sacrificed rear temperature sensor;
+- two crawlers have descended to East Bore Gate, one with a braced leg and a sacrificed rear temperature sensor;
 - Morrow's hauler broke its axle brace anchoring the truck and remains behind as the final clear relay;
 - external communication has been restored through Intake;
-- a current human beyond the gate identifies Station Fourteen as their mother's shelter and requests filters first;
-- the current population, condition, and survival of the original forty-three remain unresolved;
+- Rin, East Bore's air-shift worker, identifies Station Fourteen as their mother's shelter;
+- East Bore accepts the filters and reports thirty-one people breathing;
+- the survival of the original forty-three and the current residents' relationships to them remain unresolved;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Deliver filters at the three-red-mark boundary and establish reciprocal terms without opening the gate. Let the East Bore community decide how much contact it permits and what it needs next.
+Use the water-test kit already below to answer East Bore's next request, then determine what must come from the truck and whether both damaged crawlers can return for it.
 
 ## Guardrails
 
