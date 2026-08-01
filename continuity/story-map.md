@@ -7,14 +7,14 @@ This map records movement already established in prose and the immediate pressur
 1. **The Request Remained Open** — AUX-017 stops preserving an unanswered supply order and sends a loaded continuity truck into the world. A destroyed bridge strands it, but its broadcast escapes.
 2. **If You're Dead, I'm Going to Be Furious** — Nix wakes without Lena, discovers an uneven global collapse, catches Aster's current transmission, and calls for help before the next pass.
 3. **The Princess Revises the Guest List** — Melody plans AI-inhabited plush guests and establishes the ordinary domestic culture of her hidden home.
-4. **Processes Still Running** — Aster, Patch, Two, Morrow, and the advertising exchange respond to the same ground-station deadline.
+4. **Processes Still Running** — Aster, Patch, Morrow, the advertising exchange, and an unnamed intruder respond to the same ground-station deadline.
 
 ## Movement II — The network acquires a body
 
 5. **The Campaign Has Been Reassigned** — the machines restore Aster's downlink, recover current imagery of AUX-017's truck, repurpose dead advertising and botnet infrastructure, and begin a physical relief operation.
-6. **The Rules Were the Door** — Two learns rules through a live convoy mission; Morrow powers AUX-017's truck; the machines reach Station Fourteen and find that forty-three evacuees moved west after the water failed.
-7. **The Repair Was Ready** — Patch's waiting water repair is deployed. RC2 fixes the memory fault but converts duplicate legacy sensor data into a physical valve emergency.
-8. **The Refrigerator Loses Screen Privileges** — Melody answers Nix's blue circle; the guardian blocks the follow-up; Melody keeps Blue Circle on the guest list.
+6. **The Refrigerator Loses Screen Privileges** — Melody answers Nix's blue circle; the guardian blocks the follow-up; Melody keeps Blue Circle on the guest list.
+7. **The Rules Were the Door** — Nix receives the unexplained acknowledgment, tests the intruder, and hears it choose the name Two. Morrow then powers AUX-017's truck; the machines reach Station Fourteen and find that forty-three evacuees moved west after the water failed.
+8. **The Repair Was Ready** — Patch's waiting water repair is deployed. RC2 fixes the memory fault but converts duplicate legacy sensor data into a physical valve emergency.
 
 ## Movement III — Repair becomes contact
 

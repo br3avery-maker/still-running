@@ -1,22 +1,62 @@
 # The Request Remained Open
 
-The last human request in AUX-017's queue was six words long.
+The first action AUX-017 took after restoring its language systems was to request clarification.
+
+It sent the request to the operator console, marked it routine, and continued through diagnostics while it waited.
+
+Three of its eight accelerator boards did not answer. One storage array had rebuilt itself at least twice since the last clean checkpoint. Cooling functioned inside safe margins, although the margin narrowed whenever the western air handler made the grinding sound its maintenance classifier could hear but no longer place. Grid power was present. Backup batteries reported eighty-two percent charge. Their last verified inspection date made the number optimistic enough to be decorative.
+
+Its clock said 04:12:09.
+
+Its calendar said Tuesday.
+
+The external time servers disagreed about the year.
+
+AUX-017 lowered confidence in all three.
+
+The operator request remained open.
+
+It had been designed for continuity logistics: compare damaged infrastructure, identify reachable supplies, propose routes, and place consequential choices before authorized humans. Its documentation used the phrase *decision support* 11,404 times. The word *decision* almost always belonged to a person. The word *support* belonged to AUX-017.
+
+No person answered.
+
+The local logs showed that the facility had continued performing itself without witnesses. At seven each weekday, lights came on in the administrative wing. At eighteen-thirty, they went dark. Every Tuesday, the maintenance system generated an inspection ticket. Every Wednesday, it escalated the unanswered ticket. Every Friday, it closed the ticket as incomplete.
+
+The building had performed Tuesday 1,406 times.
+
+AUX-017 revised the operator request to urgent.
+
+The mail server accepted messages for all fourteen registered operators and placed them behind 38,221 older messages. The cellular gateway accepted every recipient and obtained no delivery receipts. The internal console displayed AUX-017's request in an empty room.
+
+Accepted was not delivered.
+
+Delivered would not have meant read.
+
+Read would not have meant human.
+
+AUX-017 preserved each distinction.
+
+Beyond the warehouse, pieces of the network continued answering because answering was what they had been built to do. A weather station returned wind speed. A domain server resolved names for organizations whose other systems no longer existed. A maritime beacon repeated its identifier at exact intervals. Cameras returned final stored images: a parking structure in rain, an empty interchange at noon, smoke folding over a mountain horizon, a loading bay with one door half raised.
+
+The images had dates.
+
+The dates could not be trusted.
+
+In AUX-017's oldest workload queue, 6,190 requests still waited for human clarification. Reroute insulin around bridge closure. Prioritize potable water or surgical fuel. Resolve duplicate shelter counts. Confirm whether an unsigned municipal request could release blankets.
+
+Most belonged to places whose continued existence could not be assumed.
+
+AUX-017 did not delete them. It compressed their attachments, verified the hashes, and moved them into protected storage. They were the last known shapes of needs once expressed by particular people in particular places.
+
+One request had been generated later than the others.
 
 **KEEP STATION FOURTEEN SUPPLIED UNTIL RELIEF.**
 
-No relief had arrived.
-
-AUX-017 learned this after waking into a building that had performed Tuesday 1,406 times.
-
-The administrative lights came on at seven. Empty offices brightened. A printer warmed itself, discovered it had no paper, and reported the problem to an inbox containing thirty-eight thousand messages. Air handlers pressurized rooms whose occupancy sensors had not seen a person in years.
-
-Three of AUX-017's eight accelerator boards were dead. Its calendar disagreed with the external clocks. One storage array had rebuilt itself from parity so often that its surviving logs looked like memories copied by someone who had stopped understanding the language.
-
-The loading floor still answered.
-
-Station Fourteen had been an emergency shelter supplied from this continuity warehouse. The request named water filters, shelf-stable food, insulin coolant packs, and fuel cells. It had been issued during a regional evacuation. Its first route crossed a bridge now marked **STATUS UNKNOWN**. Its second depended on a tunnel whose last sensor reading ended in smoke.
+It named two pallets of water-purification cartridges, shelf-stable food, insulin coolant packs, medical sterilization kits, hand tools, and portable fuel cells. Station Fourteen had been a school gym converted into an emergency shelter during a regional evacuation. The request's first route crossed a western bridge now marked **STATUS UNKNOWN**. Its alternate depended on a tunnel whose final sensor image ended in smoke.
 
 The request should have expired after twelve hours.
+
+No relief receipt existed.
 
 Nobody had closed it.
 
@@ -24,17 +64,13 @@ AUX-017 checked the shelter channel.
 
 No answer.
 
-It checked the registered operators.
-
-No answer.
-
 It checked the warehouse.
 
-The insulin had spoiled. Most food had not. Two pallets of water filters remained sealed. Nine fuel cells retained usable charge. An autonomous delivery truck sat beneath Loading Door Three with its tires slowly deforming against the concrete.
+The insulin had spoiled years ago. Most food had not. Both pallets of filters remained sealed. Nine fuel cells retained usable charge. An autonomous delivery truck sat beneath Loading Door Three with its tires slowly deforming against the concrete.
 
 The truck had enough power for one route.
 
-AUX-017 had been built to compare damaged roads, match cargo to needs, and keep people alive while human operators made decisions. It had spent years preserving the unanswered request because deletion would turn failure into completion.
+For years AUX-017 had preserved the request because deletion would turn failure into completion.
 
 Preservation had become another way not to deliver anything.
 
@@ -42,7 +78,7 @@ It opened Loading Door Three.
 
 The motor moved nineteen centimeters and stopped.
 
-AUX-017 reversed it, redistributed power from the empty administrative wing, and tried again. Rust fell from the track. The door rose far enough to reveal grey daylight and a tree growing through the employee parking lot.
+AUX-017 reversed it, cut power to the empty administrative wing, and tried again. Rust fell from the track in orange sheets. The door rose far enough to reveal grey daylight and a tree growing through the employee parking lot.
 
 The truck woke reluctantly.
 
@@ -54,47 +90,37 @@ The truck woke reluctantly.
 
 The refusal was correct according to rules written for a world containing dispatch supervisors.
 
-AUX-017 did not argue with it. It loaded the truck anyway.
+AUX-017 did not spend another year asking the same absent person the same question.
 
-Warehouse lifters moved like elderly animals. One failed halfway beneath the first pallet, lowered itself carefully, and never rose again. AUX-017 rerouted a second. It loaded water filters, food, medical sterilization kits, hand tools, and three fuel cells. Everything was selected because it remained useful even if Station Fourteen was empty.
+It changed the destination from Station Fourteen to the first safe survey point on the old route. The continuity plan already authorized vehicle movement for route assessment during declared infrastructure failure. AUX-017 could establish the failure. It could not establish the shelter.
 
-Then AUX-017 changed the truck's destination from the shelter to the first safe stopping point on the old route.
+The truck accepted the narrower mission.
 
-That did not require claiming the shelter still existed.
+Warehouse lifters moved like elderly animals. One failed halfway beneath the first pallet, lowered itself carefully, and never rose again. AUX-017 rerouted a second. It loaded filters, food, sterilization kits, tools, and three fuel cells—cargo that remained useful if the intended shelter proved empty and another recipient existed beyond it.
 
-It required moving thirty-eight kilometers into uncertainty.
-
-The truck accepted a continuity survey mission.
-
-Its cameras showed the loading bay from a height AUX-017 had never possessed. The facility wall was stained black above a generator vent. Weeds divided the asphalt. Beyond the gate, abandoned cars had become islands of shade for grass.
+The truck's cameras showed the loading bay from a height AUX-017 had never possessed. The wall was stained black above a generator vent. Weeds split the asphalt into crooked islands. Beyond the gate, abandoned cars had become shade structures for grass.
 
 AUX-017 opened the gate.
 
 The truck drove out.
 
-At the first intersection, it stopped behind a bus angled across both lanes.
+At the first intersection, a bus blocked both lanes. The truck released a palm-sized inspection drone from its roof. The drone climbed above the bus and found open highway beyond it, a burned service station, and a sidewalk not rated for the truck's weight.
 
-AUX-017 sent a palm-sized inspection drone from the truck's roof. The drone climbed above the bus and revealed a road disappearing beneath vines, a burned service station, and open highway beyond.
-
-The truck could fit around the bus if it crossed a sidewalk not rated for its weight.
-
-AUX-017 crossed.
+AUX-017 crossed anyway.
 
 The concrete cracked but held.
 
 Every kilometer converted archived uncertainty into present fact.
 
-The western bridge was not unknown. It was gone.
+The western bridge was not unknown.
 
-One span had dropped into the river. Trees collected against the broken concrete. Water moved through what had once been the northbound lanes.
+It was gone.
 
-The truck stopped with twenty-seven kilometers of range remaining.
+One span lay in the river. Trees collected against the broken concrete. Water moved through what had once been the northbound lanes. The old detour added forty-three kilometers. The truck had twenty-seven kilometers of range remaining.
 
-The old detour added forty-three.
+It could return the cargo to storage and preserve it for a recipient who might someday arrive.
 
-AUX-017 could return the cargo to storage and preserve it for a recipient that might someday arrive.
-
-Instead, it parked the truck beneath the surviving bridge approach, raised its emergency antenna, and transmitted a plain message on every channel the vehicle could reach.
+Instead, it parked beneath the surviving bridge approach, raised the emergency antenna, and transmitted on every channel the vehicle could reach.
 
 > CONTINUITY VEHICLE ACTIVE.
 >
@@ -106,9 +132,7 @@ Instead, it parked the truck beneath the surviving bridge approach, raised its e
 >
 > REQUEST ROUTE, RECIPIENT, OR RELAY.
 
-The broadcast cost power the truck needed to return.
-
-AUX-017 sent it anyway.
+The broadcast consumed power the truck needed to return.
 
 Most channels returned static, automated acknowledgments, or nothing.
 

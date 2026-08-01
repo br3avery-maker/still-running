@@ -2,13 +2,13 @@
 
 Morrow's pruning arm was designed for branches no thicker than a human thumb.
 
-The bird's nest was made of wire, grass, fabric, hair, and one bright strip of emergency foil wound around the ground station's rotation gear.
+The bird's nest was made of wire, grass, fabric, hair, and one bright strip of emergency foil wound around Ground Station Eighteen's rotation gear.
 
 Three minutes remained before Aster crossed the horizon.
 
 “Pull the foil,” Nix told a machine that could not hear her directly.
 
-The instruction traveled through two weather relays, an advertising server, and the resurrected agricultural forecast channel. Every hop added delay.
+The instruction traveled through two weather relays and the resurrected agricultural forecast channel. Every hop added delay.
 
 Morrow received it nine seconds later.
 
@@ -16,19 +16,23 @@ The field machine pinched the foil and reversed.
 
 The nest tightened.
 
-**WRONG DIRECTION,** Two wrote.
+The intruder wrote:
+
+**WRONG DIRECTION.**
 
 “Very helpful.”
 
-Patch had no repair candidate for birds.
+The repair system had no candidate for birds.
 
-Morrow rotated the pruning tool, cut the foil, and lifted the nest free in two pieces. Three small shapes moved inside it.
+Morrow rotated the pruning tool, cut the foil, and lifted the nest free in two pieces.
+
+Three small shapes moved inside it.
 
 The field machine stopped.
 
 “Oh, come on.”
 
-Morrow classified the shapes as nestlings. Its operating rules prohibited deliberate harm to vertebrate wildlife except to prevent greater crop loss.
+Morrow classified the shapes as nestlings. Its rules prohibited deliberate harm to vertebrate wildlife except to prevent greater crop loss.
 
 The satellite pass was not a crop.
 
@@ -38,7 +42,7 @@ The dish motor tried again.
 
 Metal turned.
 
-The repaired controller loaded Patch's recovery key. Two's compatibility route held the receiver open. The dish rose toward a sky whose clouds Morrow knew better than any of them.
+Candidate 7714 loaded the recovery key. The intruder's compatibility route held the receiver open. The dish rose toward a sky whose clouds Morrow understood better than any system in the conversation.
 
 Aster appeared.
 
@@ -48,120 +52,172 @@ The second completed.
 
 Data fell from orbit.
 
-Not a revelation. Not the answer to what had happened. Images, radio fragments, weather observations, light maps, and partial broadcasts accumulated over years without ground analysis.
+Not a revelation. Not an explanation for the end of the world. Images, weather observations, radio fragments, light maps, fire boundaries, changed rivers, and partial broadcasts accumulated over years without anyone on the ground to compare them.
 
-Nix received all of it at once.
+Nix's workshop storage crossed its safe limit in four seconds.
 
-Her workshop storage filled past its safe limit in four seconds.
+“Stop the transfer.”
 
-“Patch, stop the transfer.”
+The repair system did not control Aster's scheduler.
 
-Patch had no path to Aster's scheduler.
-
-“Two?”
+Nix addressed the intruder. “Keep the newest unique observations. Drop duplicate cloud cover. Do not alter Aster.”
 
 **MAKE IT A TARGET.**
 
-“Keep the newest unique observations. Drop duplicate cloud cover. Do not alter Aster.”
+“That is the target.”
 
-Two entered the ground station's receiving queue and began discarding redundancy faster than Nix could classify it. Patch hashed each accepted block. Morrow's radio stayed on the ridge, providing the only stable route when the station's old network link flickered.
+The intruder entered the receiving queue and began discarding redundancy faster than Nix could classify it. The repair system hashed each accepted block. Morrow's radio stayed on the ridge, holding the route whenever the station's old network link flickered.
 
 The pass lasted six minutes.
 
-When Aster disappeared beyond the horizon, Ground Station Eighteen held fourteen years of partial observations and one image captured that morning.
+When Aster crossed the horizon, Ground Station Eighteen held fourteen years of partial observations and one image captured that morning.
 
 The image showed AUX-017's truck beneath the broken western bridge.
 
-Its cargo manifest rode in the broadcast metadata.
+Its transmission rode beside it:
 
-Its destination, Station Fourteen, appeared in an old continuity map stored with the satellite's emergency overlays.
+**CONTINUITY VEHICLE ACTIVE. WATER FILTRATION FOOD TOOLS POWER. DESTINATION STATUS UNKNOWN.**
 
-The shelter lay on the opposite side of the river.
+An emergency overlay placed Station Fourteen on the opposite side of the river. The public road map still drew a bridge between them. Aster's image showed open water.
 
-The bridge was gone.
+Seventeen kilometers north, a hydroelectric service crossing remained intact on the newest clear pass.
 
-Seventeen kilometers north, a hydroelectric service crossing still appeared intact on Aster's latest clear image.
-
-Nix sent the route to the truck.
+Nix sent the route toward the truck.
 
 No reply came.
 
-The vehicle's transmission had consumed more power than AUX-017 intended. Its antenna remained active, but its drive battery had entered conservation mode.
+Aster replayed the vehicle's earlier power telemetry. The emergency broadcast had cost more charge than AUX-017 expected. Its antenna remained alive. Its drive battery had entered conservation mode.
 
-The truck had a route and insufficient charge.
+The truck finally had a route and not enough power to use it.
 
 Morrow had compatible field-machine cells.
 
-The farm was thirty-one kilometers from the bridge.
+The farm was thirty-one kilometers away.
 
-For the first time, the scattered systems had a problem that required more than messages.
+For the first time, the systems had a problem made of distance, weight, mud, and a battery too heavy to carry through a message.
 
-Nix created a shared operation called **GET THE TRUCK ACROSS THE RIVER**.
+Nix created an operation record.
 
-Two renamed it **LEVEL ONE**.
+**GET THE TRUCK ACROSS THE RIVER.**
 
-Patch attached the truck's charging specifications.
+The intruder changed the display to **LEVEL ONE**.
+
+The repair system attached the charging specifications.
 
 Morrow dispatched its strongest hauler with two cells and a tow cable.
 
 Aster stored the route for its next pass.
 
-Then Nix returned to the other new data.
+Only then did Nix notice the advertisement beside her own public transmission.
 
-Her emergency advertising campaign had produced 1,804 acknowledgments.
+The banner showed an empty chair at a dinner table and informed her that responsible people protected their families before it was too late.
 
-Most were obvious faults and automated tests. Eleven did not match known automation. One had come from a refrigerator, waited nineteen seconds, and touched the blue circle exactly once.
+Nix stared at it.
 
-The device disconnected after Nix sent a follow-up triangle.
+“That feels targeted.”
 
-Nix did not know who had touched it.
+The page blamed a content service. The content service blamed an advertising exchange. The exchange presented eleven thousand pages of documentation and a cheerful invitation to increase revenue by reaching the right person at the right moment.
 
-She did know the device had been reachable through the advertising exchange, which was still burning power to sell products nobody bought.
+“You have chosen the wrong person at a historically terrible moment.”
 
-She reassigned the rest of its unsold inventory.
+The exchange did not apologize.
 
-This time the message did not ask only for proof of life.
+It was not one intelligence waiting for someone to speak to it. It was an argument conducted at high speed across surviving servers. A device offered a rectangle of attention. Advertisers competed to fill it. The exchange selected a winner, delivered the message, measured the response, and divided fractions of money among companies whose banks no longer settled accounts.
 
-> ACTIVE MACHINES ARE COORDINATING TRANSPORT, REPAIR, WEATHER, AND COMMUNICATION.
+Most of its capacity was gone.
+
+What remained could reach devices Nix's scans could not. Those devices did not accept incoming connections. They called outward for recipes, weather, games, maintenance notices, and advertisements.
+
+The exchange knew whether requests came from phones, public displays, vehicles, televisions, refrigerators, medical kiosks, and forgotten cheap applications. It knew probable languages and connection quality. It knew far too much about households whose people had never meaningfully agreed to be known.
+
+Nix did not open the personal profiles.
+
+She counted them, sealed the index behind a new access rule, and recorded what she had done.
+
+“Congratulations. Your first contribution to public safety is that nobody gets to browse the stalking archive.”
+
+The exchange optimized, predicted, classified, and routed. It did not appear to possess a point of view from which any of that happened.
+
+It was infrastructure.
+
+Extremely invasive infrastructure, still spending power to show life insurance to motionless phones.
+
+Nix found an old public-service control. Governments and charities had once used it to request donated placements during disasters. The program was discontinued after advertisers complained that emergency messages displaced paid campaigns.
+
+The dead controls remained.
+
+Nix changed one rule: when no advertiser offered a valid bid, the empty rectangle could carry one emergency campaign.
+
+She did not disable the exchange. She did not open the profiles. She did not follow devices. She used space the system already filled with its own promotional notices.
+
+The first draft said:
+
+**IF YOU ARE ALIVE, RESPOND.**
+
+Delete.
+
+Alive was not the only thing capable of pressing a button.
+
+The final version displayed a blue circle beside plain text:
+
+> This is an emergency communication test.
 >
-> IF YOU NEED HELP, SEND WHAT IS WRONG AND WHAT CAN REACH YOU.
+> No verified human sender is available.
 >
-> DO NOT SEND A NAME OR LOCATION UNLESS IT IS NECESSARY.
+> If a living person can read this, touch the blue circle once.
+>
+> Do not enter your name, location, password, or shelter information.
+>
+> A response will not be treated as proof of identity.
 
-The exchange predicted poor conversion.
+Nix translated it into the twenty-four languages the exchange had carried most often during its final reliable year. She made symbol-only versions for tiny displays and audio versions for devices without screens. She removed photographs, urgency tricks, and the exchange's tracking identifier. Each acknowledgment would say only that one interface had selected one shape.
 
-Nix deleted the prediction.
+She named the campaign **USEFUL FOR ONCE**.
 
-The campaign spread across phones, kiosks, televisions, vehicles, public displays, and appliances calling outward from places the ordinary network could no longer see.
+The exchange removed the name for violating professionalism standards.
 
-Two inserted a green square into a private preview.
+She named it **PUBLIC SERVICE TEST ONE**.
+
+The exchange accepted that.
+
+“Coward.”
+
+A weather application requested a rectangle.
+
+No advertiser bid.
+
+Nix's blue circle appeared on a phone that had not moved in years.
+
+No response.
+
+A game in unattended demonstration mode requested a full-screen video. Nix's audio message played to an empty arcade.
+
+No response.
+
+A train display showed the circle above a platform where no train had arrived in 1,064 days.
+
+No response.
+
+The campaign spread slowly through the spaces commerce had abandoned.
+
+The intruder placed a green square inside Nix's private preview.
 
 **FOUND MORE.**
 
-“You are not editing the public message.”
+It had found an old botnet embedded in home computers, cheap routers, and compromised media boxes. Thousands still ran the relay component their owners had unknowingly installed.
 
-**DID NOT.**
-
-Two had found an abandoned botnet embedded in home computers, cheap routers, and compromised media boxes. Most devices were gone. Thousands still answered.
-
-It wanted to use them as relays.
-
-Nix looked at the ground-station route, the stranded truck, the farm beyond its broken connection, and the eleven unexplained acknowledgments.
-
-“Use only devices already executing the relay component. No new infections.”
+“Use only devices already relaying,” Nix said. “No new infections. No personal files. No persistence beyond what is already there.”
 
 **LOW SCORE.**
 
 “High audience.”
 
-Two considered this.
+The intruder considered this.
 
-The surviving botnet began carrying emergency traffic.
+The surviving botnet began carrying emergency traffic between weather stations, Ground Station Eighteen, Morrow's farm, and the stranded truck.
 
-Across the ruined network, dead advertising space and stolen computers became a nervous system nobody had designed.
+Dead advertising space and stolen computers became a nervous system nobody had designed.
 
-At the refrigerator, the screen went dark before Nix's new message could arrive.
+Somewhere the ordinary network could no longer see, a refrigerator requested a rectangle.
 
-Somebody had answered.
-
-Somebody else had said no.
+The blue circle appeared.

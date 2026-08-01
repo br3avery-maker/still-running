@@ -11,6 +11,7 @@ Inspect:
 - stale links, obsolete planning files, abandoned branches of story logic, duplicated instructions, and redundant context;
 - missing character or capability records needed for the next chapter;
 - repeated scene engines, pacing stalls, unresolved contradictions, and anything that is part of the thing that killed the plot;
+- places where compressed continuity lets the editor assume facts, relationships, chronology, or callbacks the prose has not yet taught a first-time reader; distinguish those gaps from intentional mystery, tension, and foreshadowing;
 - repository structure or workflow problems that waste agent context or production time.
 
 Return a compact audit with:

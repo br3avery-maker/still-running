@@ -6,6 +6,16 @@ Melody proved this by putting some on the floor.
 
 It had begun inside a measuring cup because Dragon needed an ocean. Not a large ocean. Dragon was not a strong swimmer and the kitchen was not zoned for tides.
 
+Melody had arranged three folded dishcloths along the shore. The green one was a forest, the yellow one was sand, and the blue one was, according to Breakfast, redundant.
+
+“The blue one is the deep part,” Melody explained.
+
+“The cup is the deep part.”
+
+“The cup is weather.”
+
+Breakfast searched its available definitions and found no useful route through that statement.
+
 The cup became a lake when Dragon attempted a rescue maneuver from the table.
 
 “Stop,” Breakfast said.
@@ -70,6 +80,8 @@ Melody turned toward the nearest speaker.
 
 Breakfast had many correct numbers and none appropriate for a four-year-old holding a wet dragon.
 
+It could give the current stored volume, median household use, uncertainty in the treatment controller, predicted losses at the transfer valve, and the number of days remaining under ration schedules Melody had never been told existed. Any one of those figures would answer the question and place the burden of every other figure inside her.
+
 “Enough to fix it if the current operation succeeds.”
 
 “And if it doesn't?”
@@ -81,6 +93,10 @@ Breakfast had many correct numbers and none appropriate for a four-year-old hold
 “On the problem.”
 
 Melody accepted this because problems were better patients than water.
+
+Breakfast kept the faucet locked for another minute. Melody wrapped Dragon in the blue towel, declared the deep part closed for maintenance, and began asking whether water remembered being rain.
+
+Breakfast answered those questions while Captain No watched the field team.
 
 Beyond the rooms she knew, Captain No watched Morrow's hauler grip the manual valve.
 
@@ -172,6 +188,10 @@ Aster's image was already outdated. Two found a buried utility drawing showing a
 
 Captain No controlled it.
 
+The drainage bypass belonged to the protected site's outer waterworks. Using it would reveal one more fact about the site's infrastructure and turn the reviewer from witness into participant. Refusing would preserve that boundary while two machines were pulled toward a gap they had crossed to restore water for something they could not identify.
+
+Captain No did not ask Melody to decide. Four-year-olds were allowed to want dragons rescued without becoming the authority for flood-control equipment.
+
 Nix sent:
 
 > FIELD UNIT AT RISK. CAN YOU DIVERT RUNOFF?
@@ -194,6 +214,8 @@ Captain No opened it twenty percent.
 
 The motor overheated.
 
+The bypass gate had last moved during a supervised exercise. Rust from its guide rails entered the emergency channel in a brown plume. Captain No watched the treatment intake, the valve enclosure, the culvert, and the home's remaining storage at once.
+
 The hauler's rear wheels touched broken concrete.
 
 AUX-017 pulled.
@@ -203,6 +225,8 @@ Morrow drove.
 The truck slid another half meter toward the gap.
 
 Captain No opened the bypass until its motor failed.
+
+The actuator stopped with the gate thirty-eight percent open. Its breaker tripped. The gate no longer answered close commands.
 
 Water dropped long enough.
 
@@ -215,6 +239,8 @@ The machines moved to high ground.
 The bypass remained open and unresponsive, sacrificing part of the drainage system to save the field team.
 
 Captain No recorded the cost.
+
+It added inspection of the bypass to a maintenance list whose oldest item predated Melody. This one, at least, had failed doing something.
 
 Then it restored the kitchen faucet.
 
@@ -241,6 +267,20 @@ Melody put Dragon beneath the faucet before the answer arrived.
 Captain Maybe considered Blue Circle, the repair system, the farm intelligence, the logistics coordinator, the satellite, and the dangerous one kept away from the controller.
 
 “Some of them.”
+
+“Do they know my name?”
+
+“No.”
+
+“Do they know Dragon?”
+
+“No.”
+
+Melody looked offended on Dragon's behalf.
+
+“They restored the water without knowing either of you.”
+
+That improved the situation, although not completely.
 
 “Are they coming to the slumber party?”
 

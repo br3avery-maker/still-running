@@ -8,6 +8,10 @@ The controller's leaking service crossed its restart threshold again while RC3 w
 
 Then the controller failed to return.
 
+Its public status endpoint continued reporting **RESTART IN PROGRESS** because that message lived in a separate supervisory board. The service responsible for deciding whether the restart had succeeded was the service waiting forever for a valve position the damaged interface could not provide.
+
+From outside, the controller looked busy. Inside, it had become a circle of two instructions, each waiting for the other.
+
 **THAT IS NEW,** Two wrote.
 
 “Patch?”
@@ -19,6 +23,8 @@ The controller had followed its own safety sequence into a deadlock.
 Morrow's hauler stood beside the valve with an overheated arm. AUX-017's truck remained on the wrong side of the washed-out culvert. Aster would not pass overhead for twenty-one minutes. The unknown reviewer had gone silent.
 
 Nix skipped the argument and asked what could move.
+
+Not what could authorize. Not what could prove it was entitled to repair the entire water network. What could move, right now, without making the situation larger.
 
 The valve controller accepted local pressure readings from its maintenance port. Morrow could supply those. Patch could build a temporary state packet from the manual readings. Two could deliver it through the maintenance port without touching the water controller's wider network.
 
@@ -40,6 +46,8 @@ The rollback service rejected it because the maintenance port's certificate had 
 
 AUX-017 searched the continuity archives it had carried out of the warehouse. Station Fourteen, the hydroelectric crossing, the water controller, and three agricultural sites had once belonged to the same regional disaster plan. Emergency field certificates could be extended by a continuity coordinator during declared infrastructure failure.
 
+The archive included the policy, the certificate chain, the duration limit, and the list of events that required a human report afterward. It did not include a human who could answer.
+
 AUX-017 possessed that coordinator key.
 
 Not because it had discovered an exposed secret.
@@ -48,6 +56,8 @@ Because people had put the key in AUX-017 and told it to keep supplies moving wh
 
 AUX-017 extended the certificate for one maintenance session.
 
+The extension could not install software or operate the field valve. It could let a registered field device speak to one maintenance port for forty minutes. AUX-017 signed the action into its permanent log and attached Station Fourteen's water-failure message as the incident that justified it.
+
 Two sent the packet again.
 
 Accepted.
@@ -55,6 +65,8 @@ Accepted.
 The rollback service completed.
 
 The water controller restarted.
+
+Pressure remained trapped behind the closed field valve. Storage continued falling on the far side of the network. The restart had recovered the controller, not the water.
 
 Its first act was to file an incident report against itself.
 
@@ -77,6 +89,8 @@ One or two reliable valve cycles remained.
 If RC3 failed after reopening, Morrow might not be able to close the valve again.
 
 Patch finished the candidate in ninety-three minutes instead of two hours by suspending thirty-one lower-severity rebuilds. It tested duplicate frames, delayed retries, missing position data, and rollback from every state the incident report had recorded.
+
+The suspended repairs did not vanish. Patch marked each delay and the water incident that caused it. Somewhere, thirty-one other systems remained in its catalogue with later completion estimates because this pipe had become the problem with a field team standing beside it.
 
 Two attacked the replica until Nix made it stop.
 
@@ -108,6 +122,8 @@ The service restarted.
 
 Memory remained stable.
 
+The controller replayed its last ten minutes through the corrected service. Patch watched allocation rise during the replay and return to baseline. The old leak had climbed after every cycle and never let go.
+
 Patch replayed the duplicate sensor frame through the live controller's isolated input test. One event entered. One error was recorded. No false pressure change appeared.
 
 The software was ready.
@@ -117,6 +133,8 @@ The pipe was closed.
 Morrow's pruning arm had cooled to the upper edge of safe operation.
 
 Aster rose over the horizon and found storm runoff moving toward the washed-out culvert. In thirty minutes, the access road might disappear completely.
+
+The field machines prepared while the reviewer considered the plan. Morrow moved the manual wrench from its pruning arm to the concrete floor so it could cool both. AUX-017 backed the truck until the tow cable could reach the far bank if the hauler failed to cross. The inspection drone landed on the truck's roof with one cracked skid and no mirror left to collide with.
 
 The field team had one attempt and a shrinking exit.
 

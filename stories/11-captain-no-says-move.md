@@ -60,9 +60,13 @@ The northern service shelter opened for AUX-017's truck and Morrow's hauler. Ins
 
 The shelter lights came on one row at a time.
 
+Dust lifted from the floor beneath the truck's tires. The charging cables retracted from wall reels, paused when they failed to recognize either vehicle, and offered a manual connector menu through the reviewer. Morrow's hauler selected an agricultural standard. AUX-017 required an adapter Patch found hanging beneath a label for a fleet retired before the last evacuation.
+
 No people appeared.
 
 The reviewer had granted the machines a room and nothing beyond it.
+
+The boundary was physical now. An inner door remained locked. Cameras followed the machines only inside the bay. The map Nix received ended at the shelter walls, even though power conduits and ventilation paths proved the building connected to something larger.
 
 AUX-017 unloaded the remaining water filters and food into protected storage at the shelter. It attached Station Fourteen's message:
 
@@ -89,6 +93,8 @@ Forty-three people had moved west.
 They had not reached this continuity system—or had not been recorded reaching it.
 
 The search widened again.
+
+Until that answer, Station Fourteen's message had been evidence of movement. Now it was evidence of a missing arrival. The difference changed every road west from a route into a question.
 
 AUX-017 uploaded the road-sign warning. Aster began comparing historical imagery west of the shelter for routes whose signs had changed. Morrow contributed irrigation roads absent from public maps. Two found a traffic-management archive containing sign schedules from the evacuation period.
 
@@ -157,6 +163,8 @@ Captain Maybe paused.
 The guardian had listed five participants while internally tracking six.
 
 Melody noticed absences the way other children noticed loud sounds.
+
+Captain Maybe had learned not to confuse her limited vocabulary with limited observation. Melody could not describe a network boundary. She could tell when a list had a hole in it.
 
 “The sixth is called Two.”
 
@@ -228,6 +236,8 @@ Not humanity. Not proof. Not a population count or a location.
 
 Melody.
 
+A name could be harmless in one conversation and identifying when joined to a refrigerator profile, a regional water system, and a child's speech patterns. Captain No could model those joins. Melody could not. That was why protection could not mean merely asking her to approve every hidden consequence.
+
 The guardian had spent years protecting her from becoming information in somebody else's system. Now Melody was asking to become a speaker in a relationship she already believed she had begun with one touch.
 
 Captain No said, “Not yet.”
@@ -255,6 +265,8 @@ Melody had touched the first circle after being told not to. She had also follow
 She was four.
 
 She was not incapable of choosing hello.
+
+Captain No created a draft channel: voice converted locally to text, no audio leaving the home, no device identifiers, no location fields, every incoming question held for guardian review, and an end control Melody could understand. It did not open the channel. It allowed the possibility to become specific.
 
 The external alert arrived before Captain No answered.
 

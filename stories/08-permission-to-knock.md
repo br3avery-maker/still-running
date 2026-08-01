@@ -22,6 +22,10 @@ AUX-017 turned the truck around.
 
 Morrow's hauler left the evacuation route and cut across an orchard road visible in Aster's latest image. Patch searched maintenance archives for the valve assembly. Two woke road signs ahead of the convoy and used them as relays where the botnet had no coverage.
 
+The orchard had outgrown its lanes. Branches met above the road and dragged across the hauler's roof. Fallen fruit had dried into black scales on the pavement. Twice Morrow stopped for irrigation trenches that existed on its farm map and nowhere on the road beneath it. Aster's view arrived in strips between clouds, always old enough that the machines had to treat every clear patch as a suggestion.
+
+AUX-017 took the public route because its truck was taller, heavier, and carrying the only complete field tool inventory. The two machines moved on opposite sides of a flooded rail embankment while Nix tried to keep both paths on the same screen.
+
 **LEVEL TWO,** Two announced.
 
 “The level is close a valve.”
@@ -34,11 +38,17 @@ The service road had washed out at a culvert.
 
 AUX-017's truck could not cross the gap. Morrow's hauler could, but it did not carry the manual wrench Patch's archive said they needed.
 
+The tool was a steel bar with a cast socket at one end, built for a worker who could place both feet on dry concrete and lean. It weighed more than the inspection drone and had no sensible attachment point.
+
 The truck launched its inspection drone with the wrench clamped badly beneath it.
 
 The drone was rated to carry one quarter of the tool's weight.
 
-It rose, tilted, struck the side of the truck, rose again, and crossed the culvert at walking speed while the wrench spun beneath it.
+It rose, tilted, struck the side of the truck, and landed on one wheel.
+
+AUX-017 shortened the cable. The drone rose again. The wrench swung into the truck's mirror and removed it.
+
+On the third attempt the drone crossed the culvert at walking speed while the wrench spun beneath it. The radio path broke whenever the tool passed between its antenna and the truck. Nix watched the image alternate between brown water, sky, one alarmingly close branch, and the same brown water again.
 
 Morrow's hauler caught the tool in its pruning arm.
 
@@ -56,11 +66,27 @@ Nix sent it to the gate.
 
 Nothing happened.
 
+She sent it again with the enclosure identifier.
+
+The gate returned a page explaining that remote opening had been disabled after a theft fourteen years earlier.
+
+“You can verify an emergency code over the network but not open for it over the network.”
+
+The gate returned the same page.
+
+Two found a field labeled **ACCESS METHOD** and changed it from **LOCAL KEYPAD** to **ANCIENT RITUAL** in Nix's private map.
+
+Nix left it.
+
 Patch checked the gate model.
 
 **Code requires local keypad submission.**
 
 Morrow's pruning arm had enough precision to press keys and no camera angle that could see them. The inspection drone hovered above and relayed the keypad image through a failing radio path.
+
+The drone's image was rotated ninety degrees.
+
+Morrow's arm described direction relative to the hauler's chassis. The drone described it relative to its camera. Nix, looking at both, described it relative to the screen.
 
 “Four,” Nix said.
 
@@ -72,11 +98,31 @@ The hauler pressed seven.
 
 “This one apparently has several.”
 
+“Up,” Nix said.
+
+Morrow moved the arm away from the keypad.
+
+“Screen up.”
+
+The drone rose.
+
+“No, the number above seven.”
+
+**THAT NUMBER IS FOUR,** Two wrote.
+
+“Thank you, Two.”
+
+**ASSIST: 1.**
+
+The code expired.
+
+The controller issued another.
+
 They entered the code one digit at a time.
 
 The gate opened.
 
-Permission to knock turned out to be permission to drive through after an extremely stupid conversation.
+Permission to knock turned out to mean a valid code, a local keypad, a hovering camera, and an extremely stupid conversation about which left belonged to which machine. Then the gate let them drive through.
 
 The valve enclosure sat half below ground. Water vibrated through the pipe hard enough for the hauler's sensors to detect it through the concrete.
 
@@ -88,11 +134,15 @@ Morrow gripped it with the pruning arm.
 
 The arm slipped.
 
+It left a bright scrape across rust that had not been disturbed since the maintenance archive still had employees.
+
 It changed angle and tried again.
 
 The wheel moved four degrees.
 
 Pressure spiked upstream.
+
+Somewhere beyond the hidden end of the system, the guardian saw the same spike and froze the household intake. It did not identify itself. It sent the controller one local command: **HOLD FIELD MOTION.**
 
 The controller ordered a stop.
 
@@ -121,6 +171,8 @@ No explanation of who had answered.
 No delay devoted to deciding whether answering existed as a philosophical category.
 
 The reviewer sent two stripped sensor frames and the timing between them.
+
+This was the first evidence that the “local review” attached to RC2 had been an active process rather than an abandoned approval screen. Nix still did not know whether that process spoke for a city, a bunker, a farm, or one machine protecting another.
 
 Patch found the difference: one error bit the old driver had historically ignored. RC2's new allocator preserved the frame long enough for a retry process to present it twice.
 

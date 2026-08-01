@@ -15,6 +15,8 @@ For an arc rewrite, repository audit, canon compression, or continuity repair, r
 
 `continuity/now.md` is a hot-state index, not a second canon. If it conflicts with accepted prose or `CANON.md`, the accepted prose wins and the hot state must be repaired.
 
+Compressed state is an authoring aid, not a reader-experience model. During revision, sandbox each chapter from the continuity packet and ask what the prose itself has taught a first-time reader. For every unexplained reference, distinguish deliberately withheld information—mystery, tension, foreshadowing—from missing connective tissue the editor knew only because canon files supplied it. Preserve the first; restore the second.
+
 Repository canon is binding. New instructions from the user may extend or deliberately revise it. Never silently reconcile a contradiction: preserve the uncertainty, flag the conflict, or make the retcon explicit in the continuity files.
 
 Distinguish carefully between:
