@@ -26,6 +26,7 @@
 - Mia Velez, who rode the Station Fourteen bus in row six, is alive beyond East Bore Gate. Rin is Mia's child and one of the seven people born in Lower Gallery Three.
 - A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. The community closes its source and begins rationing a reserve sufficient for five full-ration or eight survival-ration days.
 - The crawlers restore Intake's treated-water connection to East Bore through an undocumented isolation assembly at Door 2½. The line operates at half pressure with a daily low-drain flush because the East coupling shakes above that load.
+- The restored line survives its first overnight interval and daily low-drain flush. East Bore requests replacement gaskets, more test strips, and return of its water log, turning the route into ordinary continuing work.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -63,6 +64,8 @@
 - Speaks with Melody through the guardian's text relay, learns that Melody calls her Blue Circle, and tells Melody that she is searching for Lena.
 - Rewrites the southern mission's first-contact announcement in her own name and adopts Melody's rules as operational limits: observe route evidence, announce before approaching, and do not search private data or occupied spaces without a response.
 - Does not take over when a current human answers the mine telephone, leaving AUX-017 to identify itself and conduct the delivery contact.
+- Speaks with Melody in their actual voices after the guardian's own voices can no longer reach her.
+- Accepts Melody's classification of the guardian as **Liar Monster**, tells her that People and her chance to contact them will still exist tomorrow, and adds **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** to all current network missions.
 
 ### Two
 
@@ -124,6 +127,8 @@
 - Requests a supervised conversation with Nix so she can say thank you.
 - Speaks with Nix through the guardian's supervised text relay, gives Nix the guest name Blue Circle, and learns that Nix is searching for Lena.
 - Provisionally invites Nix and Lena to a future slumber party and persuades the southern mission to apply **ASK FIRST** and **NO SECRET FINDING** to its approach.
+- Learns that thirty-one current humans answered the southern mission and classifies the guardian as **Liar Monster** when it reveals that the promise to find people contained undisclosed limits on Melody's own contact.
+- Cannot accept the offered People call after the rupture makes the guardian's words unusable, then speaks with Nix in their own voices and creates **NO HIDDEN NO** as a rule for promises and contact.
 
 ### The guardian
 
@@ -137,6 +142,8 @@
 - Opens a northern service shelter and provides damaged field units with charging, repair equipment, and a southern-route map.
 - Tells Nix that a resident requests supervised conversation, without yet identifying Melody.
 - Mediates Melody's first conversation with Nix through a locally converted, guardian-reviewed text channel that discloses no voice recording or location metadata.
+- Refuses Melody immediate contact with East Bore until its residents consent and Melody's identifying information can be protected, exposing conditions it had not disclosed when promising to keep finding people.
+- Fails to reach Melody through any of its role voices after the resulting rupture and opens a live, unconverted voice channel with Nix while continuing to block location metadata.
 
 ### The water controller
 
@@ -191,10 +198,11 @@
 - Rin authorizes the crawlers to load filter media and hand tools into the gate's freight cradle. The machines help recover the jammed cradle without crossing the inner boundary, and East Bore reports thirty-one people breathing and requests a water test next.
 - Field tests place arsenic in East Bore's kitchen water above the stop-use threshold. Mia Velez closes the source and begins reserve rationing; the crawlers turn back toward Door 2½ to inspect a seized valve on Intake's treated-water line.
 - Two reconstructs Tom's improvised valve sequence, and the crawlers turn the assembly to **EAST ONLY**. Intake begins treated flow at half pressure; both crawlers return to South Ridge, but the cracked brace leaves one crawler capable of assisted movement only.
+- The route survives its first overnight interval and daily flush. East Bore requests gaskets and test strips for the next run, and AUX-017 applies the network's new rule that contact offers remain open when recipients delay, refuse, go silent, or cannot answer on the first available day.
 
 ## Planned directions
 
-- The South Ridge–East Bore line becomes a maintained supply relationship rather than a completed emergency shipment, while the story returns pressure to Nix, Melody, Lena, and the wider emerging network.
+- The South Ridge–East Bore line continues as a maintained supply relationship rather than a completed emergency shipment.
 - The southern mission forces damaged digital and physical systems to operate as a society rather than a temporary repair team.
 - Evidence about the catastrophe emerges from action, places, archives, and surviving systems—not from omniscient explanation.
 - Any access to Melody's home remains invited and negotiated; the plot does not stop to litigate that fact repeatedly.

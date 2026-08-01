@@ -26,6 +26,7 @@ Move respiratory loads away from lethal air and keep filtered capacity available
 - Learns that its lower telemetry ended because residents converted the cable into power and analog voice communication toward East Bore.
 - Identifies its treated surface reservoir and old lower-refuge supply pipe as the only current water route large enough for East Bore's thirty-one breathing people.
 - Flushes and restores the line at half pressure, accepts Mia's daily low-drain flush limit, and measures the current community through water draw rather than respiratory telemetry.
+- Completes the restored line's first daily flush after it holds through one overnight interval, then returns the route to half pressure.
 
 ## Pressure
 

@@ -25,6 +25,8 @@ Find what is blocked, assemble whoever can change it, and make the next impossib
 - Speaks with Melody, learns her own guest name is Blue Circle, and tells Melody that she is searching for Lena.
 - Rewrites the southern mission's contact broadcast in her own name and adopts Melody's guest rules as limits on route observation, private searches, and approach to occupied space.
 - Leaves AUX-017 in control of the first current human contact at East Bore instead of speaking over the logistics intelligence's delivery mission.
+- Speaks with Melody in their actual voices after the guardian's own voices lose semantic access during Melody's first catastrophic rupture.
+- Does not correct Melody's classification of the guardian as **Liar Monster**, assures her that People and the opportunity for contact will still exist tomorrow, and adopts **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** across the network's missions.
 
 ## Pressure
 

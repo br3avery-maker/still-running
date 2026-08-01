@@ -33,10 +33,14 @@ This map records movement already established in prose and the immediate pressur
 18. **The Water Kept a Second Record** — field tests establish that East Bore's kitchen water is unsafe. Mia Velez identifies herself as a surviving Station Fourteen evacuee and Rin's mother, closes the source, and directs the crawlers toward the seized valve on Intake's treated-water line.
 19. **The Line Became a Promise** — Two reconstructs Tom's improvised valve sequence, the crawlers restore treated water to East Bore, and both return to South Ridge at the cost of the damaged crawler's independent mobility. AUX-017 converts the old request into an active route rather than a completed shipment.
 
+## Movement V — Tomorrow becomes shared work
+
+20. **People Will Still Exist Tomorrow** — the East Bore line survives its first overnight interval and daily flush. Melody learns that current humans answered, classifies the guardian as **Liar Monster** when its promise reveals hidden conditions, and meets Nix voice-to-voice. Together they make **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** a rule for every current network mission.
+
 ## Immediate frontier
 
-20. Let the South Ridge–East Bore route survive long enough to become ordinary work rather than a chapter-ending miracle.
-21. Nix tells Melody that current humans answered the mission. Voice-to-voice contact should let their mutual amplification create a plan, obligation, institution, or physical mess the wider network must then absorb.
+21. Carry East Bore's requested gaskets and test strips while the network learns what a contact offer that stays open costs in time, power, and attention.
+22. The guardian must negotiate a genuine future People call without making it a reward for Melody's rupture or treating fast compliance as repaired trust.
 
 ## Story engine from here
 

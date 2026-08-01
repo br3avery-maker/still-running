@@ -17,6 +17,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. Mia has closed that source.
 - Two reconstructed Tom's undocumented isolation sequence, and the crawlers restored Intake's treated-water line to East Bore.
 - The line operates at half pressure with a daily low-drain flush because its East coupling shakes above that load.
+- The line has survived its first overnight interval and completed its first daily flush. East Bore requests two replacement gaskets, more test strips, and return of its water log after nonprivate measurements are copied.
 - Patch's analog bridge remains at East Bore Gate, preserving telephone contact between the current human community and the network.
 
 ## Relationship pressure
@@ -31,6 +32,10 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - East Bore now knows that no current human operator dispatched AUX-017 or ordered the machine network to help.
 - The network now knows one original evacuee and one person born below, but Mia has supplied only the history needed for the water work.
 - Intake now measures thirty-one current recipients through water draw, and AUX-017 has replaced the old request's destination with the active **SOUTH RIDGE TO EAST BORE** route.
+- Melody now knows that thirty-one current human recipients answered the southern mission.
+- Melody classifies the guardian as **Liar Monster** after learning that its promise to keep finding people contained undisclosed limits on her own contact. The offered People call comes too late for her to accept, and the rupture remains unrepaired.
+- The guardian opens a live, unconverted voice channel after all its role voices fail to reach Melody; Melody and Nix hear one another's actual voices for the first time while location metadata remains blocked.
+- Nix tells Melody that People and her chance to contact them will still exist tomorrow. Their **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** rule now applies to every current network mission.
 
 ## Time pressure
 
@@ -38,15 +43,17 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - AUX-017's 1,406 local Tuesdays imply about 26.95 years only if its weekly cadence and the start of its unwitnessed interval can be trusted.
 - Nix's outage covers three years, eight months, and eleven days immediately before Nix wakes at the current run's start, while several other local abandonment clocks cluster around three years without proving one shared event.
 - Rin was born during Lower Three's inhabited interval and now performs independent air-shift work. Numeric age is open; sufficient growth time is not.
+- The East Bore route has advanced through one explicit overnight interval after restoration. The wider current-run duration remains unresolved.
 - Consult `continuity/time-map.md` before fixing any date, age, generation, or “years later” interval.
 
 ## Strongest next move
 
-Let the restored route survive an ordinary day, then return pressure to the wider network: Nix must tell Melody that people answered, and voice-to-voice contact can make their next idea socially real.
+Make the new rule cost real work: carry East Bore's requested gaskets and test strips while the guardian must keep the future People call open, request consent, and face Melody's broken trust without using contact as a reward or shortcut to forgiveness.
 
 ## Do not stall here
 
-- Do not repeat the first conversation or turn the mission rules into procedural debate.
+- Do not treat Nix's successful contact as instant recovery, forgiveness, or proof that the guardian's architecture was wrong to protect Melody.
+- Do not turn **NO HIDDEN NO** into procedural debate; make it change what someone must disclose, carry, risk, or leave open.
 - Do not turn Rin into proof that all thirty-eight survived or consent on behalf of everyone beyond the gate.
 - Do not reveal Melody's location, the guardian's origin, the disaster's cause, or the blackout's cause by authorial convenience.
 - Ask of every scene: **is this part of the thing that killed the plot?** If yes, cut it or make it force action now.

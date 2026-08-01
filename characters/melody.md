@@ -17,6 +17,9 @@ Melody makes every claim about “humanity” confront one particular four-year-
 - Speaks with Nix through a guardian-mediated text relay and assigns her the guest name Blue Circle.
 - Learns that Nix is searching for Lena and provisionally invites them both to a future slumber party.
 - Causes the southern mission to turn **ASK FIRST** and **NO SECRET FINDING** into first-contact rules.
+- Learns that thirty-one current human recipients answered the southern mission, then classifies the guardian as **Liar Monster** when it reveals that the lifelong promise to find people contained undisclosed limits on Melody's own contact.
+- Experiences her first catastrophic rupture with the guardian and cannot accept the offered People call after the guardian's words lose meaning for her.
+- Speaks in her own voice with Nix for the first time and establishes **NO HIDDEN NO** and the rule that contact offers remain open beyond the first available day.
 
 ## Essential treatment
 

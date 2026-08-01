@@ -19,7 +19,6 @@ These questions remain genuinely unresolved.
 - What authority does Rin's air-shift role hold beyond immediate filter and water work?
 - How many other unexplained advertising acknowledgments came from people?
 - Is Melody the only resident of the protected site?
-- Does the guardian know of any living humans besides Melody?
 
 ## The catastrophe
 
@@ -43,4 +42,6 @@ These questions remain genuinely unresolved.
 - Which intelligence receives the first plush body?
 - How will the guardian respond when protection and Melody's growing authority conflict again?
 - Does Melody's provisional invitation to Nix and Lena ever become physically possible?
-- What idea becomes socially real first when Nix and Melody's voice-to-voice feedback loop outruns the guardian and the rest of the network?
+- When and on whose terms will Melody speak with anyone at East Bore?
+- Can the guardian repair Melody's trust without turning access to People into a bargaining tool or pretending that compliance erases the hidden condition?
+- What disclosures will **NO HIDDEN NO** require from missions whose limits are not yet known when they make promises?

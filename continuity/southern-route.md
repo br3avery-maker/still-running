@@ -17,11 +17,13 @@ The mission has paid for the route:
 - East Bore's kitchen water crosses the field kit's arsenic stop-use threshold, and Mia closes the contaminated source;
 - Two reconstructs Tom's undocumented isolation sequence, allowing the crawlers to restore Intake's treated-water line;
 - the line operates at half pressure with a daily low-drain flush because its East coupling shakes at higher load;
+- the line survives its first overnight interval and completes its first daily flush;
+- East Bore requests two replacement gaskets, more test strips, and return of its water log after nonprivate measurements are copied;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Sustain the South Ridge–East Bore route: repair or repurpose the assisted-only crawler, choose the first current cargo with Rin and Mia, and keep the water line's human modifications observable.
+Carry East Bore's requested gaskets and test strips, return the water log, and decide whether the assisted-only crawler can move them or must become fixed route infrastructure.
 
 ## Guardrails
 

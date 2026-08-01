@@ -9,7 +9,7 @@ This file records chronology established or constrained by accepted prose. It is
 - `|#####→` means the latest bound remains open.
 - Bars show allowed intervals, not probability distributions. A longer bar means broader uncertainty, not lower confidence.
 - `RUN START` means the linked waking/contact sequence in `stories/00` through `stories/04`.
-- `NOW` means the present reached at the end of `stories/18-the-line-became-a-promise.md`.
+- `NOW` means the present reached at the end of `stories/19-people-will-still-exist-tomorrow.md`.
 
 ## Binding chronology guardrails
 
@@ -112,9 +112,10 @@ seven births                        lower opening |################| closure
 six dated death marks               lower opening |################| closure
 fifty-one-name duty board           lower opening |################| closure
 thirty-eight move east              after year two |########| closure
-East Bore source trend              earlier change |######| detected at NOW
-East Bore source closed                        NOW |#|
-treated line restored                          NOW |#| continuing route
+East Bore source trend         earlier change |######| route day 0 detection
+East Bore source closed                  route day 0 |#|
+treated line restored                    route day 0 |#| continuing route
+first overnight and daily flush          route day 0 |# one night #| route day 1 / NOW
 ```
 
 Established sequence:
@@ -137,7 +138,7 @@ Station Fourteen evacuation |######################| NOW
 
 Either bar may be long or short. No accepted prose ties the evacuation to 2026.
 
-Sources: `stories/13-every-arrow-pointed-south.md` through `stories/18-the-line-became-a-promise.md`.
+Sources: `stories/13-every-arrow-pointed-south.md` through `stories/19-people-will-still-exist-tomorrow.md`.
 
 ## Lena and Nix
 
@@ -165,12 +166,13 @@ Morrow reaches truck                  mission morning |########| sunset
 Station Fourteen reached                    sunset |#####| later
 water-controller field crisis             later |#######| resolved
 Melody water restriction             breakfast day C? |#####| water restored
-southern route and East Bore contact       after repair |############| NOW
+southern route and East Bore contact       after repair |############| line restored
+active East Bore route                      route day 0 |# overnight #| first daily flush / NOW
 ```
 
-At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. The exact duration from Nix waking through the active East Bore route remains open.
+At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. One overnight interval is now explicit between restoration of the East Bore line and its first daily flush. The exact duration from Nix waking through that route day remains open.
 
-Sources: `stories/02-the-princess-revises-the-guest-list.md` through `stories/18-the-line-became-a-promise.md`.
+Sources: `stories/02-the-princess-revises-the-guest-list.md` through `stories/19-people-will-still-exist-tomorrow.md`.
 
 ## Operational clocks that constrain scenes
 
@@ -195,13 +197,15 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - **Water field tests:** The bacterial test needs eighteen hours; the arsenic test needs twenty minutes and crosses stop-use color at minute twelve. Range: sample `|####################|` result. Source: `stories/17-the-water-kept-a-second-record.md`.
 - **East Bore reserve:** Five days at full ration or eight at survival ration remain before alternate supply. Range: source close `|##### to ######## days|` exhaustion. Source: `stories/17-the-water-kept-a-second-record.md`.
 - **Crawler return:** The crawlers make an eleven-minute cooling stop and transmit position every thirty seconds. Range: gate departure `|###########|` surface return. Source: `stories/18-the-line-became-a-promise.md`.
+- **First route interval:** The restored East Bore line holds overnight, then completes its first daily low-drain flush before returning to half pressure. Range: restoration `|# one night #|` first flush. Source: `stories/19-people-will-still-exist-tomorrow.md`.
 
 ## Proposed and recurring clocks
 
 - Melody proposes a slumber party every two weeks, but the guardian authorizes one attempt before any recurring schedule. Range: proposal `|#####→|` first party unresolved. Source: `stories/02-the-princess-revises-the-guest-list.md`.
 - Aster continues a ninety-six-minute orbit while useful passes remain. Range: current pass `|#####→|` orbital failure unresolved. Source: `stories/03-processes-still-running.md`.
-- Intake and East Bore establish a daily low-drain flush for the restored water line. Range: restoration `|# every day #→|` route continues. Source: `stories/18-the-line-became-a-promise.md`.
-- AUX-017 converts the old shipment into a route explicitly requiring tomorrow. Range: route opens `|#####→|` recurring delivery future. Source: `stories/18-the-line-became-a-promise.md`.
+- Intake and East Bore establish a daily low-drain flush for the restored water line, and the first flush completes after one overnight interval. Range: restoration `|# one overnight #|` first flush `|# every day #→|` route continues. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
+- AUX-017 converts the old shipment into a route explicitly requiring tomorrow; that first tomorrow arrives, and East Bore requests cargo for the following run. Range: route opens `|# one overnight #|` first ordinary work `|#####→|` recurring delivery future. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
+- Nix tells Melody that the People call remains available tomorrow; no exact call time is promised. Range: first live Nix voice `|#####→|` future East Bore contact unresolved. Source: `stories/19-people-will-still-exist-tomorrow.md`.
 
 ## Chapter scan coverage
 
@@ -224,6 +228,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - `stories/16`: measurement correction takes eight minutes; filter conversion and receipt take twenty-seven more minutes.
 - `stories/17`: six-day downstream water lag; eighteen-hour bacterial test; twenty-minute arsenic test; five-to-eight-day water reserve; Rin's birth falls inside the Lower Three interval.
 - `stories/18`: thirty-second position bursts; eleven-minute cooling stop; daily flush agreement; the active route explicitly requires tomorrow.
+- `stories/19`: the East Bore route holds for one explicit overnight interval and completes its first daily flush; the future People call remains open without an exact deadline.
 
 ## Questions future prose may answer
 
