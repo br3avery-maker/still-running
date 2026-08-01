@@ -6,16 +6,16 @@ These questions remain genuinely unresolved.
 
 - Can the braced crawler climb back from Lower Gallery Three after sacrificing its rear temperature sensor?
 - What must remain with AUX-017's truck at South Ridge while the crawlers deliver below?
-- Which original evacuees survived the years underground, and who are the seven people born below?
+- Which original evacuees besides Mia survived the years underground, and who are the six other people born below?
 - Why did thirty-eight residents move east, and what exists beyond East Bore Gate now?
-- What contaminates East Bore's water, and can the equipment already below identify a remedy?
+- Can the crawlers operate the seized isolation wheel and restore Intake's treated-water line before East Bore's reserve reaches survival rationing?
 - What ignited the coal seam, and how long can South Ridge remain physically safe above it?
 
 ## People
 
 - What happened to Lena after the evacuation image?
-- Are any of Station Fourteen's original forty-three evacuees still alive?
-- How do the thirty-one current East Bore residents descend from or relate to the original forty-three?
+- Which other Station Fourteen evacuees remain alive besides Mia?
+- How do the other thirty East Bore residents descend from or relate to the original forty-three?
 - What authority does Rin's air-shift role hold beyond immediate filter and water work?
 - How many other unexplained advertising acknowledgments came from people?
 - Is Melody the only resident of the protected site?

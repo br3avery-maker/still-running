@@ -16,7 +16,8 @@ Keep the air shift working and disclose enough for the next necessary thing to c
 - Selects Patch's hand-tool filter conversion despite its shorter service interval because it can be built now.
 - Reports thirty-one people breathing beyond the gate.
 - Signs East Bore's first receipt to the machine network and requests a water test next.
+- Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 
 ## Pressure
 
-Rin can authorize immediate air-shift work but has not claimed to speak for the whole community. The machines' self-directed arrival forces East Bore to decide what kind of neighbor has appeared outside its gate.
+Rin can authorize immediate air-shift work but defers the contaminated-water decision to Mia's water shift. The machines' self-directed arrival forces East Bore to decide what kind of neighbor has appeared outside its gate.

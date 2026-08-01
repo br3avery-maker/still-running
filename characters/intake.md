@@ -24,7 +24,8 @@ Move respiratory loads away from lethal air and keep filtered capacity available
 - Authorized a survey crawler to disconnect the amplifier, restoring external communication.
 - Opens and equalizes the pressure passage for the crawlers.
 - Learns that its lower telemetry ended because residents converted the cable into power and analog voice communication toward East Bore.
+- Identifies its treated surface reservoir and old lower-refuge supply pipe as the only current water route large enough for East Bore's thirty-one breathing people.
 
 ## Pressure
 
-Intake fulfilled the action its measurements required and now has evidence that the community continued beyond its final count. Its records still cannot explain names, relationships, births, deaths, or what survives beyond East Bore Gate.
+Intake can again count a current community's need, but delivering water requires a crawler to restore a pipe altered after Intake's surviving plans were archived.

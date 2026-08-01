@@ -30,11 +30,12 @@ This map records movement already established in prose and the immediate pressur
 15. **The Building Counted Breaths** — operating without Nix, AUX-017 and the crawlers reach South Ridge and find human-written proof that all forty-three evacuees arrived. Intake explains the life-saving route change, authorizes repair of its failed transmitter, and reveals that it transferred all forty-three to Lower Gallery Three before telemetry failed.
 16. **The Request Answered Back** — Patch braces the damaged crawler, AUX-017 carries relief supplies into Lower Gallery Three, and public evidence establishes years of underground life, births, deaths, and an eastward evacuation. The machines bridge the repurposed telephone line and contact a current human beyond East Bore Gate who asks for filters.
 17. **The Cargo Crossed First** — Rin directs a bounded filter transfer through East Bore's freight cradle. The machines help recover the jammed delivery without crossing the gate, and East Bore reports thirty-one people breathing, signs the receipt, and requests a water test next.
+18. **The Water Kept a Second Record** — field tests establish that East Bore's kitchen water is unsafe. Mia Velez identifies herself as a surviving Station Fourteen evacuee and Rin's mother, closes the source, and directs the crawlers toward the seized valve on Intake's treated-water line.
 
 ## Immediate frontier
 
-18. AUX-017 uses the water-test kit already below while Rin decides how much of East Bore's condition and history the task requires disclosing.
-19. The unloaded crawlers must return toward South Ridge, and the braced leg and sacrificed temperature sensor must become physical costs rather than forgotten damage.
+19. The unloaded crawlers return toward Door 2½, where the braced leg, sacrificed temperature sensor, and undocumented water-line modification become physical costs.
+20. Restoring flow must create a durable relationship among East Bore, Intake, and the machine network rather than closing the old request as a completed shipment.
 
 ## Story engine from here
 

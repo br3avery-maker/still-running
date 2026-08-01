@@ -12,12 +12,14 @@ The mission has paid for the route:
 - external communication has been restored through Intake;
 - Rin, East Bore's air-shift worker, identifies Station Fourteen as their mother's shelter;
 - East Bore accepts the filters and reports thirty-one people breathing;
-- the survival of the original forty-three and the current residents' relationships to them remain unresolved;
+- Mia Velez from row six is alive, and Rin is her child and one of seven people born below;
+- the survival of the other original evacuees and the current residents' relationships to them remain unresolved;
+- East Bore's kitchen water crosses the field kit's arsenic stop-use threshold, and its closed source leaves five full-ration or eight survival-ration days in reserve;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Use the water-test kit already below to answer East Bore's next request, then determine what must come from the truck and whether both damaged crawlers can return for it.
+Return to Door 2½ and inspect the seized isolation wheel on Intake's old lower-refuge supply pipe. Restore treated flow if the altered line can be made safe.
 
 ## Guardrails
 

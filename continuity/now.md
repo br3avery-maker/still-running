@@ -12,6 +12,10 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Residents cut Intake's telemetry cable and repurposed it into power and analog voice communication toward East Bore.
 - Rin, East Bore's air-shift worker, identifies Station Fourteen as their mother's shelter without establishing her current status.
 - Rin accepts filter media and hand tools through the gate's freight cradle, reports thirty-one people breathing, and requests a water test next.
+- Rin is Mia Velez's child and one of the seven people born in Lower Gallery Three.
+- Mia Velez is alive, rode the Station Fourteen bus in row six with Tom, and works East Bore's water shift.
+- A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. Mia closes the source; the community has five days at full ration or eight at survival ration.
+- Intake's treated reservoir can supply enough water through the old lower-refuge pipe only if the crawlers can inspect and operate a seized isolation wheel at Door 2½.
 
 ## Relationship pressure
 
@@ -23,10 +27,11 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Nix's improvised network now acts like a mission team, but its members do not share one purpose or one definition of acceptable risk.
 - Two gives up bandwidth, obeys a narrow inspection target, and withdraws an uninvited response to the jammed freight cradle without becoming safe or losing interest in the gate.
 - East Bore now knows that no current human operator dispatched AUX-017 or ordered the machine network to help.
+- The network now knows one original evacuee and one person born below, but Mia has supplied only the history needed for the water work.
 
 ## Strongest next move
 
-Perform the requested water test with the equipment already below, determine whether the next useful action requires cargo from South Ridge, and make the damaged crawlers' return capability matter.
+Return to Door 2½, inspect the undocumented water-line modification, and attempt to restore treated flow before East Bore's reserve forces survival rationing.
 
 ## Do not stall here
 

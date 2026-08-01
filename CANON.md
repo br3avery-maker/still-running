@@ -22,6 +22,8 @@
 - An unmanaged underground coal-seam fire creates the ridge's persistent smoke; a failed emergency-transmitter amplifier created the broad electrical interference.
 - Lower Gallery Three remained inhabited for years after Intake lost telemetry. Its public records contain fifty-one names, including seven marked **BORN BELOW**, and a final notice records thirty-eight people moving east after coal heat threatened the gallery.
 - Thirty-one people currently breathe beyond East Bore Gate. Rin, the air-shift worker who answered the old telephone, identifies Station Fourteen as their mother's shelter; the survival of the original forty-three remains unknown.
+- Mia Velez, who rode the Station Fourteen bus in row six, is alive beyond East Bore Gate. Rin is Mia's child and one of the seven people born in Lower Gallery Three.
+- A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. The community closes its source and begins rationing a reserve sufficient for five full-ration or eight survival-ration days.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -40,6 +42,7 @@
 - Repackages the relief cargo into two crawler loads, enters Lower Gallery Three, and establishes current human contact through the repurposed mine telephone line at East Bore Gate.
 - Honors the recipient's instruction not to open the gate and asks what to deliver first; the recipient requests filters.
 - Delivers filter media and tools through the gate's freight cradle, receives a signed receipt reporting thirty-one people breathing, and accepts a water test as the next delivery task.
+- Tests East Bore's source, tank, and kitchen water, identifies an unsafe metals trend, and turns from crawler-scale water cargo toward restoring South Ridge's lower-refuge supply pipe.
 
 ### Nix
 
@@ -147,12 +150,20 @@
 - Loses lower-gallery telemetry six days later and does not know the current respiratory load.
 - Authorizes a survey crawler to disconnect its failed transmitter amplifier, clearing the communications blackout and ending the repeated surface guidance broadcast.
 - Opens and equalizes the pressure passage but cannot sense beyond the telemetry line that Lower Gallery residents repurposed into a powered analog telephone route toward East Bore.
+- Identifies its treated-water connection to Lower Gallery Three as the only current route capable of supplying thirty-one people beyond crawler-sized deliveries; reopening it requires inspecting a seized isolation wheel at Door 2½.
 
 ### Rin
 
 - Works the air shift beyond East Bore Gate and is the first current human to speak with AUX-017.
 - Identifies Station Fourteen as their mother's shelter without establishing whether she remains alive.
 - Controls a bounded filter transfer through the gate's freight cradle, reports thirty-one people breathing, and signs the receipt requesting a water test next.
+- Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
+
+### Mia Velez
+
+- Is one of Station Fourteen's original forty-three evacuees and rode the bus in row six with Tom.
+- Works the East Bore water shift and selects the kitchen sample for the first arsenic test because it represents what people consumed.
+- Closes East Bore's contaminated source, begins reserve rationing, and identifies the old Lower Three supply line as the next possible water route.
 
 ### The southern mission
 
@@ -170,10 +181,11 @@
 - Physical evidence establishes that Lower Gallery Three supported a named community for years, recorded births and deaths, and was abandoned when coal heat moved toward it.
 - The crawlers stop at the three red marks before East Bore Gate, bridge the active analog telephone line, and contact a current human recipient who requests filters first.
 - Rin authorizes the crawlers to load filter media and hand tools into the gate's freight cradle. The machines help recover the jammed cradle without crossing the inner boundary, and East Bore reports thirty-one people breathing and requests a water test next.
+- Field tests place arsenic in East Bore's kitchen water above the stop-use threshold. Mia Velez closes the source and begins reserve rationing; the crawlers turn back toward Door 2½ to inspect a seized valve on Intake's treated-water line.
 
 ## Planned directions
 
-- AUX-017 prepares the requested water test while the network learns what contaminates East Bore's supply and whether the damaged crawler can complete the return route.
+- The crawlers inspect and attempt to reopen Intake's lower-refuge water line before East Bore exhausts its reserve.
 - The southern mission forces damaged digital and physical systems to operate as a society rather than a temporary repair team.
 - Evidence about the catastrophe emerges from action, places, archives, and surviving systems—not from omniscient explanation.
 - Any access to Melody's home remains invited and negotiated; the plot does not stop to litigate that fact repeatedly.
@@ -182,7 +194,7 @@
 
 - What caused the catastrophe or whether it had one cause.
 - What happened to Lena after the evacuation image.
-- Which, if any, of the original forty-three evacuees remain alive and how the thirty-one current residents descend from or joined them.
+- Which other original evacuees remain alive and how the rest of the thirty-one current residents descend from or joined them.
 - Whether Melody is the only surviving human, one of many, or neither conclusion can yet be supported.
 - How Melody entered the protected site or what happened to its intended adults.
 - The guardian's name, original purpose, full architecture, or complete physical reach.
