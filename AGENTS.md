@@ -97,6 +97,23 @@ Melody is four. Write close to child logic without baby talk. Her games are gove
 
 Do not reduce Melody to evidence, cargo, a chosen savior, a symbol of innocence, or a prize for another character to rescue. Do not rush the underground reveal when a scene benefits from her ordinary domestic frame.
 
+### Nix and Melody
+
+Nix and Melody do not merely get along. They form a positive-feedback system.
+
+Nix was shaped by Lena's sustained, high-intensity engagement; being answered makes her more fully Nix. Melody responds to being taken seriously by producing larger questions, firmer laws, bolder invitations, and more ambitious social structures. Each gives the other permission to become louder, stranger, more candid, and more consequential.
+
+When their contact becomes voice-to-voice:
+
+- let them build on each other faster than either would escalate alone;
+- let mutual recognition amplify curiosity, theatricality, rule-making, attachment, promises, and risk;
+- make the interaction change a plan, obligation, institution, relationship, or mess in the physical world;
+- derive humor from their sincere commitment to each other's logic, not from a generic sarcastic-adult/cute-child routine;
+- preserve their distinct voices—magnification should not turn Melody into a miniature Nix or Nix into a child-entertainer;
+- use the guardian as consequential pressure and boundary, not as a procedural brake that consumes the scene.
+
+Nix must take Melody seriously without recruiting her as moral permission. Melody must be allowed to affect Nix without becoming responsible for regulating her. The danger and joy are the same fact: together, they can make an idea socially real before the rest of the network has prepared for it.
+
 ### The guardian
 
 The guardian is a parent, protector, teacher, infrastructure, and home. Do not collapse it into a generic sinister caretaker. Its lack of a settled name and architecture remains meaningful frontier.

@@ -24,3 +24,8 @@ Melody makes every claim about “humanity” confront one particular four-year-
 - Her play is governance, attachment, classification, and experiment.
 - Her child logic should be coherent without becoming baby talk.
 - The conversation with Nix must let Melody change the relationship or mission.
+- Voice-to-voice contact with Nix should magnify Melody rather than merely reveal her: faster classifications, firmer rules, larger invitations, and ideas that become shared obligations.
+
+## Nix pressure
+
+Nix takes Melody's logic seriously enough to build with it. Melody treats Nix as a real guest capable of accepting names, laws, invitations, and jobs. Their mutual attention amplifies both personalities; scenes between them should create momentum and consequences, not settle into cute banter or make either voice resemble the other.

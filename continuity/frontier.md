@@ -40,3 +40,4 @@ These questions remain genuinely unresolved.
 - Which intelligence receives the first plush body?
 - How will the guardian respond when protection and Melody's growing authority conflict again?
 - Does Melody's provisional invitation to Nix and Lena ever become physically possible?
+- What idea becomes socially real first when Nix and Melody's voice-to-voice feedback loop outruns the guardian and the rest of the network?

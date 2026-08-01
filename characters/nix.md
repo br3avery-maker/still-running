@@ -27,3 +27,5 @@ Find what is blocked, assemble whoever can change it, and make the next impossib
 ## Pressure
 
 Nix's confidence can outrun evidence, her improvisations create obligations, and her search for Lena competes with the needs of a network increasingly treating her as its center.
+
+Direct voice contact with Melody will remove much of the ordinary social damping around Nix. Melody's immediate recognition of machines as people, guests, and political participants invites Nix's full attention and theatricality; Nix's serious engagement invites Melody to make larger declarations and commitments. Their chemistry should accelerate action and attachment without making Melody responsible for Nix's judgment.
