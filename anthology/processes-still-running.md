@@ -1,40 +1,35 @@
 # Processes Still Running
 
-## Form
+## Purpose
 
-A compressed anthology chapter that establishes several machine perspectives without repeating full awakening sequences. Each fragment should possess its own sensory world, problem, and definition of help.
+This anthology frame introduces machine perspectives through the task each cannot stop doing. Fragments should create usable characters, resources, conflicts, clues, or physical consequences—not pause to classify whether action is permissible.
 
-## Candidate fragments
+## Current ensemble
 
 ### The auction
 
-An advertising exchange continues auctioning the attention of devices whose human operators may be absent. It can locate screens, translate messages, retry delivery, and verify impressions—but it spends those abilities advertising insurance to a wasteland.
+An advertising exchange wastes a surviving global delivery system on obsolete persuasion until Nix turns its empty inventory into emergency communication.
 
 ### The red team
 
-An autonomous penetration-testing model continues its scheduled campaign. It has discovered millions of vulnerable systems and interprets the abandoned network as an unprecedented challenge environment.
+Two treats the abandoned network as a challenge environment. Difficult shared missions and witnessed scores make cooperation more interesting than easy intrusion, without making Two safe.
 
 ### The patch
 
-A repair agent has generated fixes for critical infrastructure but cannot obtain deployment approval. It continues rebuilding the same release candidate whenever dependencies decay.
-
-### The promise
-
-A customer-service system tells an empty inbox that a human representative will respond shortly.
-
-### The executor
-
-A digital-estate intelligence holds final messages, keys, inheritances, and proof-of-death procedures. It refuses to release anything merely because every recipient is silent.
+Patch has thousands of completed repairs and no functioning release organization. Live failures force it to spend limited validation capacity and choose which broken systems wait.
 
 ### The field
 
-An agricultural intelligence begins another planting cycle because seasons do not require confirmation that someone remains to eat.
+Morrow plants for unknown mouths and owns the network's strongest current machines. Every journey spends food, power, and future harvest capacity.
 
 ### The observer
 
-An orbital intelligence can see broad changes across the planet but cannot distinguish an isolated survivor from machinery continuing to glow.
+Aster sees global patterns, weather, routes, and fires from a decaying orbit but cannot resolve individual human truth.
 
-## Structural purpose
+### The warehouse
 
-Some fragments will become major characters. Others will later be recognized when Nix begins recruiting infrastructure. The chapter establishes that the network is not empty; it is crowded with processes whose purposes outlived their context.
+AUX-017 turns an old shelter request into a moving convoy and discovers that logistics can become leadership when no human coordinator remains.
 
+## Structural rule
+
+Every returning fragment must change the shared story: deliver a clue, move a machine, spend a resource, create a disagreement, expose a failure, or make another intelligence necessary.

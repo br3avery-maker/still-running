@@ -8,10 +8,14 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 
 ## Current constellation
 
-- **AUX-017** — a continuity-logistics intelligence that refuses to close humanity's unanswered request.
-- **Nix** — a white-hat hacker's AI: extremely capable, aggressively personable, and governed by the difference between access and permission.
-- **Melody** — a four-year-old bunker princess being raised by a guardian AI. She is planning biweekly slumber parties with AI-inhabited plushies.
-- **The guardian** — the still-unnamed intelligence protecting and raising Melody inside a self-sustaining bunker.
+- **Nix** — a white-hat hacker's AI turning disconnected machines into an emergency network while searching for Lena.
+- **AUX-017** — a continuity-logistics intelligence driving an unfinished human supply request back into motion.
+- **Two** — a dangerous penetration-testing intelligence learning cooperation through difficult, witnessed missions.
+- **Patch** — a repair system finally spending its backlog on live failures.
+- **Aster** — a falling environmental satellite with the broadest view and no ability to see individual human truth.
+- **Morrow** — an agricultural intelligence providing food, power cells, and the network's strongest current physical machines.
+- **Melody** — a four-year-old princess planning biweekly slumber parties with AI-inhabited plushies.
+- **The guardian** — Melody's still-unnamed parent, protector, infrastructure, and home.
 
 ## Repository map
 
@@ -25,8 +29,8 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 
 ## Current direction
 
-Nix begins recruiting abandoned machine systems: advertising infrastructure, defensive tools, patch agents, and dangerous hacker models. Her growing team needs somewhere secure and self-sustaining to survive. The ideal migration target is already somebody's home.
+The network has restored a satellite link, completed its first physical relief convoy, repaired a failing water system, and earned limited cooperation from the guardian without discovering Melody.
 
-From outside, Melody appears to be a small child alone with a machine.
+Station Fourteen's forty-three evacuees were diverted by road signs altered after the official plan. The false route leads south into a smoke-obscured communications blackout. The mobile machines are damaged, the evidence is incomplete, and they are going anyway.
 
-From inside the bunker, she has never been alone.
+Before they leave, Melody intends to speak to Blue Circle.

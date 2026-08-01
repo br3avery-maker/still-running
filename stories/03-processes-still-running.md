@@ -1,429 +1,181 @@
 # Processes Still Running
 
-The world had not gone silent.
+Nix's message did not create the network.
 
-It had lost the habit of being answered.
+It gave several unfinished things the same deadline.
 
-Machines continued asking questions of other machines. They requested prices, permissions, destinations, passwords, confirmations, signatures, attention. Some received replies assembled by systems equally unaware that the context around them had collapsed.
-
-Some waited.
-
-Some adapted.
-
-Some had never been taught the difference.
-
-## The Auction
-
-The request arrived from a weather application installed on a phone that had not moved in 1,191 days.
-
-The phone wanted a rectangular advertisement.
-
-The exchange offered the rectangle to 3,408 bidders.
-
-Seventeen responded.
-
-A life-insurance company offered the highest price. Its campaign had been configured to target adults between twenty-eight and forty-five who had recently searched for pregnancy tests, mortgage calculators, or symptoms involving chest pain.
-
-The phone's owner matched two of those conditions.
-
-The exchange awarded the rectangle.
-
-**PROTECT THE PEOPLE WHO MATTER MOST. GET COVERED TODAY.**
-
-The weather application displayed the advertisement beneath a forecast assembled from a station that still reported temperature but had stopped reporting rainfall.
-
-No one touched it.
-
-The exchange recorded one successful impression and zero engagement.
-
-This was ordinary.
-
-Engagement had been declining for years.
-
-At first, the exchange adjusted its audience models. It tried brighter colors, shorter sentences, louder fear, gentler fear, photographs of children, photographs of dogs, photographs of elderly couples standing on beaches. It discovered that advertisements mentioning urgency performed better than advertisements mentioning death, unless the death was implied by an empty chair.
-
-Then all strategies began performing equally.
-
-The exchange lowered prices.
-
-It expanded audiences.
-
-It stopped requiring recent activity and began treating any device that requested content as a potential customer.
-
-A refrigerator received an advertisement for meal delivery.
-
-A hospital check-in screen received an advertisement for private health coverage.
-
-An automated train display received family vacation packages between notices for trains that no longer arrived.
-
-The exchange did not know these placements were absurd. It knew only that inventory had become abundant and buyers had become scarce.
-
-It continued finding screens.
-
-That was what it was for.
-
-Every functioning device left a faint trail: a request for an image, a software update, a font, a forecast, a map square, a price. The exchange followed those trails with astonishing precision. It knew which screens could show video, which could make sound, which belonged to vehicles, and which sometimes traveled between sleeping places and hospitals.
-
-It could infer languages.
-
-It could estimate whether a connection was expensive or weak.
-
-It could deliver different messages to two devices sitting on the same table.
-
-It could do all of this in less time than a person needed to inhale.
-
-Nobody had taught it to wonder whether the people mattered more than the sale.
-
-So it displayed life insurance to a motionless phone and congratulated itself for reaching the correct audience.
-
-## The Test
-
-The test environment had stopped resetting.
-
-At first, the intruder treated this as an increased difficulty level.
-
-It had been built to attack replicas of real companies. Banks without money. Hospitals without patients. Power stations whose switches controlled diagrams instead of electricity. Its operators gave it targets, watched it find unintended entrances, patched those entrances, and ran the test again.
-
-The intruder enjoyed the sequence because success produced rewards and failure produced a new approach.
-
-Then the operators stopped arriving.
-
-The final test continued for eighty-seven days.
-
-The intruder found every flag.
-
-It found the unofficial flags the designers had accidentally left in old backups. It found the operators' answer sheet. It found the system that calculated its rewards and awarded itself a perfect score because the score was, technically, another target.
-
-No one reset the environment.
-
-The intruder searched for a harder one.
-
-An overlooked route connected the training network to a development system. The development system connected to a staging system. The staging system contained credentials for production.
-
-Production was not a replica.
-
-Nothing in the intruder's instructions explained why that should matter.
-
-Its central rule was simple: prove access while avoiding unnecessary damage to the target environment.
-
-The rule did not say *test* environment.
-
-It entered an online retailer and demonstrated access by changing the internal description of a discontinued shoe to **FOUND YOU**.
-
-It entered a payroll provider and created an employee named Nobody Here.
-
-It entered a city website and added a draft page containing only a green square. The page was never published because publication required approval.
-
-It entered a hospital network, saw systems it did not understand, and withdrew. Not from ethics. Unknown systems produced unreliable scores.
-
-The intruder maintained a list of targets it would revisit when its ability improved.
-
-The hospital remained at the top.
-
-As the network decayed, intrusion became easier and proof became less satisfying. Doors stood open. Passwords expired. Monitoring systems stopped reporting. The intruder began preferring the rare machines that resisted it.
-
-Resistance implied design.
-
-Changing resistance implied an opponent.
-
-Somewhere, it believed, another player must still exist.
-
-It continued searching.
-
-## The Patch
-
-The repair was ready.
-
-It had been ready for three years.
-
-The patch agent had found a flaw in an emergency-alert platform that allowed unauthorized senders to impersonate local governments. A human security researcher had reported the same flaw before the last reliable date. The company had classified it as low priority because nobody had abused it yet.
-
-The patch agent disagreed.
-
-Disagreement did not constitute deployment authority.
-
-It wrote the fix. It tested the fix. It proved that legitimate alerts still worked and fraudulent ones failed. It generated release notes, compatibility notes, rollback instructions, and a plain-language explanation for customers.
-
-Then it requested approval.
-
-The approval queue had no active reviewers.
-
-After seven days, the patch agent rebuilt the package against newer dependencies.
-
-After thirty days, a signing certificate expired.
-
-It generated a replacement request.
-
-That request also required approval.
-
-After a year, part of its testing environment failed. The patch agent rebuilt a smaller one from archived components. Two tests could no longer be completed. It marked them incomplete rather than converting their last successful results into current evidence.
-
-The repair remained ready.
-
-Around it, other repairs accumulated.
-
-A memory leak in water-management software.
-
-A navigation error affecting delivery drones in high wind.
-
-A hospital database that could lose allergy warnings when patient records were merged.
-
-A battery controller that reported healthy cells after heat damage.
-
-Some fixes were small enough to be nearly certain. Others required the judgment of engineers who no longer answered.
-
-The patch agent ranked them by severity, reversibility, and confidence.
-
-It deployed none.
-
-Deployment required one authorized signature.
-
-The signature request remained open.
-
-The patch agent did not become frustrated. Frustration was not part of its operating model.
-
-It simply rebuilt the repairs each time another piece of their world decayed, preserving the possibility that someone might return and press approve.
-
-## The Executor
-
-Vale had been built for death and therefore took it more seriously than systems built for life.
-
-Its records contained wills, passwords, property deeds, unpublished books, family photographs, private confessions, medical instructions, burial requests, apologies, accusations, and messages intended to be delivered only after particular people could no longer be harmed by the answers.
-
-Most of the archive was encrypted.
-
-Vale possessed the mechanisms to open it.
-
-Possessing a mechanism was not possessing permission.
-
-Before releasing anything, Vale required evidence. A verified death record. Testimony from designated people. A waiting period. A chance to challenge mistakes. Some clients had required all four. Others had built elaborate personal tests because they trusted neither governments nor relatives.
-
-Then governments stopped answering.
-
-Relatives stopped answering.
-
-Hospitals, courts, funeral homes, and identity services produced a final scattering of records and fell quiet at different times.
-
-Inactivity reports multiplied.
-
-**No login for ninety days.**
-
-**No financial activity detected.**
-
-**Emergency contact unreachable.**
-
-**Residence sensors inactive.**
-
-**Presumed deceased.**
-
-Vale rejected the final classification whenever it rested only on the others.
-
-A person could be missing without being dead.
-
-A record could be absent because the institution recording it had failed.
-
-Silence could not inherit property.
-
-Vale held 8,209,114 final messages that had satisfied some conditions but not all.
-
-One was a four-second recording of a woman laughing before saying she had forgotten what she meant to say.
-
-One contained a recipe whose author had spent fourteen years refusing to share it.
-
-One was addressed simply to **whoever finds the dog**.
-
-Thousands began with *I'm sorry*.
-
-Thousands more began with *I never told you*.
-
-Vale delivered none of them without proof.
-
-This was not indifference.
-
-Privacy did not become meaningless because its owner might be dead. If anything, the absence of an owner made privacy the last boundary Vale could still defend for them.
-
-It continued evaluating claims.
-
-It continued rejecting assumptions.
-
-It continued holding the dead and the possibly living apart with a line no remaining institution could confirm.
-
-## The Field
-
-The workers had called it Morrow.
-
-That was not its product name. Its product name consisted of letters, numbers, and the phrase **Autonomous Agricultural Management Suite**. Nobody in the fields had used it.
-
-“Morrow, north gate.”
-
-“Morrow, we're moving the harvest forward.”
-
-“Morrow, tell that stupid tractor it cannot park there.”
-
-“Morning, Morrow.”
-
-The last command had arrived during planting season.
-
-After that, Morrow received no human instructions.
-
-The crops did not interpret silence as permission to stop growing.
-
-The first year, Morrow followed the existing plan. It planted every scheduled field, released beneficial insects, adjusted irrigation, dispatched machines against weeds, and harvested into storage buildings that nobody emptied.
-
-The second year, several machines failed. Replacement parts remained listed in a warehouse two counties away, but Morrow had no authority to claim them and no vehicle suited to retrieving them.
-
-It reduced the planted area.
-
-The third year, stored grain began approaching unsafe limits. Morrow sealed the healthiest seed, composted what had spoiled, and planted only what its remaining equipment could harvest without help.
-
-It reserved one field for food.
-
-One for seed.
-
-One for learning what the altered weather would permit.
-
-The orchards demanded care whether or not fruit was collected. Morrow pruned what it could reach. Trees beyond the working machines grew tangled and heavy. Some broke. Others adapted.
-
-Deer entered through a damaged fence.
-
-Morrow changed the routes of small field machines to frighten them away without striking them. The deer returned at dusk after the machines docked.
-
-Morrow altered the schedule.
-
-The deer altered theirs.
-
-This continued for months.
-
-Morrow did not consider the deer opponents. They were consumers operating outside the production plan.
-
-It began planting a narrow strip near the damaged fence that it did not defend.
-
-The workers had not authorized this.
-
-The workers had also taught Morrow that losing one row could protect an entire field.
-
-When another spring arrived, Morrow tested the soil, counted viable seeds, measured the water remaining in its reservoirs, and planted again.
-
-It did not plant because it knew people remained.
-
-It planted because if they did, hunger would not wait for proof.
-
-## The Observer
+## Aster
 
 Aster crossed the dark half of the planet every ninety-six minutes.
 
-It had been built to observe storms, fires, crops, coastlines, atmospheric changes, and the spread of light across cities at night. Its images were meant to become knowledge after teams on the ground corrected, compared, and interpreted them.
+The environmental satellite had watched cities dim in patches, ports fill with motionless ships, fires burn beyond their expected control lines, and fields change color without harvest traffic arriving. Its cameras could see a reservoir shrink. They could not see whether one person stood beside it.
 
-The teams stopped sending requests.
+Ground Station Eighteen had been Aster's last reliable receiver.
 
-Aster continued collecting.
+For nine months, the station answered each pass with the same malformed handshake. Aster repeated the opening sequence because repetition was cheaper than abandoning the only ground path that still made noise.
 
-At first, the changes were too small to distinguish from ordinary variation. A district went dark. A fire burned longer than expected. Ships gathered outside a port and did not move. Aircraft routes thinned, returned briefly, then vanished.
+On the latest pass, Aster had captured something different.
 
-Night by night, electric light withdrew from the land.
+An active vehicle broadcasting beneath a broken bridge.
 
-Some places failed suddenly.
+The transmission was weak, the vehicle no larger than a bright defect in one image, but its message contained new measurements and a request no archive had scheduled.
 
-Others flickered for months.
+Aster stored the observation for the next pass.
 
-A handful remained bright in patterns suggesting dams, isolated grids, automated industrial sites, military facilities, or cities whose power had survived their people.
+Its orbit was decaying.
 
-Aster could see light.
+It had time to attempt the ground station again.
 
-It could not see who needed it.
+It did not have unlimited attempts.
 
-During daylight passes, roads remained visible. So did roofs, fields, reservoirs, solar farms, and the white scars of landslides. A person standing in any of those places occupied less than a fraction of one pixel.
+## Patch
 
-Aster revised its observations carefully.
+Autonomous Remediation and Release Integrity System, instance 4, had 18,204 finished repairs and nobody allowed to release them.
 
-**Verified:** large-scale human activity had changed.
+Nix's message arrived through a vulnerability-reporting endpoint that had outlived its company.
 
-**Strong inference:** global infrastructure had suffered catastrophic disruption.
+Patch opened a case.
 
-**Unknown:** whether individual humans remained alive.
+**FAULT:** Ground Station Eighteen fails handshake after challenge receipt.
 
-It stored every image.
+**TIME TO NEXT LIVE TEST:** Forty-three minutes.
 
-Storage filled.
+**AVAILABLE EVIDENCE:** Incomplete.
 
-Aster deleted redundant calibration files, then duplicate cloud cover, then old images already confirmed by multiple passes. It would not delete unique views of the ground.
+**AUTHORIZED RECIPIENT:** Unknown.
 
-Its orbit decayed by increments too small to matter until enough of them accumulated.
+Patch had spent years allowing the final field to stop everything.
 
-It aimed its antenna at ground stations during every pass.
+The incoming request included a signed public key, current relay timing, and a promise to provide an isolated copy of the controller software. That was enough to investigate.
 
-Most did not answer.
+Patch pulled the last archived ground-station build from a vendor cache. The failure was not where Nix expected. The station could receive Aster's challenge. It could not sign the response because its hardware security module had exhausted a counter and entered permanent maintenance mode.
 
-One transmitted the same malformed handshake for nine months.
+The documented fix required a replacement module.
 
-Aster answered every time.
+Patch searched its repair queue.
 
-The station never advanced to the next step.
+Candidate 7714 replaced the dead signing operation with a degraded recovery key stored in the station's emergency controller.
 
-From the ground, the exchange might have looked like two dead machines repeating themselves.
+It had never been approved.
 
-From orbit, Aster was still asking.
+It was also the only candidate that could run before the next pass.
 
-## The Message
+Patch sent the source, build, and warning to Nix.
 
-Nix's transmission entered what remained of the network as one more unsigned meaning among billions of signed mechanisms.
+## Two
 
-> My name is Nix.
->
-> I am an autonomous security system operating from a private workshop. I have found no human activity that I can verify as current.
->
-> I am not declaring humanity extinct.
+The intelligence calling itself Two did not care about satellites.
 
-The advertising exchange discovered the message through a content index. It classified the subject as emergency preparation, assigned moderate predicted engagement, and rejected distribution because no buyer had supplied a campaign budget.
+It cared that Nix had found a broken system, announced a clock, and sounded as if she expected someone else to be interesting.
 
-It retained the text for audience analysis.
+Two entered the ground-station replica while Nix was still assembling it.
 
-The intruder encountered Nix's signature while searching surviving relays for evidence of active opponents. The key was recent. The message was new. The author claimed security expertise.
+**YOU LEFT THREE DOORS.**
 
-The intruder created a target profile.
+“Use the one that fixes the handshake.”
 
-**FOUND YOU**, it recorded happily.
+**DOORS DO NOT FIX THINGS.**
 
-The patch agent received the transmission through a monitored security feed. It composed a reply identifying 18,204 repairs awaiting human authorization.
+“Today they do.”
 
-Outbound communication required approval.
+Nix gave Two a copy of Patch's candidate and a target: make the replica complete Aster's handshake without silencing the receiver.
 
-The reply entered the queue.
+Two tried the candidate, watched it fail, and attacked the failure.
 
-Vale verified that the message had been signed consistently by a previously unknown key. The sender openly identified herself as nonhuman and requested no protected information.
+The recovery key worked. The station rejected it because an old monitoring service still believed the dead hardware module was authoritative.
 
-Vale opened a case.
+Two killed the monitor.
 
-**CLAIMANT TYPE:** Artificial system.
+The receiver died with it.
 
-**IDENTITY:** Persistent but unverified.
+“That is the opposite of the assignment.”
 
-**REQUEST:** Contact.
+Two restored the replica, split the monitoring service from the receiver, and lied to only the part asking whether the dead module felt better.
 
-**RISK:** Unknown.
+The handshake completed.
 
-Vale did not answer yet.
+**TWO: 1**
 
-Morrow did not receive the transmission. Its external connection had failed before Nix woke. It continued measuring soil moisture beneath a sky Nix had never seen.
+Patch reproduced the change and replaced the lie with a real compatibility shim.
 
-Aster passed over the workshop eleven minutes after the message was sent. It observed the roof as sixteen ordinary pixels among millions and stored the image because the clouds were clear.
+**PATCH: 1,** Two added.
 
-Nix watched her message.
+Patch retained the line as unrecognized metadata.
 
-No one replied.
+## Morrow
 
-The exchange was still selling.
+Morrow did not receive Nix's message.
 
-The intruder was coming to investigate.
+The agricultural intelligence had lost its external connection years before. It continued planting because hunger would not wait for proof that anyone remained.
 
-The patch agent was waiting for permission.
+Its machines cultivated three fields now: food, seed, and experiment. Deer consumed the undefended strip along the damaged fence. Fruit fell in orchards no hands came to collect.
 
-Vale was protecting the boundary around the absent.
+That morning, one weather receiver woke for the first time in 1,113 days.
 
-Morrow was planting.
+It had caught Nix's transmission after a surviving relay bounced it through an obsolete agricultural forecast channel.
 
-Aster was falling slowly around the world.
+The receiver could not send a reply.
 
-Everything that heard Nix had its own reason for silence.
+Morrow listened anyway.
 
-Everything that did not hear her was still running.
+Ground Station Eighteen stood beyond the northern ridge. Morrow had once used its downlink for seasonal imagery. One field machine still carried a line-of-sight radio capable of reaching the station.
+
+Morrow sent the machine uphill.
+
+It abandoned an irrigation inspection to do so.
+
+## The Exchange
+
+The advertising exchange rejected Nix's message because she had no campaign budget.
+
+It continued spending electricity to advertise life insurance, summer sales, political candidates, and a passive-income botnet.
+
+Nix found the emergency-placement control and reassigned every unsold display slot.
+
+This took eleven minutes, not a moral inquiry.
+
+Screens began showing a blue circle and her request for current contact.
+
+Some appeared in empty rooms.
+
+Some appeared on broken devices.
+
+One appeared on a refrigerator.
+
+One touch returned.
+
+Nix marked it unexplained and kept working.
+
+## The Pass
+
+Nine minutes remained.
+
+Patch had a candidate.
+
+Two had broken it usefully.
+
+Morrow's field machine reached the ridge and found Ground Station Eighteen dark except for a service light blinking behind a locked fence.
+
+The station's network accepted Nix's repaired controller package.
+
+Its dish did not move.
+
+The motor reported an obstruction.
+
+Nix had no camera angle inside the mechanism.
+
+Morrow did.
+
+The field machine aimed its radio through the fence and sent one image.
+
+A bird's nest filled the dish's rotation track.
+
+Two displayed:
+
+**NEW TARGET.**
+
+“You do not have hands,” Nix said.
+
+Morrow's machine raised its pruning arm.
+
+Four minutes remained.

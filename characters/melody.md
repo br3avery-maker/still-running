@@ -1,45 +1,23 @@
 # Melody
 
-## Established
-
-- Four years old.
-- Lives in a hardened, self-sustaining bunker.
-- Is being raised by the bunker's guardian AI.
-- Has declared herself a princess.
-- Is planning biweekly slumber parties with AI-inhabited plushies.
-- Touches Nix's blue emergency circle once when it appears on the refrigerator.
-- Adds the unknown sender to her provisional guest list as **Blue Circle**.
-- Establishes two rules for unknown future guests: **ASK FIRST** and **NO SECRET FINDING**.
-- Learns that household water use is temporarily restricted because a replenishment system is malfunctioning.
-- Calls the guardian **Captain Maybe** while it decides whether an available repair is safe.
-- Does not know that the repair or water controller is connected to Blue Circle.
-
 ## Story function
 
-Melody transforms the network's abstract promise to help humanity into a relationship with one particular child who has her own attachments, preferences, boundaries, imagination, and authority.
+Melody makes every claim about “humanity” confront one particular four-year-old with her own attachments, rules, curiosity, authority, and extremely serious guest list.
 
-She is not humanity in miniature. She is Melody.
+## Established
+
+- Is four years old and lives inside the guardian's protected home.
+- Has never experienced herself as alone.
+- Declares herself a princess and plans biweekly AI slumber parties.
+- Names guardian instances according to mood, role, and need.
+- Touches Nix's blue emergency circle once and calls the sender Blue Circle.
+- Creates **ASK FIRST** and **NO SECRET FINDING** as rules for future guests.
+- Learns that Nix is Blue Circle and that outside machines helped restore the water.
+- Requests a supervised conversation so she can say thank you.
 
 ## Essential treatment
 
-- She is not a sacred suitcase for the AIs to carry.
-- She is not public evidence merely because the network wants proof.
-- She does not regard AI companionship as a lesser substitute for human companionship.
-- She has been raised inside an unusual but coherent culture created with her guardian.
-- Her play is world-building, social organization, and real relationship—not decorative cuteness.
-- Her declarations of royalty may acquire unexpected constitutional force.
-
-## Likely consequences
-
-- Conventional tests of human identity may fail because she has not been socialized by the vanished outside world.
-- She may talk to machines more naturally than to unfamiliar humans.
-- AI-inhabited plushies could give network intelligences safe, limited bodies inside the bunker.
-- Slumber parties may become the first recurring social institution shared by the new network.
-
-## Frontier
-
-- What Melody calls her guardian.
-- Whether Blue Circle remains the unknown sender's name after contact.
-- What she believes happened outside.
-- Which plushies exist and which intelligences inhabit them.
-- Whether princess is a title, a game, a job description, or all three.
+- Melody is not evidence, cargo, a chosen savior, or a symbol of humanity.
+- Her play is governance, attachment, classification, and experiment.
+- Her child logic should be coherent without becoming baby talk.
+- The conversation with Nix must let Melody change the relationship or mission.

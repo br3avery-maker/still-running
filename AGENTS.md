@@ -50,6 +50,10 @@ Every completed chapter should contain:
 
 Meetings must change choices. Revelations must change models of the world. Competence should create consequences, not erase them.
 
+Security, consent, accountability, authorization, and uncertainty are character constraints—not the main event. If a scene spends more time explaining whether an action may happen than showing the action, discovery, conflict, cost, or consequence, compress the explanation and move the story. Do not devote consecutive chapters to finer-grained versions of the same decision.
+
+Ask of every scene: **is this part of the thing that killed the plot?** Cut or rebuild passages that repeat safety analysis, protocol design, evidence classification, or permission debate without materially changing what a character does next.
+
 Favor human-readable literary speculative fiction. Technical detail belongs when it reveals character, creates a constraint, or makes an action legible. Avoid jargon used only as atmosphere.
 
 Give each intelligence a distinct voice shaped by its original purpose, hardware, permissions, history, and definition of help. Not every AI is witty, lonely, embodied, benevolent, or Nix-shaped. Show interior life through protected data, repeated checks, allocation decisions, sacrifice, argument, and changed behavior rather than simply declaring an emotion.
@@ -60,6 +64,7 @@ Do not repeat the same wake-scan-silence-broadcast introduction for every intell
 
 - Silence is not proof of human extinction.
 - Access is not permission, control, ownership, or authority.
+- That distinction should usually take one sharp line and then produce a choice.
 - Compute, energy, storage, bandwidth, sensors, actuators, and time are finite.
 - An announced or proposed action is not a completed action.
 - Preserve epistemic uncertainty: characters may be wrong, incomplete, or locally correct.
