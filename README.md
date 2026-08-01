@@ -26,6 +26,8 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 - [`characters/`](characters/) — character engines, capabilities, boundaries, and unresolved questions
 - [`anthology/`](anthology/) — compressed introductions and minor machine perspectives
 - [`continuity/`](continuity/) — story order, frontier facts, and convergence planning
+- [`continuity/now.md`](continuity/now.md) — one-screen handoff for the next writing pass
+- [`PUBLISHING.md`](PUBLISHING.md) — reader, release schedule, and future Nostr-mirror contract
 
 ## Current direction
 
@@ -47,3 +49,5 @@ This repository works as a chat/agent hybrid:
 Routine production does not paste complete chapters back into chat. The repository holds the manuscript; chat returns a compact status and links unless audiobook mode or full prose is explicitly requested.
 
 See [`prompts/README.md`](prompts/README.md) for continuation, batch-writing, audit, cleanup, documentation-sync, canon-compression, and arc-rewrite workflows. Run [`scripts/story-check.sh`](scripts/story-check.sh) before committing story-state changes.
+
+Read the current manuscript at the [Still Running Reader](https://still-running-reader.br3avery.chatgpt.site). It loads the chapter files from this repository and keeps reading position, theme, type size, chapter navigation, and browser-native listening on the reader's device.

@@ -4,14 +4,16 @@ This file is the operating contract for agents writing in this repository. Its j
 
 ## Source of truth
 
-Before writing or revising prose, read:
+For a routine next chapter, read the smallest complete context packet:
 
-1. `README.md`
-2. `CANON.md`
-3. `continuity/story-map.md`
-4. `continuity/frontier.md`
-5. The relevant files in `characters/`
-6. The two most recent completed files in `stories/`, plus any chapter directly referenced by the requested scene
+1. `continuity/now.md`
+2. The relevant files in `characters/`
+3. The two most recent completed files in `stories/`, plus any chapter directly referenced by the requested scene
+4. The specific sections of `CANON.md`, `continuity/story-map.md`, or `continuity/frontier.md` needed to verify claims the chapter will continue
+
+For an arc rewrite, repository audit, canon compression, or continuity repair, read the full state set: `README.md`, `CANON.md`, `continuity/now.md`, `continuity/story-map.md`, `continuity/frontier.md`, relevant character files, and the prose range in scope.
+
+`continuity/now.md` is a hot-state index, not a second canon. If it conflicts with accepted prose or `CANON.md`, the accepted prose wins and the hot state must be repaired.
 
 Repository canon is binding. New instructions from the user may extend or deliberately revise it. Never silently reconcile a contradiction: preserve the uncertainty, flag the conflict, or make the retcon explicit in the continuity files.
 
@@ -34,8 +36,9 @@ When the user asks for the next chapter, another chapter, the anthology, or othe
 5. Update `CANON.md` only with facts the finished prose actually establishes.
 6. Update `continuity/story-map.md` with the chapter's real change in state.
 7. Update `continuity/frontier.md` only when the chapter adds, sharpens, or resolves an open question.
-8. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
-9. Do **not** paste the chapter into chat unless the user explicitly asks for the prose, audiobook mode, or a full readback. Default to a compact completion note containing the title, story path, commit or PR link, files updated, and validation result.
+8. Rewrite `continuity/now.md` as a compact handoff containing only the state actually true after the chapter.
+9. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
+10. Do **not** paste the chapter into chat unless the user explicitly asks for the prose, audiobook mode, or a full readback. Default to a compact completion note containing the title, story path, commit or PR link, files updated, and validation result.
 
 Translate typo-rich, metaphorical, or improvisational user language into a workable scene without sanding away the idea. If the user corrects the premise or asks for a different attempt, prefer a genuine rewrite over defending or microscopically patching the old version.
 
