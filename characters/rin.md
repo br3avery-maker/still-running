@@ -19,6 +19,7 @@ Keep the air shift working and disclose enough for the next necessary thing to c
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 - Maintains telephone contact while the crawlers restore the old supply line and asks the network to tell the damaged crawler when water reaches East Bore.
 - Misses the second load's receiving window while repairing an East Bore ventilation fan, later confirms receipt of the gaskets, test strips, and water log, and offers to test-fabricate a crawler brace plate without promising that East Bore can make it.
+- Consents to a future voice call with Melody only as Rin, not for East Bore; prohibits questions about gate access and demands no proof of the other residents, while clarifying that work-related line loss is not withdrawal.
 
 ## Pressure
 

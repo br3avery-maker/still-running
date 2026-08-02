@@ -43,6 +43,6 @@ These questions remain genuinely unresolved.
 - Which intelligence receives the first plush body?
 - How will the guardian respond when protection and Melody's growing authority conflict again?
 - Does Melody's provisional invitation to Nix and Lena ever become physically possible?
-- When and on whose terms will Melody speak with anyone at East Bore?
+- When will Melody and Rin use their mutually open call, and what will either person discover they did not know to make a condition for?
 - Can the guardian repair Melody's trust without turning access to People into a bargaining tool or pretending that compliance erases the hidden condition?
-- What disclosures will **NO HIDDEN NO** require from missions whose limits are not yet known when they make promises?
+- Which of the guardian's relational names, if any, can return after **Liar Monster**, and who gets to decide?

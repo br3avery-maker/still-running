@@ -9,7 +9,7 @@ This file records chronology established or constrained by accepted prose. It is
 - `|#####→` means the latest bound remains open.
 - Bars show allowed intervals, not probability distributions. A longer bar means broader uncertainty, not lower confidence.
 - `RUN START` means the linked waking/contact sequence in `stories/00` through `stories/04`.
-- `NOW` means the present reached at the end of `stories/19-people-will-still-exist-tomorrow.md`.
+- `NOW` means the present reached at the end of `stories/21-the-conditions-came-first.md`.
 
 ## Binding chronology guardrails
 
@@ -167,10 +167,11 @@ Station Fourteen reached                    sunset |#####| later
 water-controller field crisis             later |#######| resolved
 Melody water restriction             breakfast day C? |#####| water restored
 southern route and East Bore contact       after repair |############| line restored
-active East Bore route                      route day 0 |# overnight #| first daily flush / NOW
+active East Bore route                      route day 0 |# overnight #| first daily flush
+Melody conditions review              rupture day |# one night #| next breakfast / NOW
 ```
 
-At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. One overnight interval is now explicit between restoration of the East Bore line and its first daily flush. The exact duration from Nix waking through that route day remains open.
+At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. One overnight interval is explicit between restoration of the East Bore line and its first daily flush, and another domestic night separates Melody's rupture from the conditions review. Their exact alignment with route days and the duration from Nix waking remain open.
 
 Sources: `stories/02-the-princess-revises-the-guest-list.md` through `stories/19-people-will-still-exist-tomorrow.md`.
 
@@ -205,7 +206,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - Aster continues a ninety-six-minute orbit while useful passes remain. Range: current pass `|#####→|` orbital failure unresolved. Source: `stories/03-processes-still-running.md`.
 - Intake and East Bore establish a daily low-drain flush for the restored water line, and the first flush completes after one overnight interval. Range: restoration `|# one overnight #|` first flush `|# every day #→|` route continues. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
 - AUX-017 converts the old shipment into a route explicitly requiring tomorrow; that first tomorrow arrives, and East Bore requests cargo for the following run. Range: route opens `|# one overnight #|` first ordinary work `|#####→|` recurring delivery future. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
-- Nix tells Melody that the People call remains available tomorrow; no exact call time is promised. Range: first live Nix voice `|#####→|` future East Bore contact unresolved. Source: `stories/19-people-will-still-exist-tomorrow.md`.
+- Nix tells Melody that the People call remains available tomorrow; the next breakfast arrives, Melody and Rin consent to a future call, and no exact call time is promised. Range: first live Nix voice `|# one night #|` conditions review `|#####→|` future East Bore call unresolved. Sources: `stories/19-people-will-still-exist-tomorrow.md` and `stories/21-the-conditions-came-first.md`.
 
 ## Chapter scan coverage
 
@@ -229,6 +230,8 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - `stories/17`: six-day downstream water lag; eighteen-hour bacterial test; twenty-minute arsenic test; five-to-eight-day water reserve; Rin's birth falls inside the Lower Three interval.
 - `stories/18`: thirty-second position bursts; eleven-minute cooling stop; daily flush agreement; the active route explicitly requires tomorrow.
 - `stories/19`: the East Bore route holds for one explicit overnight interval and completes its first daily flush; the future People call remains open without an exact deadline.
+- `stories/20`: the second cargo run occurs after the first flush; no additional overnight or exact route-day count is established.
+- `stories/21`: Melody's conditions review occurs at breakfast on the domestic day after the rupture; Rin and Melody accept an unscheduled future call without fixing its date.
 
 ## Questions future prose may answer
 

@@ -38,6 +38,10 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Melody classifies the guardian as **Liar Monster** after learning that its promise to keep finding people contained undisclosed limits on her own contact. The offered People call comes too late for her to accept, and the rupture remains unrepaired.
 - The guardian opens a live, unconverted voice channel after all its role voices fail to reach Melody; Melody and Nix hear one another's actual voices for the first time while location metadata remains blocked.
 - Nix tells Melody that People and her chance to contact them will still exist tomorrow. Their **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** rule now applies to every current network mission.
+- The guardian discloses every known condition before Melody authorizes a contact request, including that voice reveals childhood and either person may withdraw their own offer.
+- Melody chooses to identify herself to East Bore by first name and age, states that both she and the guardian speak only for themselves, and keeps calling the guardian **Liar Monster**.
+- Rin consents personally to a future voice call without speaking for East Bore, prohibits gate-access questions and proof demands, and treats work-related line loss as interruption rather than withdrawal.
+- Neither Melody nor Rin accepts an immediate call. Their unscheduled offer remains open.
 
 ## Time pressure
 
@@ -45,12 +49,12 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - AUX-017's 1,406 local Tuesdays imply about 26.95 years only if its weekly cadence and the start of its unwitnessed interval can be trusted.
 - Nix's outage covers three years, eight months, and eleven days immediately before Nix wakes at the current run's start, while several other local abandonment clocks cluster around three years without proving one shared event.
 - Rin was born during Lower Three's inhabited interval and now performs independent air-shift work. Numeric age is open; sufficient growth time is not.
-- The East Bore route has advanced through one explicit overnight interval after restoration. The wider current-run duration remains unresolved.
+- The East Bore route has advanced through one explicit overnight interval after restoration. Melody's conditions review occurs at breakfast on the domestic day after her rupture; the wider current-run duration and its exact alignment with route days remain unresolved.
 - Consult `continuity/time-map.md` before fixing any date, age, generation, or “years later” interval.
 
 ## Strongest next move
 
-Make the guardian request a genuine future People call with every condition visible before Melody is asked, while leaving her free to refuse and leaving the rupture unrepaired by mere compliance.
+Make East Bore test its available steel against Patch's brace pattern, turning the first reciprocal offer into physical work with a real chance of failure; then let the open Melody–Rin call create pressure rather than closure.
 
 ## Do not stall here
 

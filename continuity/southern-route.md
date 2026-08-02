@@ -22,11 +22,12 @@ The mission has paid for the route:
 - the healthy crawler delivers that second load alone after disclosing the absence of underground recovery support;
 - an East Bore fan repair prevents a live receipt, so AUX-017 leaves the cargo in the authorized cradle and keeps the receipt open until Rin answers;
 - Rin conditionally offers East Bore's crooked drill press and available material for a replacement crawler brace plate, creating the first possible return load;
+- Rin personally accepts a future call with four-year-old Melody under explicit privacy, authority, and interruption conditions while declining to speak for East Bore;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Test East Bore's material against Patch's brace pattern while the guardian negotiates a genuine future People call without using access as payment for Melody's trust.
+Test East Bore's material against Patch's brace pattern and let reciprocal work determine whether the damaged crawler can rejoin the route.
 
 ## Guardrails
 

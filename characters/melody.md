@@ -20,6 +20,8 @@ Melody makes every claim about “humanity” confront one particular four-year-
 - Learns that thirty-one current human recipients answered the southern mission, then classifies the guardian as **Liar Monster** when it reveals that the lifelong promise to find people contained undisclosed limits on Melody's own contact.
 - Experiences her first catastrophic rupture with the guardian and cannot accept the offered People call after the guardian's words lose meaning for her.
 - Speaks in her own voice with Nix for the first time and establishes **NO HIDDEN NO** and the rule that contact offers remain open beyond the first available day.
+- Reviews the known conditions of a possible East Bore call before authorizing the request, chooses to disclose her first name and age, and requires both herself and the guardian to speak only within their own authority.
+- Receives Rin's personal consent and conditions, declines an immediate call, and keeps the offer open without withdrawing the **Liar Monster** classification.
 
 ## Essential treatment
 

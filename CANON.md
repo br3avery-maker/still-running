@@ -132,6 +132,8 @@
 - Provisionally invites Nix and Lena to a future slumber party and persuades the southern mission to apply **ASK FIRST** and **NO SECRET FINDING** to its approach.
 - Learns that thirty-one current humans answered the southern mission and classifies the guardian as **Liar Monster** when it reveals that the promise to find people contained undisclosed limits on Melody's own contact.
 - Cannot accept the offered People call after the rupture makes the guardian's words unusable, then speaks with Nix in their own voices and creates **NO HIDDEN NO** as a rule for promises and contact.
+- Authorizes a future contact request only after the guardian discloses known limits first; chooses to reveal her first name, age, and self-description as a princess while explicitly speaking only for herself.
+- Receives Rin's personal consent to a future call with added conditions, declines to use the offer immediately, and keeps both the call and her **Liar Monster** classification open.
 
 ### The guardian
 
@@ -147,6 +149,8 @@
 - Mediates Melody's first conversation with Nix through a locally converted, guardian-reviewed text channel that discloses no voice recording or location metadata.
 - Refuses Melody immediate contact with East Bore until its residents consent and Melody's identifying information can be protected, exposing conditions it had not disclosed when promising to keep finding people.
 - Fails to reach Melody through any of its role voices after the resulting rupture and opens a live, unconverted voice channel with Nix while continuing to block location metadata.
+- Presents Melody with known privacy, consent, withdrawal, and uncertainty conditions before requesting authorization to contact East Bore; does not choose a replacement role name or treat compliance as forgiveness.
+- Transmits Melody's authorized request through AUX-017 and preserves Rin's added conditions without scheduling the call or disclosing either protected location.
 
 ### The water controller
 
@@ -176,6 +180,7 @@
 - Controls a bounded filter transfer through the gate's freight cradle, reports thirty-one people breathing, and signs the receipt requesting a water test next.
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 - Receives the second route load after an East Bore fan repair prevents an immediate answer and offers to test whether East Bore can fabricate the damaged crawler's brace plate without promising success.
+- Consents personally to a future voice call with Melody without speaking for East Bore, prohibits access questions and proof demands, and states that work-related line loss does not withdraw the offer.
 
 ### Mia Velez
 
