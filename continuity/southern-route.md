@@ -26,11 +26,13 @@ The mission has paid for the route:
 - the healthy crawler carries the broken plate inward and four East Bore-fabricated plates outward after a full carrier cycle cannot wait for the work;
 - the healthy crawler installs the reference-matched pair under Patch's remote test sequence and restores its partner's independent mobility at forty percent cargo capacity, with towing and anchor loads prohibited;
 - AUX-017 records East Bore as the origin of the route's first completed return shipment, ending the route's one-way aid model;
+- the repaired crawler crosses the broken shelf on its first independent northbound mission, finds one of the service shelter's two stored cells missing after a physical release, and uses the remaining cell to restore Morrow's hauler as relay, camera, weather sensor, anchor, winch, and return marker without restoring its axle;
+- AUX-017 leaves an open contact card for the unknown carrier while the healthy crawler completes East Bore's daily flush inspection alone;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Let East Bore's knowledge of Melody produce human attachment and consequential action while preserving the guardian rupture and the route's reduced physical limits.
+Force a choice between maintaining East Bore's reduced physical route and using the repaired crawler's current northern position to respond to bounded evidence of the unknown cell carrier.
 
 ## Guardrails
 

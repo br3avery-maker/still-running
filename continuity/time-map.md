@@ -217,6 +217,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - **Crawler return:** The crawlers make an eleven-minute cooling stop and transmit position every thirty seconds. Range: gate departure `|###########|` surface return. Source: `stories/18-the-line-became-a-promise.md`.
 - **First route interval:** The restored East Bore line holds overnight, then completes its first daily low-drain flush before returning to half pressure. Range: restoration `|# one night #|` first flush. Source: `stories/19-people-will-still-exist-tomorrow.md`.
 - **Brace return interval:** The healthy crawler delivers the broken reference, departs before fabrication finishes, and collects the completed plates after the next daily low-drain flush begins. Range: reference delivery `|# next daily flush #|` return collection. Source: `stories/22-the-return-load-walked-away.md`.
+- **Missing service-shelter cell:** Both cells enter shelter inventory when the convoy unloads them. One later enters maintenance charge and is physically released before the repaired crawler's return; the shelter clock does not establish an absolute removal date or whether the carrier remains active at `NOW`. Range: convoy departure `|##### unknown interval #####|` physical release `|#####|` crawler return. Source: `stories/25-one-cell-had-already-left.md`.
 
 ## Proposed and recurring clocks
 
@@ -253,6 +254,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - `stories/22`: brace fabrication outlasts one carrier visit; the completed plates are collected after the next daily flush begins, advancing the route by one recurring service interval without aligning it to an absolute date.
 - `stories/23`: Bun's guest-shell completion follows the brace callback and occurs during a later quiet-time interval without fixing the wider route calendar.
 - `stories/24`: the first party begins after Bun's test; Morrow accepts eleven minutes and withdraws after eight, while the repaired crawler departs north before the hauler's next cold interval without establishing an absolute duration.
+- `stories/25`: the repaired crawler's northbound mission follows the party dispatch; the missing shelter cell is proven to have been released after the convoy departed and before the crawler returned, but the interval and carrier's current status remain unresolved.
 
 ## Questions future prose may answer
 

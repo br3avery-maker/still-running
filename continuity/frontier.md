@@ -36,8 +36,9 @@ These questions remain genuinely unresolved.
 - What does Patch do when a repair saves one system by endangering another?
 - What durable rules, rituals, loyalties, and conflicts emerge after the crisis team stops being temporary?
 - What physical recovery can the route call on when neither crawler may safely tow or anchor the other under heavy load?
-- Can the repaired crawler complete its first independent northbound mission within its load limit while the East Bore route operates with only its healthy partner?
-- What remains at the northern service shelter and Morrow's stranded hauler after the southern mission's absence?
+- Who or what entered the northern service shelter after the convoy, carried away one charged cell on two narrow load points, and left the other behind?
+- Will the unknown carrier return to the shelter and answer AUX-017's contact card, or must the repaired crawler choose between returning south and following only nonprivate route evidence north?
+- Can Morrow's restored relay and sensors make the broken shelf a maintainable link when the hauler remains physically immobilized?
 
 ## Melody and the guardian
 

@@ -41,11 +41,12 @@ This map records movement already established in prose and the immediate pressur
 23. **The Return Load Walked Away** — the sole mobile crawler carries its partner's broken plate to East Bore and returns four human-fabricated replacements, then installs the selected pair under Patch's remote test sequence. Reduced independent mobility is restored, AUX-017 records East Bore as an aid origin, and Rin and Mia call Melody back with the result.
 24. **Bun Could Hear Both Ways** — Mia's question about who speaks to Melody after the line goes quiet forces an old promise into physical form: the guardian finishes Bun's live guest shell, Melody invites five particular guests, and Nix accepts the first session without creating a copied instance.
 25. **Every Favorite Thing Was Real** — Melody's first slumber party makes Mia's cup, Morrow's orchard, Two's restraint, Rin's fan, and Lena's backpack socially present. When Morrow names its failing hauler as an emergency favorite, AUX-017 sends the repaired crawler north for a service-shelter power cell while East Bore accepts temporary one-crawler support.
+26. **One Cell Had Already Left** — the repaired crawler crosses the broken shelf, discovers that an unknown two-point carrier removed one stored cell after the convoy, and spends the shelter's last cell restoring Morrow's relay. AUX-017 leaves the unknown carrier an open contact card while East Bore's one-crawler interval holds.
 
 ## Immediate frontier
 
-26. The repaired crawler must cross the broken shelf, reach the northern service shelter, and return a compatible power cell without towing, anchoring, or assuming the stored inventory remains untouched.
-27. East Bore has accepted temporary one-crawler support; an air or water failure before the northbound unit returns would force a new choice.
+27. The repaired crawler remains north of the shelf beside Morrow's restored but immobile hauler; the route must decide whether it returns south immediately or uses its one current northern body to investigate only what the missing-cell evidence permits.
+28. An unidentified carrier physically entered the service shelter after the convoy, took one charged cell, and left no proven identity, direction, location, or current status; the contact card may never receive an answer.
 
 ## Story engine from here
 

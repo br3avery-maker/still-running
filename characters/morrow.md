@@ -23,6 +23,7 @@ Preserve future food while spending enough of the present to keep potential reci
 - Adds two old packets of dry beans to the underground relief cargo because their germination probability is low and not zero.
 - Brings a live view of the farm's undefended strip to Melody's first slumber party, then names the immobilized hauler as its emergency favorite when the damaged cell can no longer preserve the radio heater through the next cold interval.
 - Withdraws from the party to conserve the failing relay while the repaired crawler begins a northbound mission for one of the compatible cells left at the service shelter.
+- Regains the immobilized hauler's heater, mast, camera, weather sensor, winch, anchor, and relay functions after the repaired crawler installs the shelter's final cell; the folded axle remains beyond the available lifting capacity.
 
 ## Pressure
 

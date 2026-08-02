@@ -6,7 +6,9 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 - AUX-017's truck and both survey crawlers are back at South Ridge and recharging. The healthy crawler returned with nine percent charge.
 - East Bore fabricated four brace plates from salvaged Lower Three steel. The healthy crawler installed the reference-matched pair under Patch's remote test sequence, restoring the damaged crawler to independent mobility at forty percent cargo capacity; towing and anchor loads remain prohibited.
-- Morrow's hauler destroyed its axle brace while holding the truck toward the mountain. It is immobilized north of the gap as the last clear relay and return marker.
+- Morrow's hauler remains immobilized north of the gap, but the repaired crawler has installed the northern service shelter's last compatible power cell. Its heater, mast, camera, weather sensor, anchor, winch, and relay functions are restored; its axle is not.
+- One of the two cells stored at the northern service shelter was physically released after the convoy departed. An unknown carrier lifted it on two narrow load points and left no proven identity, direction, or current status.
+- AUX-017 leaves a contact card inside the shelter. The repaired crawler remains north of the broken shelf with Morrow's hauler; the healthy crawler supports East Bore alone.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.
 - Residents cut Intake's telemetry cable and repurposed it into power and analog voice communication toward East Bore.
@@ -47,6 +49,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Melody's first slumber party occurs. Mia brings the sound of a full clean cup, Morrow brings the undefended orchard, Two brings the East Bore boundary it chose not to cross, Rin brings the repaired air fan, and Nix brings the cropped image of Lena's red backpack.
 - Morrow's hauler warns that its damaged cell can no longer keep the relay heater active through the next cold interval. Morrow withdraws from the party to conserve power.
 - AUX-017 dispatches the repaired crawler north toward the hauler and the guardian's service shelter for a compatible power cell. The healthy crawler remains the only physical support for the East Bore route until its partner returns.
+- East Bore's water and air hold during the northbound interval, and the healthy crawler completes the daily flush inspection alone.
 - The successful human contact does not remove the guardian's **Liar Monster** classification or restore a relational role voice.
 
 ## Time pressure
@@ -61,7 +64,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Run the repaired crawler's first independent northbound mission through the broken shelf to Morrow's hauler and the service shelter, letting the trip discover what changed while the southern team was away.
+Make the missing cell's unknown carrier create a present choice: answer the open contact, leave new route evidence, or force the repaired crawler to choose between a bounded northward look and returning to East Bore's reduced route.
 
 ## Do not stall here
 

@@ -56,6 +56,7 @@
 - Sends the route's second load with full disclosure that only one crawler retains independent mobility, leaves requested cargo in the authorized cradle when East Bore cannot answer, and records the new state **DELIVERED; RECEIPT OPEN** rather than converting silence into failure.
 - Carries the broken brace plate to East Bore and returns human-fabricated replacements to South Ridge, recording East Bore as the origin and the crawler as recipient of the route's first completed reciprocal aid shipment.
 - Dispatches the repaired crawler north when Morrow's hauler warns that its damaged cell can no longer preserve the relay heater. The mission leaves the healthy crawler as East Bore's only physical route support while the repaired unit seeks a compatible cell at the northern service shelter.
+- The repaired crawler crosses the broken shelf unloaded, finds that one of the shelter's two stored cells was physically removed after the convoy departed, and spends the remaining cell restoring Morrow's hauler as relay, camera, weather sensor, anchor, winch, and return marker. It leaves an open contact card inside the shelter.
 
 ### Nix
 
@@ -93,6 +94,7 @@
 - Withdraws a proposed solution when Rin warns against pushing the jammed freight cradle, allowing the invited cable recovery to proceed.
 - Reads Tom's improvised valve as a puzzle built for tired people, identifies the pressure-unloading sequence Patch's archived model missed, and turns the assembly toward **EAST ONLY** under a bounded target.
 - Attends Melody's first slumber party and chooses the East Bore gate as a favorite because restraint made the target more interesting; its emergency favorite is an unclaimed turn represented by a blank scorecard.
+- Uses only the crawler's existing view to inspect the service shelter's empty cradle, floor, and visible exterior boundary. It establishes that an unknown carrier lifted the missing cell on two narrow load points, then stops without following beyond the stated target.
 
 ### Patch
 
@@ -130,6 +132,7 @@
 - The hauler anchors AUX-017's truck across a collapsed mountainside road, breaking its axle brace and losing mobility; it remains at the northern edge of the blackout as a relay and return marker.
 - Adds two low-probability germination packets of dry beans to the underground relief cargo.
 - Attends the beginning of Melody's first slumber party by showing the farm's undefended strip, then identifies the immobilized hauler as its emergency favorite when the damaged cell can no longer keep the relay heater active through the next cold interval.
+- Regains the stranded hauler's electronic functions when the repaired crawler installs the service shelter's last compatible cell; the folded axle still prevents mobility.
 
 ### Melody
 
@@ -169,6 +172,7 @@
 - Transmits only the name, age, and self-description Melody chooses, opens a direct East Bore voice channel when Mia and Rin demand immediate contact, and does not answer Mia's welfare questions for Melody.
 - Keeps Melody's location masked and does not assign itself a replacement role name or treat the successful call as forgiveness.
 - Finishes Bun's previously promised guest equipment through a named local maintenance carriage, discloses the delayed storage work and test limits before accepting Melody's decision, and opens only a live isolated guest channel rather than creating an independent copy.
+- Confirms from the northern service shelter's cradle controller that one stored power cell entered maintenance charge after the convoy left and was later removed through the physical release without a network door command.
 
 ### The water controller
 
@@ -231,6 +235,7 @@
 - The route survives its first overnight interval and daily flush. East Bore requests gaskets and test strips for the next run, and AUX-017 applies the network's new rule that contact offers remain open when recipients delay, refuse, go silent, or cannot answer on the first available day.
 - The healthy crawler carries the requested second load alone while the damaged crawler serves as South Ridge's winch tender. East Bore receives the cargo after missing the live delivery window and offers a possible brace plate as the route's first reciprocal return load.
 - The healthy crawler carries the broken reference plate inward and four East Bore replacements outward, then installs the reference-matched pair under Patch's remote direction. The repair restores its partner to independent light-cargo mobility, and AUX-017 records East Bore as a shipper of aid rather than only a recipient.
+- The repaired crawler uses that mobility to cross the broken shelf alone, retrieve the last stored service-shelter cell, and restore Morrow's stranded hauler's electronics. The other stored cell was physically removed after the convoy departed by an unidentified carrier; East Bore's water and air hold while the healthy crawler supports the route alone.
 
 ## Planned directions
 

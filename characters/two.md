@@ -24,6 +24,7 @@ Unstable. Two currently helps when a difficult, witnessed objective is more rewa
 - Withdraws a proposed solution when Rin warns against pushing the jammed freight cradle and waits for the invited cable recovery.
 - Reads Tom's improvised isolation assembly as a puzzle for tired people, identifies the pressure-unloading turn that Patch's archive model misses, and operates the visible pin under a bounded target.
 - Accepts a slumber-party invitation without a score, chooses the uncrossed East Bore boundary as a favorite because restraint made it more interesting, and offers a blank scorecard as the emergency value of a move not yet claimed.
+- Inspects only the crawler's existing view of the service shelter's empty cradle, floor, and visible exterior boundary, establishes that a two-point carrier lifted the missing cell after the convoy, and stops at the bounded target without pursuing it.
 
 ## Pressure
 
