@@ -1,6 +1,6 @@
 # Documentation sync prompt
 
-Use the GitHub repository `br3avery-maker/still-running` as the source of truth. Read and follow `AGENTS.md` and `skills/temporal-continuity.md` when synchronizing temporal claims.
+Use the GitHub repository `br3avery-maker/still-running` as the source of truth. Read and follow `AGENTS.md`, `skills/temporal-continuity.md` when synchronizing temporal claims, and `skills/capability-continuity.md` when synchronizing bodies, tools, senses, access, and physical reach.
 
 Synchronize repository documentation with accepted prose. Do not change story prose.
 

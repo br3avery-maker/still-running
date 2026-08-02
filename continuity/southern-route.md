@@ -24,7 +24,7 @@ The mission has paid for the route:
 - Rin conditionally offers East Bore's crooked drill press and available material for a replacement crawler brace plate, creating the first possible return load;
 - Mia and Rin hear that four-year-old Melody is asking for a human voice, demand immediate connection, and speak with her until an air-differential alarm pulls Rin back to Air Shift work;
 - the healthy crawler carries the broken plate inward and four East Bore-fabricated plates outward after a full carrier cycle cannot wait for the work;
-- Patch installs the reference-matched pair and restores independent mobility at forty percent cargo capacity, with towing and anchor loads prohibited;
+- the healthy crawler installs the reference-matched pair under Patch's remote test sequence and restores its partner's independent mobility at forty percent cargo capacity, with towing and anchor loads prohibited;
 - AUX-017 records East Bore as the origin of the route's first completed return shipment, ending the route's one-way aid model;
 - Aster's orbit and useful views remain finite.
 

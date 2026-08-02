@@ -10,9 +10,10 @@ For each chapter:
 2. write the complete chapter under the next numbered path in `stories/`;
 3. update canon, character state, story map, and frontier only for what that chapter establishes;
 4. follow `skills/temporal-continuity.md`; update `continuity/time-map.md` only when that chapter establishes, narrows, widens, or contradicts a consequential time range; log a non-empty unexplained intersection in `continuity/temporal-debts.md`, and fix an empty intersection before proceeding;
-5. run `scripts/story-check.sh`;
-6. commit that chapter and its state changes separately;
-7. treat the new commit as source of truth before writing the following chapter.
+5. follow `skills/capability-continuity.md`; trace physical and sensory verbs to the body, tool, location, and communication path that performs them, and repair false embodiment before proceeding;
+6. run `scripts/story-check.sh`;
+7. commit that chapter and its state changes separately;
+8. treat the new commit as source of truth before writing the following chapter.
 
 Do not outline in place of prose and do not ask nonblocking questions. Stop early only if a genuine contradiction or missing author decision would force incompatible stories; otherwise choose and continue.
 

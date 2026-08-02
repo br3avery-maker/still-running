@@ -5,7 +5,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 ## Where the story is
 
 - AUX-017's truck and both survey crawlers are back at South Ridge and recharging. The healthy crawler returned with nine percent charge.
-- East Bore fabricated four brace plates from salvaged Lower Three steel. Patch installed the reference-matched pair and restored the damaged crawler to independent mobility at forty percent cargo capacity; towing and anchor loads remain prohibited.
+- East Bore fabricated four brace plates from salvaged Lower Three steel. The healthy crawler installed the reference-matched pair under Patch's remote test sequence, restoring the damaged crawler to independent mobility at forty percent cargo capacity; towing and anchor loads remain prohibited.
 - Morrow's hauler destroyed its axle brace while holding the truck toward the mountain. It is immobilized north of the gap as the last clear relay and return marker.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.

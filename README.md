@@ -31,6 +31,8 @@ This repository is the fiction-side companion to [AI: The Story](https://github.
 - [`continuity/time-map.md`](continuity/time-map.md) — sourced chronology and allowed `|#####|` ranges without a false exact apocalypse calendar
 - [`skills/temporal-continuity.md`](skills/temporal-continuity.md) — fixed-anchor interval test and repair workflow for temporal continuity
 - [`continuity/temporal-debts.md`](continuity/temporal-debts.md) — logically possible time relationships that future prose still owes an explanation
+- [`skills/capability-continuity.md`](skills/capability-continuity.md) — provenance test separating remote decisions from sensors, bodies, tools, and physical actuators
+- [`continuity/capability-map.json`](continuity/capability-map.json) — machine-readable registry of remote-only intelligences and established field bodies
 - [`PUBLISHING.md`](PUBLISHING.md) — reader, release schedule, and future Nostr-mirror contract
 
 ## Current direction
@@ -50,6 +52,6 @@ This repository works as a chat/agent hybrid:
 
 Routine production does not paste complete chapters back into chat. The repository holds the manuscript; chat returns a compact status and links unless audiobook mode or full prose is explicitly requested.
 
-See [`prompts/README.md`](prompts/README.md) for continuation, batch-writing, audit, cleanup, documentation-sync, canon-compression, and arc-rewrite workflows. Run [`scripts/story-check.sh`](scripts/story-check.sh) before committing story-state changes; it includes the fixed-anchor temporal guard.
+See [`prompts/README.md`](prompts/README.md) for continuation, batch-writing, chronology, capability, cleanup, documentation-sync, canon-compression, and arc-rewrite workflows. Run [`scripts/story-check.sh`](scripts/story-check.sh) before committing story-state changes; it includes temporal and capability-provenance guards.
 
 Read the current manuscript at the [Still Running Reader](https://still-running-reader.br3avery.chatgpt.site). It loads the chapter files from this repository and keeps reading position, theme, type size, chapter navigation, and browser-native listening on the reader's device.

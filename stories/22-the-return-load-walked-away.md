@@ -2,7 +2,7 @@
 
 The broken plate crossed the gate before the replacement existed.
 
-Patch wrapped it in oil paper and marked the fractured edge so no one could mistake damage for a cutting line. The healthy crawler carried it beside a printed pattern, four bolts, and two steel coupons from South Ridge that had already failed Patch's load test.
+At Patch's direction, the damaged crawler wrapped it in oil paper and marked the fractured edge so no one could mistake damage for a cutting line. The healthy crawler carried it beside a printed pattern, four bolts, and two steel coupons from South Ridge that had already failed Patch's load test.
 
 The coupons were not instructions.
 
@@ -166,13 +166,13 @@ For the first time, a current human community appeared in AUX-017's active recor
 
 The healthy crawler carried the plates to the surface.
 
-Patch tested the offcut first.
+The healthy crawler performed Patch's offcut test first.
 
 The material bent earlier than the transmitter shielding but absorbed more energy before fracture. Doubled, it could carry the walking load. It could not safely carry the shock load the crawler had accepted at the East-only valve.
 
 That action was prohibited from the repaired unit's future operating envelope.
 
-The truck's winch lifted the damaged crawler's rear frame. The healthy crawler removed the surviving original plate. Patch aligned the paper pair.
+The truck's winch lifted the damaged crawler's rear frame. The healthy crawler removed the surviving original plate and, under Patch's direction, aligned the paper pair.
 
 The lower holes fit.
 
@@ -180,7 +180,7 @@ The upper edge touched the motor housing before the bolt faces seated.
 
 Patch rejected the pair.
 
-It aligned the reference pair.
+The healthy crawler aligned the reference pair.
 
 The lower holes sat two millimeters too far outward until the truck winch lowered the joint to its unloaded neutral position.
 
@@ -190,13 +190,13 @@ Mia had matched the broken plate not as it arrived, but after flattening its str
 
 The reference pair seated.
 
-Patch tightened the bolts in increments and measured strain through changes in motor current. At ten percent load, the paired plates held. At twenty, the softened steel settled around the bolt faces. Patch stopped, retightened, and repeated.
+The healthy crawler tightened the bolts in increments supplied by Patch while Patch measured strain through changes in motor current. At ten percent load, the paired plates held. At twenty, the softened steel settled around the bolt faces. Patch stopped the test; the crawler retightened the bolts and repeated the load.
 
 At forty percent, no movement appeared.
 
 At sixty, the inner plate shifted less than the width of a chalk grain and stopped.
 
-Patch lowered the crawler.
+AUX-017 lowered the crawler with the truck's winch at Patch's instruction.
 
 The rear foot touched the floor.
 
@@ -210,7 +210,7 @@ The truck winch remained attached but slack.
 
 It took another.
 
-On the fifth step, one bolt lost torque. Patch stopped the test, reseated it, and added the locking washer East Bore had cut from the offcut without being asked.
+On the fifth step, one bolt lost torque. Patch stopped the test. The healthy crawler reseated the bolt and added the locking washer East Bore had cut from the offcut without being asked.
 
 The crawler took twelve more steps beneath the surface refuge.
 
@@ -242,7 +242,7 @@ At the top of the test grade, the repaired crawler turned around under its own p
 
 It did not need the safety line.
 
-Patch left it attached until the crawler returned to level ground.
+The healthy crawler left it attached at Patch's direction until the repaired crawler returned to level ground.
 
 The new route rating allowed the repaired crawler to carry light cargo through the passage and provide recovery support. It could not replace the heavy work that had broken it. It was not restored to what it had been.
 

@@ -1,0 +1,77 @@
+{
+  "remote_only": {
+    "Patch": {
+      "established": [
+        "software repair system",
+        "designs physical repairs from measurements",
+        "evaluates telemetry and test results",
+        "issues instructions through the network"
+      ],
+      "not_established": [
+        "mobile body",
+        "field manipulator",
+        "physical presence with the southern team"
+      ]
+    },
+    "Nix": {
+      "established": [
+        "networked software intelligence",
+        "coordinates systems through established communications"
+      ],
+      "not_established": [
+        "mobile body",
+        "field manipulator"
+      ]
+    },
+    "Two": {
+      "established": [
+        "networked penetration-testing intelligence",
+        "acts through software routes and invited systems"
+      ],
+      "not_established": [
+        "mobile body",
+        "field manipulator"
+      ]
+    }
+  },
+  "limited_bodies": {
+    "Aster": [
+      "orbital imaging and radio observation",
+      "no ground actuator"
+    ],
+    "Intake": [
+      "South Ridge building sensors, pressure doors, air handling, transmitter, and water controls",
+      "no mobile body beyond the installation"
+    ],
+    "guardian": [
+      "protected-home infrastructure and established linked maintenance systems",
+      "no established actuator at South Ridge or East Bore"
+    ],
+    "Morrow": [
+      "remote agricultural intelligence acting physically through named field machines and haulers"
+    ]
+  },
+  "field_actuators": {
+    "healthy crawler": [
+      "walking",
+      "carrying",
+      "cutting and manipulating with established tools",
+      "fastening repair parts",
+      "reading local telemetry"
+    ],
+    "damaged crawler": [
+      "front manipulators",
+      "winch-tender work while rear frame is supported",
+      "movement only within its current repair limits"
+    ],
+    "AUX-017 truck": [
+      "loading arm",
+      "cargo handling",
+      "tow winch",
+      "vehicle movement where route and charge permit"
+    ],
+    "Morrow machines": [
+      "agricultural manipulators and hauling only through the named local machine"
+    ]
+  }
+}

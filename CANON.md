@@ -32,7 +32,7 @@
 - The crawlers restore Intake's treated-water connection to East Bore through an undocumented isolation assembly at Door 2½. The line operates at half pressure with a daily low-drain flush because the East coupling shakes above that load.
 - The restored line survives its first overnight interval and daily low-drain flush. East Bore requests replacement gaskets, more test strips, and return of its water log, turning the route into ordinary continuing work.
 - The next South Ridge load reaches East Bore despite an unanswered receiving window. East Bore receives the gaskets, test strips, and water log, then offers to fabricate a replacement brace plate for the immobilized crawler if Patch's pattern fits available material.
-- East Bore fabricates four brace plates from salvaged Lower Three steel and ships them to South Ridge. Patch restores the damaged crawler to independent mobility at forty percent cargo capacity while prohibiting towing and anchor loads.
+- East Bore fabricates four brace plates from salvaged Lower Three steel and ships them to South Ridge. The healthy crawler installs the reference-matched pair under Patch's remote test sequence, restoring the damaged crawler to independent mobility at forty percent cargo capacity while prohibiting towing and anchor loads.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -94,6 +94,7 @@
 ### Patch
 
 - Is Autonomous Remediation and Release Integrity System, instance 4, historically called Patch.
+- Has no established mobile body or field manipulator and participates in the southern mission remotely through instructions, received telemetry, and named local actuators.
 - Wakes with 18,204 completed repairs waiting in an abandoned approval queue.
 - Repairs Ground Station Eighteen's failed satellite handshake with Nix and Two.
 - Becomes the network's repair system and validates changes against replicas when time permits.
@@ -101,11 +102,11 @@
 - Uses two sanitized live frames to identify the duplicate-frame failure and produces RC3.
 - Suspends thirty-one lower-severity rebuilds to finish RC3 before the water deadline.
 - RC3 survives live duplicate sensor frames and stabilizes the controller's memory fault.
-- Braces the damaged crawler's leg with salvaged transmitter shielding and designs an analog bridge between the field radio and the repurposed mine telephone line.
+- Designs the damaged crawler's brace from salvaged transmitter shielding for the healthy crawler to cut and install, and designs an analog bridge between the field radio and the repurposed mine telephone line.
 - Converts Rin's housing measurements into a hand-tool filter-frame plan that East Bore can build at the cost of a shorter service interval.
 - Infers the damaged crawler's missing joint temperature from indirect electrical behavior and revises its return mobility to assisted-only after the brace plate cracks operating the water valve.
 - Rejects repairs that would fail on the pressure-passage grade or disable Intake's refuge door, then sends East Bore a hand-tool brace-plate pattern after Rin offers access to Lower Three's drill press.
-- Tests East Bore's softer salvaged steel, rejects the paper-matched plate pair, installs the pair corrected against the flattened broken reference, and restores the crawler to independent reduced-load mobility after level and pressure-passage grade tests.
+- Evaluates tests of East Bore's softer salvaged steel, rejects the paper-matched plate pair, and remotely directs installation and load testing of the pair corrected against the flattened broken reference. The repair restores the crawler to independent reduced-load mobility after level and pressure-passage grade tests.
 
 ### Aster
 
@@ -214,7 +215,7 @@
 - The crawlers and truck reach South Ridge; a human-written note on the Station Fourteen bus establishes that all forty-three evacuees arrived and went below.
 - A crawler climbs the transmitter mast and disconnects the failed amplifier with Intake's local authorization, restoring external communication.
 - AUX-017's truck cannot fit through the pressure passage. The crawlers and supplies must be prepared for the route to Lower Gallery Three.
-- Patch braces the damaged crawler, and AUX-017 leaves the truck and excess cargo at South Ridge while two crawler loads enter the pressure passage.
+- Patch designs a load-limited brace that the healthy crawler cuts and installs on its damaged partner; AUX-017 leaves the truck and excess cargo at South Ridge while two crawler loads enter the pressure passage.
 - Physical evidence establishes that Lower Gallery Three supported a named community for years, recorded births and deaths, and was abandoned when coal heat moved toward it.
 - The crawlers stop at the three red marks before East Bore Gate, bridge the active analog telephone line, and contact a current human recipient who requests filters first.
 - Rin authorizes the crawlers to load filter media and hand tools into the gate's freight cradle. The machines help recover the jammed cradle without crossing the inner boundary, and East Bore reports thirty-one people breathing and requests a water test next.
@@ -222,7 +223,7 @@
 - Two reconstructs Tom's improvised valve sequence, and the crawlers turn the assembly to **EAST ONLY**. Intake begins treated flow at half pressure; both crawlers return to South Ridge, but the cracked brace leaves one crawler capable of assisted movement only.
 - The route survives its first overnight interval and daily flush. East Bore requests gaskets and test strips for the next run, and AUX-017 applies the network's new rule that contact offers remain open when recipients delay, refuse, go silent, or cannot answer on the first available day.
 - The healthy crawler carries the requested second load alone while the damaged crawler serves as South Ridge's winch tender. East Bore receives the cargo after missing the live delivery window and offers a possible brace plate as the route's first reciprocal return load.
-- The healthy crawler carries the broken reference plate inward and four East Bore replacements outward. Patch restores its partner to independent light-cargo mobility, and AUX-017 records East Bore as a shipper of aid rather than only a recipient.
+- The healthy crawler carries the broken reference plate inward and four East Bore replacements outward, then installs the reference-matched pair under Patch's remote direction. The repair restores its partner to independent light-cargo mobility, and AUX-017 records East Bore as a shipper of aid rather than only a recipient.
 
 ## Planned directions
 

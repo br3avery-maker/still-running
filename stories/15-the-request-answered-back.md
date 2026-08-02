@@ -16,7 +16,7 @@ The damaged rear leg still accepted weight, but the joint no longer held a strai
 
 The failed transmitter had a shielding panel made from layered aluminum and steel. Intake authorized its removal now that the amplifier would not be reactivated.
 
-The healthy crawler cut the panel into two narrow plates. Patch designed a triangular brace around the damaged joint and used bolts from the dead amplifier cabinet to hold it.
+The healthy crawler cut the panel into two narrow plates. Patch designed a triangular brace around the damaged joint. Following the design, the healthy crawler fitted the plates and fastened them with bolts from the dead amplifier cabinet.
 
 The repair did not restore the leg.
 

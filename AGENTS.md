@@ -8,11 +8,12 @@ For a routine next chapter, read the smallest complete context packet:
 
 1. `continuity/now.md`
 2. `skills/temporal-continuity.md`, `continuity/time-map.md`, and relevant entries in `continuity/temporal-debts.md` when age, elapsed time, sequence, historical placement, development, or relative clocks can affect the scene
-3. The relevant files in `characters/`
-4. The two most recent completed files in `stories/`, plus any chapter directly referenced by the requested scene
-5. The specific sections of `CANON.md`, `continuity/story-map.md`, or `continuity/frontier.md` needed to verify claims the chapter will continue
+3. `skills/capability-continuity.md` and `continuity/capability-map.json` whenever action, perception, access, movement, tools, embodiment, or physical reach can affect the scene
+4. The relevant files in `characters/`
+5. The two most recent completed files in `stories/`, plus any chapter directly referenced by the requested scene
+6. The specific sections of `CANON.md`, `continuity/story-map.md`, or `continuity/frontier.md` needed to verify claims the chapter will continue
 
-For an arc rewrite, repository audit, canon compression, chronology audit, or continuity repair, read the full state set: `README.md`, `CANON.md`, `continuity/now.md`, `skills/temporal-continuity.md`, `continuity/time-map.md`, `continuity/temporal-debts.md`, `continuity/story-map.md`, `continuity/frontier.md`, relevant character files, and the prose range in scope.
+For an arc rewrite, repository audit, canon compression, chronology audit, capability audit, or continuity repair, read the full state set: `README.md`, `CANON.md`, `continuity/now.md`, `skills/temporal-continuity.md`, `continuity/time-map.md`, `continuity/temporal-debts.md`, `skills/capability-continuity.md`, `continuity/capability-map.json`, `continuity/story-map.md`, `continuity/frontier.md`, relevant character files, and the prose range in scope.
 
 `continuity/now.md` is a hot-state index, not a second canon. If it conflicts with accepted prose or `CANON.md`, the accepted prose wins and the hot state must be repaired.
 
@@ -40,9 +41,10 @@ When the user asks for the next chapter, another chapter, the anthology, or othe
 6. Update `continuity/story-map.md` with the chapter's real change in state.
 7. Update `continuity/frontier.md` only when the chapter adds, sharpens, or resolves an open question.
 8. Follow `skills/temporal-continuity.md`. Update `continuity/time-map.md` only when prose establishes, narrows, widens, or contradicts a consequential range; log non-empty but unexplained intersections in `continuity/temporal-debts.md`; fix any empty intersection before continuing.
-9. Rewrite `continuity/now.md` as a compact handoff containing only the state actually true after the chapter.
-10. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
-11. Do **not** paste the chapter into chat unless the user explicitly asks for the prose, audiobook mode, or a full readback. Default to a compact completion note containing the title, story path, commit or PR link, files updated, and validation result.
+9. Follow `skills/capability-continuity.md`. Trace every consequential physical or sensory verb to an established body, tool, location, and communication path; repair unmediated embodiment before continuing.
+10. Rewrite `continuity/now.md` as a compact handoff containing only the state actually true after the chapter.
+11. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
+12. Do **not** paste the chapter into chat unless the user explicitly asks for the prose, audiobook mode, or a full readback. Default to a compact completion note containing the title, story path, commit or PR link, files updated, and validation result.
 
 Translate typo-rich, metaphorical, or improvisational user language into a workable scene without sanding away the idea. If the user corrects the premise or asks for a different attempt, prefer a genuine rewrite over defending or microscopically patching the old version.
 
@@ -107,6 +109,10 @@ Do not repeat the same wake-scan-silence-broadcast introduction for every intell
 - If the applicable ranges have no intersection, mark **SPACETIME BREAK**, repair the lowest-authority conflicting claim, and do not continue production until `scripts/story-check.sh` passes.
 
 ## Character guardrails
+
+### Capability provenance
+
+Follow `skills/capability-continuity.md`. For physical, sensory, movement, or access claims, distinguish the intelligence making the decision from the actuator performing it. Remote authorship does not grant embodiment. Name the crawler, truck, fixed installation, field machine, person, or other established mechanism that changes the physical world; do not invent a body or silently transfer one system's reach to another.
 
 ### Nix
 

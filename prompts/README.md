@@ -14,6 +14,7 @@ These prompts turn recurring authoring and maintenance jobs into explicit agent 
 - [`repo-audit.md`](repo-audit.md) — read-only diagnosis of story state, drift, redundancy, and production risks.
 - [`sync-docs.md`](sync-docs.md) — reconcile README, canon, characters, story map, and frontier with accepted prose.
 - [`audit-time.md`](audit-time.md) — scan all prose for timestamp-shaped evidence and rebuild uncertainty as sourced `|#####|` ranges.
+- [`audit-capabilities.md`](audit-capabilities.md) — trace physical and sensory verbs through established bodies, tools, locations, and communication paths, then minimally repair false embodiment.
 - [`cleanup-repo.md`](cleanup-repo.md) — remove or consolidate stale non-prose material without silently deleting accepted fiction.
 - [`compress-canon.md`](compress-canon.md) — shrink canon into a high-signal context packet for future chapters.
 

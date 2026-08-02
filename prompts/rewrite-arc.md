@@ -1,6 +1,6 @@
 # Arc rewrite prompt
 
-Use the GitHub repository `br3avery-maker/still-running` as the source of truth. Read and follow `AGENTS.md` and `skills/temporal-continuity.md`.
+Use the GitHub repository `br3avery-maker/still-running` as the source of truth. Read and follow `AGENTS.md`, `skills/temporal-continuity.md`, and `skills/capability-continuity.md`.
 
 Audit the authorized chapter range in two separate sandboxes.
 
