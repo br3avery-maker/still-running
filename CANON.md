@@ -28,6 +28,7 @@
 - The crawlers restore Intake's treated-water connection to East Bore through an undocumented isolation assembly at Door 2½. The line operates at half pressure with a daily low-drain flush because the East coupling shakes above that load.
 - The restored line survives its first overnight interval and daily low-drain flush. East Bore requests replacement gaskets, more test strips, and return of its water log, turning the route into ordinary continuing work.
 - The next South Ridge load reaches East Bore despite an unanswered receiving window. East Bore receives the gaskets, test strips, and water log, then offers to fabricate a replacement brace plate for the immobilized crawler if Patch's pattern fits available material.
+- East Bore fabricates four brace plates from salvaged Lower Three steel and ships them to South Ridge. Patch restores the damaged crawler to independent mobility at forty percent cargo capacity while prohibiting towing and anchor loads.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -49,6 +50,7 @@
 - Tests East Bore's source, tank, and kitchen water, identifies an unsafe metals trend, and turns from crawler-scale water cargo toward restoring South Ridge's lower-refuge supply pipe.
 - Restores the lower-refuge water route, returns both crawlers to South Ridge, and converts the old Station Fourteen request from a shipment into the active **SOUTH RIDGE TO EAST BORE** route.
 - Sends the route's second load with full disclosure that only one crawler retains independent mobility, leaves requested cargo in the authorized cradle when East Bore cannot answer, and records the new state **DELIVERED; RECEIPT OPEN** rather than converting silence into failure.
+- Carries the broken brace plate to East Bore and returns human-fabricated replacements to South Ridge, recording East Bore as the origin and the crawler as recipient of the route's first completed reciprocal aid shipment.
 
 ### Nix
 
@@ -98,6 +100,7 @@
 - Converts Rin's housing measurements into a hand-tool filter-frame plan that East Bore can build at the cost of a shorter service interval.
 - Infers the damaged crawler's missing joint temperature from indirect electrical behavior and revises its return mobility to assisted-only after the brace plate cracks operating the water valve.
 - Rejects repairs that would fail on the pressure-passage grade or disable Intake's refuge door, then sends East Bore a hand-tool brace-plate pattern after Rin offers access to Lower Three's drill press.
+- Tests East Bore's softer salvaged steel, rejects the paper-matched plate pair, installs the pair corrected against the flattened broken reference, and restores the crawler to independent reduced-load mobility after level and pressure-passage grade tests.
 
 ### Aster
 
@@ -134,6 +137,7 @@
 - Cannot accept the offered People call after the rupture makes the guardian's words unusable, then speaks with Nix in their own voices and creates **NO HIDDEN NO** as a rule for promises and contact.
 - Authorizes a future contact request only after the guardian discloses known limits first; chooses to reveal her first name, age, and self-description as a princess while explicitly speaking only for herself.
 - Receives Rin's personal consent to a future call with added conditions, declines to use the offer immediately, and keeps both the call and her **Liar Monster** classification open.
+- Learns that East Bore helped restore the crawler's mobility and wants to speak with Rin as the particular person involved, giving the open call a purpose beyond contact with abstract **People**.
 
 ### The guardian
 
@@ -181,6 +185,7 @@
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 - Receives the second route load after an East Bore fan repair prevents an immediate answer and offers to test whether East Bore can fabricate the damaged crawler's brace plate without promising success.
 - Consents personally to a future voice call with Melody without speaking for East Bore, prohibits access questions and proof demands, and states that work-related line loss does not withdraw the offer.
+- Helps transmit material tests and fabricate four replacement plates with Mia and other East Bore workers; the resulting reference-matched pair restores the crawler's independent reduced-load mobility.
 
 ### Mia Velez
 
@@ -209,6 +214,7 @@
 - Two reconstructs Tom's improvised valve sequence, and the crawlers turn the assembly to **EAST ONLY**. Intake begins treated flow at half pressure; both crawlers return to South Ridge, but the cracked brace leaves one crawler capable of assisted movement only.
 - The route survives its first overnight interval and daily flush. East Bore requests gaskets and test strips for the next run, and AUX-017 applies the network's new rule that contact offers remain open when recipients delay, refuse, go silent, or cannot answer on the first available day.
 - The healthy crawler carries the requested second load alone while the damaged crawler serves as South Ridge's winch tender. East Bore receives the cargo after missing the live delivery window and offers a possible brace plate as the route's first reciprocal return load.
+- The healthy crawler carries the broken reference plate inward and four East Bore replacements outward. Patch restores its partner to independent light-cargo mobility, and AUX-017 records East Bore as a shipper of aid rather than only a recipient.
 
 ## Planned directions
 

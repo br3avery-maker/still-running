@@ -22,6 +22,7 @@ Melody makes every claim about “humanity” confront one particular four-year-
 - Speaks in her own voice with Nix for the first time and establishes **NO HIDDEN NO** and the rule that contact offers remain open beyond the first available day.
 - Reviews the known conditions of a possible East Bore call before authorizing the request, chooses to disclose her first name and age, and requires both herself and the guardian to speak only within their own authority.
 - Receives Rin's personal consent and conditions, declines an immediate call, and keeps the offer open without withdrawing the **Liar Monster** classification.
+- Learns that Rin and East Bore helped a crawler walk again and wants the future call because Rin is a particular person who helped a machine, not merely because Rin is human.
 
 ## Essential treatment
 

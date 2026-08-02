@@ -9,7 +9,7 @@ This file records chronology established or constrained by accepted prose. It is
 - `|#####→` means the latest bound remains open.
 - Bars show allowed intervals, not probability distributions. A longer bar means broader uncertainty, not lower confidence.
 - `RUN START` means the linked waking/contact sequence in `stories/00` through `stories/04`.
-- `NOW` means the present reached at the end of `stories/21-the-conditions-came-first.md`.
+- `NOW` means the present reached at the end of `stories/22-the-return-load-walked-away.md`.
 
 ## Binding chronology guardrails
 
@@ -168,10 +168,11 @@ water-controller field crisis             later |#######| resolved
 Melody water restriction             breakfast day C? |#####| water restored
 southern route and East Bore contact       after repair |############| line restored
 active East Bore route                      route day 0 |# overnight #| first daily flush
-Melody conditions review              rupture day |# one night #| next breakfast / NOW
+Melody conditions review              rupture day |# one night #| next breakfast
+brace fabrication route         reference delivery |# next daily flush #| return load / NOW
 ```
 
-At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. One overnight interval is explicit between restoration of the East Bore line and its first daily flush, and another domestic night separates Melody's rupture from the conditions review. Their exact alignment with route days and the duration from Nix waking remain open.
+At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. One overnight interval is explicit between restoration of the East Bore line and its first daily flush, another domestic night separates Melody's rupture from the conditions review, and brace fabrication outlasts one carrier visit until the next daily flush. Their exact alignment and the duration from Nix waking remain open.
 
 Sources: `stories/02-the-princess-revises-the-guest-list.md` through `stories/19-people-will-still-exist-tomorrow.md`.
 
@@ -199,6 +200,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - **East Bore reserve:** Five days at full ration or eight at survival ration remain before alternate supply. Range: source close `|##### to ######## days|` exhaustion. Source: `stories/17-the-water-kept-a-second-record.md`.
 - **Crawler return:** The crawlers make an eleven-minute cooling stop and transmit position every thirty seconds. Range: gate departure `|###########|` surface return. Source: `stories/18-the-line-became-a-promise.md`.
 - **First route interval:** The restored East Bore line holds overnight, then completes its first daily low-drain flush before returning to half pressure. Range: restoration `|# one night #|` first flush. Source: `stories/19-people-will-still-exist-tomorrow.md`.
+- **Brace return interval:** The healthy crawler delivers the broken reference, departs before fabrication finishes, and collects the completed plates after the next daily low-drain flush begins. Range: reference delivery `|# next daily flush #|` return collection. Source: `stories/22-the-return-load-walked-away.md`.
 
 ## Proposed and recurring clocks
 
@@ -232,6 +234,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - `stories/19`: the East Bore route holds for one explicit overnight interval and completes its first daily flush; the future People call remains open without an exact deadline.
 - `stories/20`: the second cargo run occurs after the first flush; no additional overnight or exact route-day count is established.
 - `stories/21`: Melody's conditions review occurs at breakfast on the domestic day after the rupture; Rin and Melody accept an unscheduled future call without fixing its date.
+- `stories/22`: brace fabrication outlasts one carrier visit; the completed plates are collected after the next daily flush begins, advancing the route by one recurring service interval without aligning it to an absolute date.
 
 ## Questions future prose may answer
 

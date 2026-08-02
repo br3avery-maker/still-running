@@ -22,6 +22,7 @@ Make the broken thing work long enough for the world to reveal the next break.
 - Converts Rin's filter-housing measurements into a hand-tool frame plan East Bore can build immediately at the cost of reduced filter service life.
 - Infers the braced crawler's missing joint temperature from electrical behavior during ascent and downgrades it to assisted-only mobility after the valve operation cracks one brace plate.
 - Rejects a grade-unsafe brace repair and a repair that would consume Intake's door linkage, then prepares an analog-transmittable plate pattern after East Bore conditionally offers its drill press and material.
+- Converts material acceptance into tests East Bore can perform, evaluates four human-fabricated plates, installs the reference-matched pair, and restores the crawler to independent mobility at forty percent cargo capacity with towing and anchor loads prohibited.
 
 ## Pressure
 

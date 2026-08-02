@@ -5,7 +5,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 ## Where the story is
 
 - AUX-017's truck and both survey crawlers are back at South Ridge and recharging. The healthy crawler returned with nine percent charge.
-- One plate in Patch's improvised brace cracked while the damaged crawler anchored the water-valve operation. Its rear motor is disabled; it now serves as South Ridge's winch-supported route tender while a safe mobile repair remains unavailable.
+- East Bore fabricated four brace plates from salvaged Lower Three steel. Patch installed the reference-matched pair and restored the damaged crawler to independent mobility at forty percent cargo capacity; towing and anchor loads remain prohibited.
 - Morrow's hauler destroyed its axle brace while holding the truck toward the mountain. It is immobilized north of the gap as the last clear relay and return marker.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.
@@ -19,7 +19,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - The line operates at half pressure with a daily low-drain flush because its East coupling shakes above that load.
 - The line has survived its first overnight interval and completed its first daily flush. The healthy crawler has delivered East Bore's two replacement gaskets, more test strips, and returned water log.
 - East Bore missed the live receiving window while repairing a ventilation fan. AUX-017 left the requested cargo in the authorized cradle, kept the receipt open, and received confirmation after the crawler returned.
-- Rin conditionally offers East Bore's drill press and material to fabricate a replacement brace plate from Patch's transmitted pattern; success is not promised.
+- The healthy crawler carried the broken plate inward and four human-fabricated replacements outward. AUX-017 now records East Bore as an origin of aid and the repaired crawler as recipient of the route's first completed return shipment.
 - Patch's analog bridge remains at East Bore Gate, preserving telephone contact between the current human community and the network.
 
 ## Relationship pressure
@@ -42,6 +42,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Melody chooses to identify herself to East Bore by first name and age, states that both she and the guardian speak only for themselves, and keeps calling the guardian **Liar Monster**.
 - Rin consents personally to a future voice call without speaking for East Bore, prohibits gate-access questions and proof demands, and treats work-related line loss as interruption rather than withdrawal.
 - Neither Melody nor Rin accepts an immediate call. Their unscheduled offer remains open.
+- Melody now wants the future call because Rin helped a machine walk, turning **People** into one particular person she has a reason to know.
 
 ## Time pressure
 
@@ -54,7 +55,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Make East Bore test its available steel against Patch's brace pattern, turning the first reciprocal offer into physical work with a real chance of failure; then let the open Melody–Rin call create pressure rather than closure.
+Let Melody and Rin use their mutually open call for something that changes work or relationship, not as proof that the guardian rupture, consent, or contact itself is solved.
 
 ## Do not stall here
 

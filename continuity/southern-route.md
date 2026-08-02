@@ -23,11 +23,14 @@ The mission has paid for the route:
 - an East Bore fan repair prevents a live receipt, so AUX-017 leaves the cargo in the authorized cradle and keeps the receipt open until Rin answers;
 - Rin conditionally offers East Bore's crooked drill press and available material for a replacement crawler brace plate, creating the first possible return load;
 - Rin personally accepts a future call with four-year-old Melody under explicit privacy, authority, and interruption conditions while declining to speak for East Bore;
+- the healthy crawler carries the broken plate inward and four East Bore-fabricated plates outward after a full carrier cycle cannot wait for the work;
+- Patch installs the reference-matched pair and restores independent mobility at forty percent cargo capacity, with towing and anchor loads prohibited;
+- AUX-017 records East Bore as the origin of the route's first completed return shipment, ending the route's one-way aid model;
 - Aster's orbit and useful views remain finite.
 
 ## Next movement
 
-Test East Bore's material against Patch's brace pattern and let reciprocal work determine whether the damaged crawler can rejoin the route.
+Let Melody and Rin use their mutually open call for a specific relationship and consequence, while preserving the guardian rupture and the route's reduced physical limits.
 
 ## Guardrails
 
