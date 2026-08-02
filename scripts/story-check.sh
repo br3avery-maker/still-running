@@ -5,7 +5,7 @@ script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 repo_root="$(cd "${script_dir}/.." && pwd)"
 cd "${repo_root}"
 
-required=(AGENTS.md README.md CANON.md PUBLISHING.md continuity/now.md continuity/time-map.md continuity/story-map.md continuity/frontier.md publishing/schedule.json)
+required=(AGENTS.md README.md CANON.md PUBLISHING.md skills/temporal-continuity.md continuity/now.md continuity/time-map.md continuity/temporal-debts.md continuity/story-map.md continuity/frontier.md publishing/schedule.json)
 for path in "${required[@]}"; do
   if [[ ! -s "${path}" ]]; then
     printf 'ERROR missing required state file: %s\n' "${path}" >&2
@@ -51,5 +51,7 @@ for path in "${stories[@]}"; do
 done
 
 git diff --check
+
+scripts/temporal-check.sh
 
 printf 'OK %d contiguous chapters (00-%02d), %d words, %d warnings\n' "${#stories[@]}" "$((expected - 1))" "${total_words}" "${warnings}"

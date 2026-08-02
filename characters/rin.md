@@ -26,4 +26,4 @@ Keep the air shift working and disclose enough for the next necessary thing to c
 
 Rin can authorize immediate air-shift work but defers water decisions to Mia's shift. Direct contact makes Rin a particular neighbor rather than evidence of **People**, while the call must coexist with work that keeps thirty-one people breathing.
 
-Rin's numeric age is unresolved. Being born in Lower Three and currently performing independent air-shift work creates an elapsed-growth constraint; do not write Rin as recently born or assign a calendar age without checking `continuity/time-map.md`.
+Rin's numeric age is unresolved. Being born in Lower Three and currently performing independent air-shift work creates an elapsed-growth constraint; do not write Rin as recently born, place the Station Fourteen evacuation after `T0_BLACKOUT`, or assign a calendar age without testing `continuity/time-map.md` and `continuity/temporal-debts.md`.

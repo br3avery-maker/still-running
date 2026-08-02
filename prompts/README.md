@@ -20,3 +20,5 @@ These prompts turn recurring authoring and maintenance jobs into explicit agent 
 ## Output default
 
 Production prompts save prose to GitHub and return compact status only. Add **“audiobook mode”** or **“post the full prose”** when a readback is wanted.
+
+All production and chronology work that touches age, elapsed time, development, or historical placement follows [`../skills/temporal-continuity.md`](../skills/temporal-continuity.md). A possible chronology with a missing link is logged as an explanation debt; an empty interval is repaired before production continues.

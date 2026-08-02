@@ -46,12 +46,13 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Time pressure
 
-- The current calendar year remains unresolved. July 31, 2026 is a reliability boundary, not a universal collapse or evacuation date.
-- AUX-017's 1,406 local Tuesdays imply about 26.95 years only if its weekly cadence and the start of its unwitnessed interval can be trusted.
-- Nix's outage covers three years, eight months, and eleven days immediately before Nix wakes at the current run's start, while several other local abandonment clocks cluster around three years without proving one shared event.
-- Rin was born during Lower Three's inhabited interval and now performs independent air-shift work. Numeric age is open; sufficient growth time is not.
+- `T0_BLACKOUT` is Nix's remembered power loss while Lena is still at the desk. `T1_NIX_WAKE` follows three years, eight months, eleven days, and four-to-nineteen uncertain hours later. This relative interval is fixed canon.
+- The absolute calendar year remains unresolved. July 31, 2026 is a reliability boundary, not an automatic date for `T0_BLACKOUT`, Lena's evacuation, Station Fourteen, or NOW.
+- AUX-017's 1,406 local Tuesdays begin at an unknown point that may predate `T0_BLACKOUT`; they do not date the blackout, human disappearance, or the current year.
+- Rin was born during Lower Three's inhabited interval and now performs independent Air Shift work. A post-blackout Station Fourteen evacuation would not allow enough development time, but accepted prose does not make that placement; `TD-001` requires a future explanation.
+- Melody is four at NOW. Her birth relative to `T0_BLACKOUT` remains an explicit temporal debt rather than an assumed post-blackout event.
 - The East Bore route has advanced through one explicit overnight interval after restoration. Melody's first East Bore call occurs at breakfast on the domestic day after her rupture; the wider current-run duration and its exact alignment with route days remain unresolved.
-- Consult `continuity/time-map.md` before fixing any date, age, generation, or “years later” interval.
+- Follow `skills/temporal-continuity.md` and consult `continuity/time-map.md` plus `continuity/temporal-debts.md` before fixing any date, age, generation, or “years later” interval.
 
 ## Strongest next move
 

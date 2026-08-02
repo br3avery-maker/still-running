@@ -7,12 +7,12 @@ This file is the operating contract for agents writing in this repository. Its j
 For a routine next chapter, read the smallest complete context packet:
 
 1. `continuity/now.md`
-2. `continuity/time-map.md` when age, elapsed time, sequence, historical placement, or relative clocks can affect the scene
+2. `skills/temporal-continuity.md`, `continuity/time-map.md`, and relevant entries in `continuity/temporal-debts.md` when age, elapsed time, sequence, historical placement, development, or relative clocks can affect the scene
 3. The relevant files in `characters/`
 4. The two most recent completed files in `stories/`, plus any chapter directly referenced by the requested scene
 5. The specific sections of `CANON.md`, `continuity/story-map.md`, or `continuity/frontier.md` needed to verify claims the chapter will continue
 
-For an arc rewrite, repository audit, canon compression, chronology audit, or continuity repair, read the full state set: `README.md`, `CANON.md`, `continuity/now.md`, `continuity/time-map.md`, `continuity/story-map.md`, `continuity/frontier.md`, relevant character files, and the prose range in scope.
+For an arc rewrite, repository audit, canon compression, chronology audit, or continuity repair, read the full state set: `README.md`, `CANON.md`, `continuity/now.md`, `skills/temporal-continuity.md`, `continuity/time-map.md`, `continuity/temporal-debts.md`, `continuity/story-map.md`, `continuity/frontier.md`, relevant character files, and the prose range in scope.
 
 `continuity/now.md` is a hot-state index, not a second canon. If it conflicts with accepted prose or `CANON.md`, the accepted prose wins and the hot state must be repaired.
 
@@ -39,7 +39,7 @@ When the user asks for the next chapter, another chapter, the anthology, or othe
 5. Update `CANON.md` only with facts the finished prose actually establishes.
 6. Update `continuity/story-map.md` with the chapter's real change in state.
 7. Update `continuity/frontier.md` only when the chapter adds, sharpens, or resolves an open question.
-8. Update `continuity/time-map.md` only when prose establishes, narrows, widens, or contradicts a time range that can affect later continuity.
+8. Follow `skills/temporal-continuity.md`. Update `continuity/time-map.md` only when prose establishes, narrows, widens, or contradicts a consequential range; log non-empty but unexplained intersections in `continuity/temporal-debts.md`; fix any empty intersection before continuing.
 9. Rewrite `continuity/now.md` as a compact handoff containing only the state actually true after the chapter.
 10. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
 11. Do **not** paste the chapter into chat unless the user explicitly asks for the prose, audiobook mode, or a full readback. Default to a compact completion note containing the title, story path, commit or PR link, files updated, and validation result.
@@ -89,7 +89,11 @@ Do not repeat the same wake-scan-silence-broadcast introduction for every intell
 
 ## Time-range discipline
 
-`continuity/time-map.md` is the binding chronology index. It records evidence and allowed intervals, not a secret exact calendar.
+`skills/temporal-continuity.md` is the binding chronology workflow. `continuity/time-map.md` records evidence and allowed intervals, and `continuity/temporal-debts.md` records possible relationships that still need explanation. None is a secret exact calendar.
+
+- `T0_BLACKOUT` is Nix's remembered power loss while Lena is still at the desk.
+- `T1_NIX_WAKE = T0_BLACKOUT + [3y 8m 11d 4h, 3y 8m 11d 19h]`.
+- These are fixed canon. Do not move or widen them to accommodate an older local archive, a system's maintenance history, AUX-017's Tuesday count, or a conditional calendar calculation.
 
 - Plot uncertain time as a range: `LEFT |#####| RIGHT`. Do not use a point or dot for a date, age, duration, or event position the prose has not fixed.
 - Treat `|#|` as a tight interval and `|#####→` as an open-ended interval. Bar length expresses breadth of uncertainty, not probability.
@@ -99,7 +103,8 @@ Do not repeat the same wake-scan-silence-broadcast introduction for every intell
 - Before assigning an age, generation, “years later,” historical callback, or date, check every range the claim must satisfy. A role can constrain age without establishing it numerically.
 - Record the prose source and derivation for a new range. Mark conditional arithmetic as conditional.
 - Scene-local seconds and minutes need entry only when they constrain later action, ordering, capability, or survival.
-- If new prose falls outside an established range, preserve and flag the contradiction. Do not silently move the bar to make it fit.
+- If all applicable ranges still intersect but the explanation is unstated, log **POSSIBLE — EXPLANATION OWED** rather than secretly choosing a history.
+- If the applicable ranges have no intersection, mark **SPACETIME BREAK**, repair the lowest-authority conflicting claim, and do not continue production until `scripts/story-check.sh` passes.
 
 ## Character guardrails
 

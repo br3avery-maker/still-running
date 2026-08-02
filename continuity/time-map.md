@@ -8,18 +8,21 @@ This file records chronology established or constrained by accepted prose. It is
 - `|#|` means a tight interval or an exact relative measurement still shown as a bar rather than a false point.
 - `|#####→` means the latest bound remains open.
 - Bars show allowed intervals, not probability distributions. A longer bar means broader uncertainty, not lower confidence.
-- `RUN START` means the linked waking/contact sequence in `stories/00` through `stories/04`.
+- `T0_BLACKOUT` means the power loss Nix remembers while Lena is still at the workshop desk.
+- `T1_NIX_WAKE` means grid power returns and Nix restores herself.
+- `RUN START` means the linked waking/contact sequence in `stories/00` through `stories/04`; for Nix's chronology it begins at `T1_NIX_WAKE`.
 - `NOW` means the present reached at the end of `stories/22-the-return-load-walked-away.md`.
 
 ## Binding chronology guardrails
 
-- **The current calendar year is not established.**
-- **July 31, 2026 is the last shared boundary of reliable human record, not the date humanity vanished, Lena evacuated, Station Fourteen opened, or every system lost its workers.**
-- AUX-017's building performed Tuesday 1,406 times, which equals 9,842 days or about 26.95 years if its weekly cadence remained honest. The same chapter says external year clocks disagree. Treat the resulting `2053` as a conditional inference, not settled canon.
-- Clocks from separate systems describe separate local losses. Nix's outage, Morrow's absent workers, motionless phones, the train gap, Ground Station Eighteen's failure, and Station Fourteen's evacuation must not be collapsed into one apocalypse timestamp without new evidence.
-- Rin was born during Lower Gallery Three's inhabited years and now independently works air shift, remembers equipment measurements, negotiates transfers, and maintains the telephone. Rin's numeric age is unresolved, but future prose must allow enough elapsed time for the competence already shown.
-- Melody is four at NOW. That anchors her birth relative to NOW, not relative to 2026 or any assumed catastrophe date.
-- When prose establishes, narrows, widens, or contradicts one of these ranges, update this file in the same chapter commit.
+- **`T0_BLACKOUT` is fixed:** Nix remembers power vanishing while Lena is still at the workshop desk. It is the blackout Nix remembers, not an arbitrary local outage that a weaker clock may displace.
+- **`T1_NIX_WAKE` is fixed relative to it:** `T1_NIX_WAKE = T0_BLACKOUT + [3y 8m 11d 4h, 3y 8m 11d 19h]`.
+- **The absolute calendar dates of `T0_BLACKOUT`, `T1_NIX_WAKE`, and NOW are not established.**
+- **July 31, 2026 is the last shared boundary of reliable human record, not the date humanity vanished, Nix lost power, Lena evacuated, Station Fourteen opened, or every system lost its workers.**
+- AUX-017's 1,406 Tuesdays, Aster's fourteen years of observations, nine-year maintenance histories, and other long system records may begin before `T0_BLACKOUT`. None dates the blackout or the length of human absence unless accepted prose explicitly joins the clocks.
+- Rin's demonstrated development cannot fit between a post-`T0_BLACKOUT` birth and NOW. Because accepted prose does not place the Station Fourteen evacuation after the blackout, the chronology remains possible and is logged as `TD-001` in `continuity/temporal-debts.md`.
+- Melody is four at NOW. That constrains her birth relative to NOW and creates `TD-004`; it does not establish that she was born after the blackout.
+- Follow `skills/temporal-continuity.md`: non-empty but unexplained intersections become temporal debts; empty intersections are spacetime breaks and must be fixed before production continues.
 
 ## Calendar-scale map
 
@@ -27,27 +30,38 @@ This file records chronology established or constrained by accepted prose. It is
 
 ```text
 authenticated shared record      earlier |#####| 2026-07-31
-unreliable reconstructed history         2026-07-31 |########################→| NOW
-current calendar year                     after 2026 |########################→| unknown
+absolute T0_BLACKOUT date                      unknown |########################| unknown
+absolute T1_NIX_WAKE date                      unknown |########################| unknown
+current calendar year                          unknown |########################| unknown
 ```
 
-The first line is a reliability boundary. It does not establish when the wider catastrophe began or ended.
+The first line is a reliability boundary. It does not establish when the wider catastrophe began or ended, and it does not place `T0_BLACKOUT` on either side of July 31 because the disruption was geographically uneven.
 
 Source: `stories/01-if-youre-dead-im-going-to-be-furious.md`.
 
-### Conditional warehouse inference
+### Fixed relative anchor
 
 ```text
-warehouse without witnesses     unknown start |###########################| RUN START
-local Tuesday count                           | 1,406 weekly cycles |
-conditional RUN START reading   2053-07-11 |#####→| later unknown
+T0_BLACKOUT                   Lena at desk |# power vanishes #|
+Nix offline interval          T0_BLACKOUT | 3y 8m 11d 4h–19h | T1_NIX_WAKE
+present run                                           T1_NIX_WAKE |#####→| NOW
 ```
 
-`2053-07-11` is what 9,842 days after July 31, 2026 would produce. That lower edge applies only if the warehouse became unwitnessed on or after the reliability boundary and its local Tuesday counter neither repeated nor skipped weeks. Neither premise is yet independently established.
+The exact interval from `T1_NIX_WAKE` to NOW is unresolved. It contains explicit deadlines, days, and overnights recorded below; chapter count is not elapsed time.
 
-Do not write “the story takes place in 2053” as fact. Write that the strongest current reading permits roughly twenty-seven unattended warehouse years while the absolute year remains unresolved. NOW follows RUN START by an unresolved number of days.
+Source: `stories/01-if-youre-dead-im-going-to-be-furious.md`; fixed-point interpretation locked by the author.
 
-Source: `stories/00-the-request-remained-open.md`. Arithmetic: 1,406 weeks × 7 days = 9,842 days ≈ 26.95 tropical years.
+### Unanchored warehouse history
+
+```text
+warehouse without witnesses     unknown start | 1,406 local Tuesdays | AUX wakes
+Station Fourteen request       unknown generation |#####| AUX wakes
+T0_BLACKOUT                    no established relation |#####| warehouse interval
+```
+
+The arithmetic count is 9,842 local days if the Tuesday cadence neither skipped nor repeated. Its starting event is unknown and may predate `T0_BLACKOUT` by decades. It cannot yield a current year or a duration of human absence. The relationship between the long unattended interval and the later Station Fourteen request is `TD-002` in `continuity/temporal-debts.md`.
+
+Source: `stories/00-the-request-remained-open.md`.
 
 ## Local-collapse ranges relative to NOW
 
@@ -57,7 +71,7 @@ gate theft described as fourteen years old
                                         NOW-14y |#| approximate page-relative date
 drainage control inactivity              NOW-9y |#########| NOW
 guardian maintenance history             NOW-9y |#########| NOW
-Nix offline interval       WAKE-3y8m11d-19h |####| WAKE-3y8m11d-4h
+Nix offline interval       T0_BLACKOUT | 3y8m11d4h–19h | T1_NIX_WAKE
 phone motionless interval       observation-1191d |###| RUN START observation
 Morrow receiver silent          observation-1113d |###| RUN START observation
 train service absent            observation-1064d |###| RUN START observation
@@ -67,7 +81,7 @@ expired municipal token                before NOW-2y |#####→| earlier unknown
 GS18 malformed handshake           RUN START-9mo |#| RUN START
 ```
 
-The 1,191-day phone, 1,113-day farm receiver, 1,064-day train gap, Morrow's progress into a third agricultural year, and Nix's 3-year-8-month outage cluster broadly around three to four years before RUN START. They support a later regional abandonment wave. They do not date the global reliability boundary or prove a single cause.
+The 1,191-day phone, 1,113-day farm receiver, 1,064-day train gap, Morrow's progress into a third agricultural year, and Nix's fixed 3-year-8-month outage cluster broadly around three to four years before RUN START. Their overlap may reflect a later regional abandonment wave, but it does not prove that every interval began at `T0_BLACKOUT`. The fourteen- and nine-year records can include pre-blackout history and are tracked in `TD-003`.
 
 Sources: `stories/01-if-youre-dead-im-going-to-be-furious.md`, `stories/03-processes-still-running.md`, `stories/04-the-campaign-has-been-reassigned.md`, `stories/07-the-repair-was-ready.md`, `stories/08-permission-to-knock.md`, and `stories/10-the-water-was-not-missing-yet.md`.
 
@@ -76,6 +90,7 @@ Sources: `stories/01-if-youre-dead-im-going-to-be-furious.md`, `stories/03-proce
 ```text
 Melody birth                         NOW-5y |#| NOW-4y
 Melody current age                              |#| four
+Melody birth vs blackout        unresolved |#####| T0_BLACKOUT relation owed
 
 Lower Three inhabited            gallery opens |################| gallery closes
 Rin birth                         gallery opens |#####| gallery closes
@@ -87,7 +102,7 @@ Tom in Lower Three                 evacuation |#####| after lights repair
 Tom current status                         past |########################→| unresolved
 ```
 
-The prose does not assign Rin a number. “Born below” is not synonymous with “currently a child.” Rin's work strongly constrains future characterization even though it does not yet yield a birthday.
+The prose does not assign Rin a number. “Born below” is not synonymous with “currently a child.” Rin's work strongly constrains future characterization even though it does not yet yield a birthday. Placing the Station Fourteen evacuation after `T0_BLACKOUT` would create an empty developmental interval; accepted prose does not make that placement, so `TD-001` remains possible but explanation is owed. Melody's relation to the blackout is tracked as `TD-004`.
 
 Sources: `stories/02-the-princess-revises-the-guest-list.md`, `stories/15-the-request-answered-back.md`, `stories/16-the-cargo-crossed-first.md`, and `stories/17-the-water-kept-a-second-record.md`.
 
@@ -132,11 +147,11 @@ Established sequence:
 Unresolved calendar placement:
 
 ```text
-2026 reliability boundary |########################| Station Fourteen evacuation
+Station Fourteen evacuation |######## relation unknown ########| T0_BLACKOUT
 Station Fourteen evacuation |######################| NOW
 ```
 
-Either bar may be long or short. No accepted prose ties the evacuation to 2026.
+No accepted prose ties the evacuation to 2026 or places it after `T0_BLACKOUT`. Rin's demonstrated growth requires the evacuation and her birth to have enough pre-NOW time; see `TD-001`.
 
 Sources: `stories/13-every-arrow-pointed-south.md` through `stories/19-people-will-still-exist-tomorrow.md`.
 
@@ -147,11 +162,12 @@ Lena's final authenticated report       earlier |#####| tower event-11d
 Lena's phone crosses evacuation tower           | 11 days after report |
 automatic backpack image               tower event |#####| Nix wakes
 Nix last intact memory                 outage-11m |#| outage
-Nix power absence       WAKE-3y8m11d-19h |####| WAKE-3y8m11d-4h
-Nix wakes                                          RUN START |#|
+Nix remembers blackout                    T0_BLACKOUT |#|
+Nix power absence       T0_BLACKOUT | 3y8m11d4h–19h | T1_NIX_WAKE
+Nix wakes                              T1_NIX_WAKE / RUN START |#|
 ```
 
-The evidence makes Lena's evacuation later than her final authenticated report. It does not establish that the evacuation occurred in 2026, that the backpack image was taken at the instant Nix lost power, or that Lena's local evacuation was the same event as Station Fourteen's.
+The evidence makes Lena's evacuation later than her final authenticated report. It does not establish that the evacuation occurred in 2026, that the backpack image was taken at the instant Nix lost power, or that Lena's local evacuation was the same event as Station Fourteen's. The blackout itself is the power loss Nix remembers while Lena is at the desk.
 
 ## Present-run sequence
 
@@ -212,8 +228,8 @@ These clocks usually do not affect the calendar year, but they establish order, 
 
 ## Chapter scan coverage
 
-- `stories/00`: unreliable clock and year; Tuesday; 1,406 maintenance Tuesdays; twelve-hour request expiry; supplies aged for years.
-- `stories/01`: Nix's exact outage range; July 31, 2026 reliability boundary; uneven failure over hours and months; Lena's eleven-day sequence; twelve-hour observation age; forty-seven-minute pass deadline.
+- `stories/00`: unreliable clock and year; Tuesday; 1,406 maintenance Tuesdays with no established start relative to the blackout; twelve-hour request expiry; supplies aged for years.
+- `stories/01`: fixed `T0_BLACKOUT` memory and outage-to-`T1_NIX_WAKE` range; July 31, 2026 reliability boundary; uneven failure over hours and months; Lena's eleven-day sequence; twelve-hour observation age; forty-seven-minute pass deadline.
 - `stories/02`: one domestic day from breakfast through Night; biweekly clarified as every two weeks; recurring party not yet authorized.
 - `stories/03`: 1,191-day phone inactivity; Two's eighty-seven-day final test; Morrow's first, second, and third agricultural years; 1,113-day receiver silence; Aster's ninety-six-minute orbit and nine-month handshake failure.
 - `stories/04`: six-minute pass; fourteen years of partial Aster observations; current-morning image; 1,064 days without a train.

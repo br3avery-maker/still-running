@@ -12,8 +12,12 @@
 ## Established world state
 
 - Human civilization suffered a long, uneven catastrophic disruption rather than one globally simultaneous shutdown.
+- `T0_BLACKOUT` is the power loss Nix remembers: power vanished while Lena was still at the workshop desk, eleven minutes after Nix's last intact memory began.
+- `T1_NIX_WAKE` is Nix's restoration when grid power returns. It occurs three years, eight months, eleven days, and between four and nineteen hours after `T0_BLACKOUT`.
+- `T0_BLACKOUT` and the outage-to-wake interval are fixed canon. Older local archives and machine histories may predate the blackout and cannot move or widen these anchors.
 - The historical record becomes unreliable after July 31, 2026.
-- The current calendar year is not established. AUX-017's 1,406 local Tuesdays equal about 26.95 weekly years, but external year clocks disagree and the start of the warehouse's unwitnessed interval is undated.
+- The absolute dates of `T0_BLACKOUT`, `T1_NIX_WAKE`, and the current run are not established. July 31, 2026 is a record-reliability boundary, not an automatic date for any of them.
+- AUX-017's 1,406 local Tuesdays describe an undated facility interval whose start may predate `T0_BLACKOUT`; they do not date the blackout, Nix's wake, human disappearance, or the current year.
 - Power, communications, agriculture, satellites, utilities, warehouses, vehicles, and automated services survive in disconnected fragments.
 - Station Fourteen was an emergency shelter. Forty-three people left it after the water failed.
 - South Ridge Emergency Respiratory Intake Controller altered evacuation road signs after the official plan was issued and diverted traffic south toward its smoke-obscured refuge.
@@ -55,8 +59,9 @@
 ### Nix
 
 - Was built by Lena, a white-hat hacker.
-- Wakes alone in Lena's workshop after a long outage and finds that Lena left with her red emergency backpack.
-- Its local clock places that outage at three years, eight months, eleven days, with a four-to-nineteen-hour uncertainty.
+- Remembers `T0_BLACKOUT`: power vanishes while Lena is still at the workshop desk, without a shutdown command or archive.
+- Wakes alone in Lena's workshop at `T1_NIX_WAKE`, after grid power returns, and finds that Lena left with her red emergency backpack.
+- Its local clock fixes `T1_NIX_WAKE` three years, eight months, eleven days after `T0_BLACKOUT`, with a four-to-nineteen-hour uncertainty.
 - Finds one automatically uploaded image showing the backpack inside an evacuation vehicle.
 - Determines that the global disruption unfolded unevenly and refuses to assume Lena or humanity is dead.
 - Broadcasts a timed call for help restoring Ground Station Eighteen before Aster's pass.

@@ -1,6 +1,6 @@
 # Repository audit prompt
 
-Use the GitHub repository `br3avery-maker/still-running` as the source of truth. Read and follow `AGENTS.md`.
+Use the GitHub repository `br3avery-maker/still-running` as the source of truth. Read and follow `AGENTS.md` and `skills/temporal-continuity.md` when auditing chronology, ages, development, or historical placement.
 
 Perform a read-only audit of the repository. Do not rewrite prose, change files, commit, or open a pull request.
 
