@@ -4,8 +4,8 @@ These questions remain genuinely unresolved.
 
 ## The southern route
 
-- Can the assisted-only crawler be repaired into independent mobility, or will it become fixed infrastructure on the South Ridge–East Bore route?
-- What cargo should AUX-017 move first now that East Bore can state current needs?
+- Can East Bore fabricate a safe replacement brace plate from its available material, or will the assisted-only crawler remain fixed South Ridge infrastructure?
+- What obligations follow when the route's first recipients offer a return load the machines need?
 - Which original evacuees besides Mia survived the years underground, and who are the six other people born below?
 - Why did thirty-eight residents move east, and what exists beyond East Bore Gate now?
 - How long can the human-modified water line operate at half pressure, and what will replace the shaking East coupling?
@@ -35,6 +35,7 @@ These questions remain genuinely unresolved.
 - How many useful orbital passes remain to Aster?
 - What does Patch do when a repair saves one system by endangering another?
 - What durable rules, rituals, loyalties, and conflicts emerge after the crisis team stops being temporary?
+- How long can one independently mobile crawler sustain the underground route without recovery support?
 
 ## Melody and the guardian
 

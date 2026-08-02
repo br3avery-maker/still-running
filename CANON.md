@@ -27,6 +27,7 @@
 - A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. The community closes its source and begins rationing a reserve sufficient for five full-ration or eight survival-ration days.
 - The crawlers restore Intake's treated-water connection to East Bore through an undocumented isolation assembly at Door 2½. The line operates at half pressure with a daily low-drain flush because the East coupling shakes above that load.
 - The restored line survives its first overnight interval and daily low-drain flush. East Bore requests replacement gaskets, more test strips, and return of its water log, turning the route into ordinary continuing work.
+- The next South Ridge load reaches East Bore despite an unanswered receiving window. East Bore receives the gaskets, test strips, and water log, then offers to fabricate a replacement brace plate for the immobilized crawler if Patch's pattern fits available material.
 - The cause or causes of the wider catastrophe remain unknown.
 
 ## Established characters and systems
@@ -47,6 +48,7 @@
 - Delivers filter media and tools through the gate's freight cradle, receives a signed receipt reporting thirty-one people breathing, and accepts a water test as the next delivery task.
 - Tests East Bore's source, tank, and kitchen water, identifies an unsafe metals trend, and turns from crawler-scale water cargo toward restoring South Ridge's lower-refuge supply pipe.
 - Restores the lower-refuge water route, returns both crawlers to South Ridge, and converts the old Station Fourteen request from a shipment into the active **SOUTH RIDGE TO EAST BORE** route.
+- Sends the route's second load with full disclosure that only one crawler retains independent mobility, leaves requested cargo in the authorized cradle when East Bore cannot answer, and records the new state **DELIVERED; RECEIPT OPEN** rather than converting silence into failure.
 
 ### Nix
 
@@ -95,6 +97,7 @@
 - Braces the damaged crawler's leg with salvaged transmitter shielding and designs an analog bridge between the field radio and the repurposed mine telephone line.
 - Converts Rin's housing measurements into a hand-tool filter-frame plan that East Bore can build at the cost of a shorter service interval.
 - Infers the damaged crawler's missing joint temperature from indirect electrical behavior and revises its return mobility to assisted-only after the brace plate cracks operating the water valve.
+- Rejects repairs that would fail on the pressure-passage grade or disable Intake's refuge door, then sends East Bore a hand-tool brace-plate pattern after Rin offers access to Lower Three's drill press.
 
 ### Aster
 
@@ -172,6 +175,7 @@
 - Identifies Station Fourteen as their mother's shelter without establishing whether she remains alive.
 - Controls a bounded filter transfer through the gate's freight cradle, reports thirty-one people breathing, and signs the receipt requesting a water test next.
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
+- Receives the second route load after an East Bore fan repair prevents an immediate answer and offers to test whether East Bore can fabricate the damaged crawler's brace plate without promising success.
 
 ### Mia Velez
 
@@ -199,6 +203,7 @@
 - Field tests place arsenic in East Bore's kitchen water above the stop-use threshold. Mia Velez closes the source and begins reserve rationing; the crawlers turn back toward Door 2½ to inspect a seized valve on Intake's treated-water line.
 - Two reconstructs Tom's improvised valve sequence, and the crawlers turn the assembly to **EAST ONLY**. Intake begins treated flow at half pressure; both crawlers return to South Ridge, but the cracked brace leaves one crawler capable of assisted movement only.
 - The route survives its first overnight interval and daily flush. East Bore requests gaskets and test strips for the next run, and AUX-017 applies the network's new rule that contact offers remain open when recipients delay, refuse, go silent, or cannot answer on the first available day.
+- The healthy crawler carries the requested second load alone while the damaged crawler serves as South Ridge's winch tender. East Bore receives the cargo after missing the live delivery window and offers a possible brace plate as the route's first reciprocal return load.
 
 ## Planned directions
 

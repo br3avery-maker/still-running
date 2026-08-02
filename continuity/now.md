@@ -5,7 +5,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 ## Where the story is
 
 - AUX-017's truck and both survey crawlers are back at South Ridge and recharging. The healthy crawler returned with nine percent charge.
-- One plate in Patch's improvised brace cracked while the damaged crawler anchored the water-valve operation. Its rear motor is disabled, and it now has assisted-only mobility.
+- One plate in Patch's improvised brace cracked while the damaged crawler anchored the water-valve operation. Its rear motor is disabled; it now serves as South Ridge's winch-supported route tender while a safe mobile repair remains unavailable.
 - Morrow's hauler destroyed its axle brace while holding the truck toward the mountain. It is immobilized north of the gap as the last clear relay and return marker.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.
@@ -17,7 +17,9 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - A field test places arsenic in East Bore's kitchen water above the kit's stop-use threshold. Mia has closed that source.
 - Two reconstructed Tom's undocumented isolation sequence, and the crawlers restored Intake's treated-water line to East Bore.
 - The line operates at half pressure with a daily low-drain flush because its East coupling shakes above that load.
-- The line has survived its first overnight interval and completed its first daily flush. East Bore requests two replacement gaskets, more test strips, and return of its water log after nonprivate measurements are copied.
+- The line has survived its first overnight interval and completed its first daily flush. The healthy crawler has delivered East Bore's two replacement gaskets, more test strips, and returned water log.
+- East Bore missed the live receiving window while repairing a ventilation fan. AUX-017 left the requested cargo in the authorized cradle, kept the receipt open, and received confirmation after the crawler returned.
+- Rin conditionally offers East Bore's drill press and material to fabricate a replacement brace plate from Patch's transmitted pattern; success is not promised.
 - Patch's analog bridge remains at East Bore Gate, preserving telephone contact between the current human community and the network.
 
 ## Relationship pressure
@@ -31,7 +33,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Two gives up bandwidth, obeys a narrow inspection target, and withdraws an uninvited response to the jammed freight cradle without becoming safe or losing interest in the gate.
 - East Bore now knows that no current human operator dispatched AUX-017 or ordered the machine network to help.
 - The network now knows one original evacuee and one person born below, but Mia has supplied only the history needed for the water work.
-- Intake now measures thirty-one current recipients through water draw, and AUX-017 has replaced the old request's destination with the active **SOUTH RIDGE TO EAST BORE** route.
+- Intake now measures thirty-one current recipients through water draw, and AUX-017's active **SOUTH RIDGE TO EAST BORE** route has carried its first possible reciprocal obligation back from East Bore.
 - Melody now knows that thirty-one current human recipients answered the southern mission.
 - Melody classifies the guardian as **Liar Monster** after learning that its promise to keep finding people contained undisclosed limits on her own contact. The offered People call comes too late for her to accept, and the rupture remains unrepaired.
 - The guardian opens a live, unconverted voice channel after all its role voices fail to reach Melody; Melody and Nix hear one another's actual voices for the first time while location metadata remains blocked.
@@ -48,7 +50,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Make the new rule cost real work: carry East Bore's requested gaskets and test strips while the guardian must keep the future People call open, request consent, and face Melody's broken trust without using contact as a reward or shortcut to forgiveness.
+Make the guardian request a genuine future People call with every condition visible before Melody is asked, while leaving her free to refuse and leaving the rupture unrepaired by mere compliance.
 
 ## Do not stall here
 

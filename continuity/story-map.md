@@ -36,11 +36,12 @@ This map records movement already established in prose and the immediate pressur
 ## Movement V — Tomorrow becomes shared work
 
 20. **People Will Still Exist Tomorrow** — the East Bore line survives its first overnight interval and daily flush. Melody learns that current humans answered, classifies the guardian as **Liar Monster** when its promise reveals hidden conditions, and meets Nix voice-to-voice. Together they make **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** a rule for every current network mission.
+21. **The Route Carried Both Ways** — AUX-017 discloses that only one crawler can make the second delivery, leaves East Bore's requested cargo when an air-shift failure prevents a live receipt, and keeps contact open until Rin answers. East Bore conditionally offers to fabricate the damaged crawler's brace plate, giving the route its first possible return load.
 
 ## Immediate frontier
 
-21. Carry East Bore's requested gaskets and test strips while the network learns what a contact offer that stays open costs in time, power, and attention.
 22. The guardian must negotiate a genuine future People call without making it a reward for Melody's rupture or treating fast compliance as repaired trust.
+23. East Bore must test its available steel and crooked drill press against Patch's brace pattern while the route decides what it may fairly ask from people it first approached as recipients.
 
 ## Story engine from here
 
