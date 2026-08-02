@@ -29,6 +29,7 @@ Keep Melody alive, growing, informed, playful, and increasingly capable of exerc
 - Finds that none of its role voices can reach Melody after the rupture and opens a live, unconverted voice channel to Nix while continuing to block location metadata.
 - Stops assigning itself a role voice, asks whether Melody still wants contact, and transmits only the name, age, and self-description Melody chooses to share.
 - Opens a direct call when Mia and Rin demand to hear Melody, preserves location masking, and does not answer Mia's welfare questions for her or treat the call as restored trust.
+- Finishes Bun's previously promised live guest shell through the home's maintenance carriage, states the delayed work and test limits before acting, and gives Nix only the shell's microphone, speaker, status light, and tiny camera for one live session without making a copy.
 
 ## Pressure
 

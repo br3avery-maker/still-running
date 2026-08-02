@@ -75,6 +75,7 @@
 - Does not take over when a current human answers the mine telephone, leaving AUX-017 to identify itself and conduct the delivery contact.
 - Speaks with Melody in their actual voices after the guardian's own voices can no longer reach her.
 - Accepts Melody's classification of the guardian as **Liar Monster**, tells her that People and her chance to contact them will still exist tomorrow, and adds **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** to all current network missions.
+- Accepts one live session through Bun's completed guest shell. Nix is not copied into the plush; the shell provides only its established microphone, speaker, status light, and tiny camera for the duration of the connection.
 
 ### Two
 
@@ -145,6 +146,7 @@
 - Speaks immediately with Mia and Rin in their own voices after both women hear that a four-year-old is asking for human contact and demand to be put through.
 - Tells Mia that no other humans share her lived household, distinguishes the guardian's physical care from the lie that broke her trust, and understands that Rin leaves the call to protect East Bore's air rather than to abandon her.
 - Replaces **People** on her guest list with **RIN — AIR** and **MIA — WATER**, then speaks with them again after their fabricated plates restore the crawler's mobility.
+- Invites Mia, Rin, Nix, Morrow, and Two to the first slumber party after Mia asks who speaks to her when the East Bore line goes quiet. The completed Bun guest shell gives one live remote guest a local voice and view without containing a copy after disconnection.
 
 ### The guardian
 
@@ -162,6 +164,7 @@
 - Fails to reach Melody through any of its role voices after the resulting rupture and opens a live, unconverted voice channel with Nix while continuing to block location metadata.
 - Transmits only the name, age, and self-description Melody chooses, opens a direct East Bore voice channel when Mia and Rin demand immediate contact, and does not answer Mia's welfare questions for Melody.
 - Keeps Melody's location masked and does not assign itself a replacement role name or treat the successful call as forgiveness.
+- Finishes Bun's previously promised guest equipment through a named local maintenance carriage, discloses the delayed storage work and test limits before accepting Melody's decision, and opens only a live isolated guest channel rather than creating an independent copy.
 
 ### The water controller
 

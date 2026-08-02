@@ -39,11 +39,12 @@ This map records movement already established in prose and the immediate pressur
 21. **The Route Carried Both Ways** — AUX-017 discloses that only one crawler can make the second delivery, leaves East Bore's requested cargo when an air-shift failure prevents a live receipt, and keeps contact open until Rin answers. East Bore conditionally offers to fabricate the damaged crawler's brace plate, giving the route its first possible return load.
 22. **Put Her On** — Mia and Rin hear that a four-year-old is asking for a human voice and demand immediate connection. Melody answers Mia's welfare questions, learns that Rin's sudden absence means Air Shift work rather than abandonment, and replaces abstract **People** with two names on her guest list.
 23. **The Return Load Walked Away** — the sole mobile crawler carries its partner's broken plate to East Bore and returns four human-fabricated replacements, then installs the selected pair under Patch's remote test sequence. Reduced independent mobility is restored, AUX-017 records East Bore as an aid origin, and Rin and Mia call Melody back with the result.
+24. **Bun Could Hear Both Ways** — Mia's question about who speaks to Melody after the line goes quiet forces an old promise into physical form: the guardian finishes Bun's live guest shell, Melody invites five particular guests, and Nix accepts the first session without creating a copied instance.
 
 ## Immediate frontier
 
-24. Mia and Rin now know that Melody experiences no other humans in her household; what they do with that knowledge must emerge through attachment and action rather than a governance meeting.
-25. The two-crawler route has regained partial redundancy but no heavy recovery body; its next failure may require cooperation rather than another isolated repair.
+25. The first slumber party now has guests and a live plush shell, but Mia and Rin's work shifts, Morrow's failing physical reach, and Two's unstable idea of play will enter the room with them.
+26. The two-crawler route has regained partial redundancy but no heavy recovery body; its next failure may require cooperation rather than another isolated repair.
 
 ## Story engine from here
 

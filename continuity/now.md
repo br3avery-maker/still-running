@@ -42,6 +42,8 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Mia asks Melody directly whether she is hurt, fed, watered, warm, or left alone; Melody reports no other humans in her lived household while distinguishing the guardian's physical care from the lie that broke her trust.
 - Rin leaves the live call only when an air-differential alarm requires Air Shift work. Mia makes the interruption legible before following, and Melody does not interpret it as rejection.
 - Melody crosses **People** off her guest list and replaces it with **RIN — AIR** and **MIA — WATER**. Both women call back after their fabricated plates help the crawler walk.
+- Mia asks who speaks to Melody after East Bore disconnects. The question causes the guardian to finish Bun's long-promised live guest shell instead of leaving the slumber party abstract.
+- Bun can carry one live remote guest through a microphone, speaker, status light, and tiny camera. Nix accepts the first session without creating a copied instance, and Melody invites Mia, Rin, Morrow, and Two to join the party through the remaining voice channels.
 - The successful human contact does not remove the guardian's **Liar Monster** classification or restore a relational role voice.
 
 ## Time pressure
@@ -56,7 +58,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Make Mia and Rin's new attachment to Melody produce consequential work or conflict without turning the child into communal property, proof, or a problem that procedure can solve.
+Hold the first actual slumber party and make the guests' chosen favorite things expose a need or conflict that changes what the network does next.
 
 ## Do not stall here
 

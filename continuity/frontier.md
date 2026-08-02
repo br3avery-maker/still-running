@@ -39,10 +39,10 @@ These questions remain genuinely unresolved.
 
 ## Melody and the guardian
 
-- When does Melody's slumber party become physically possible?
-- Which intelligence receives the first plush body?
+- The first slumber party is physically possible through Bun's live guest shell, and Nix has accepted its first session; what changes when the invited humans and machines actually attend?
+- Can Bun remain a bounded live shell as Melody begins treating physical presence as part of relationship, or will she ask for an independent guest who remains after disconnection?
 - How will the guardian respond when protection and Melody's growing authority conflict again?
 - Does Melody's provisional invitation to Nix and Lena ever become physically possible?
-- Who at East Bore learns about Melody next, and how do Mia and Rin respond to attachment pressure they cannot solve by reaching her physically?
+- Who at East Bore learns about Melody next, and what will Mia and Rin spend, disclose, or attempt when voice contact cannot satisfy the urge to reach her physically?
 - Can the guardian repair Melody's trust without turning access to People into a bargaining tool or pretending that compliance erases the hidden condition?
 - Which of the guardian's relational names, if any, can return after **Liar Monster**, and who gets to decide?

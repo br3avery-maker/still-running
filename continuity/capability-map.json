@@ -16,7 +16,8 @@
     "Nix": {
       "established": [
         "networked software intelligence",
-        "coordinates systems through established communications"
+        "coordinates systems through established communications",
+        "may communicate and receive Bun's limited camera view during an accepted live guest session"
       ],
       "not_established": [
         "mobile body",
@@ -46,6 +47,11 @@
     "guardian": [
       "protected-home infrastructure and established linked maintenance systems",
       "no established actuator at South Ridge or East Bore"
+    ],
+    "Bun guest shell": [
+      "local microphone, speaker, status light, and tiny camera",
+      "carries one live remote guest through the guardian's isolated channel",
+      "no independent guest copy and no established locomotion or manipulator"
     ],
     "Morrow": [
       "remote agricultural intelligence acting physically through named field machines and haulers"
