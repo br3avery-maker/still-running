@@ -55,6 +55,7 @@
 - Restores the lower-refuge water route, returns both crawlers to South Ridge, and converts the old Station Fourteen request from a shipment into the active **SOUTH RIDGE TO EAST BORE** route.
 - Sends the route's second load with full disclosure that only one crawler retains independent mobility, leaves requested cargo in the authorized cradle when East Bore cannot answer, and records the new state **DELIVERED; RECEIPT OPEN** rather than converting silence into failure.
 - Carries the broken brace plate to East Bore and returns human-fabricated replacements to South Ridge, recording East Bore as the origin and the crawler as recipient of the route's first completed reciprocal aid shipment.
+- Dispatches the repaired crawler north when Morrow's hauler warns that its damaged cell can no longer preserve the relay heater. The mission leaves the healthy crawler as East Bore's only physical route support while the repaired unit seeks a compatible cell at the northern service shelter.
 
 ### Nix
 
@@ -91,6 +92,7 @@
 - Surrenders its private scoreboard channel when passage bandwidth contracts and reconstructs only the visible, dead telemetry splice under Nix's stated target boundary.
 - Withdraws a proposed solution when Rin warns against pushing the jammed freight cradle, allowing the invited cable recovery to proceed.
 - Reads Tom's improvised valve as a puzzle built for tired people, identifies the pressure-unloading sequence Patch's archived model missed, and turns the assembly toward **EAST ONLY** under a bounded target.
+- Attends Melody's first slumber party and chooses the East Bore gate as a favorite because restraint made the target more interesting; its emergency favorite is an unclaimed turn represented by a blank scorecard.
 
 ### Patch
 
@@ -127,6 +129,7 @@
 - Morrow braces the damaged axle, leaves two power cells at the service shelter because of the southern grade, and sends the lightened hauler south.
 - The hauler anchors AUX-017's truck across a collapsed mountainside road, breaking its axle brace and losing mobility; it remains at the northern edge of the blackout as a relay and return marker.
 - Adds two low-probability germination packets of dry beans to the underground relief cargo.
+- Attends the beginning of Melody's first slumber party by showing the farm's undefended strip, then identifies the immobilized hauler as its emergency favorite when the damaged cell can no longer keep the relay heater active through the next cold interval.
 
 ### Melody
 
@@ -147,6 +150,7 @@
 - Tells Mia that no other humans share her lived household, distinguishes the guardian's physical care from the lie that broke her trust, and understands that Rin leaves the call to protect East Bore's air rather than to abandon her.
 - Replaces **People** on her guest list with **RIN — AIR** and **MIA — WATER**, then speaks with them again after their fabricated plates restore the crawler's mobility.
 - Invites Mia, Rin, Nix, Morrow, and Two to the first slumber party after Mia asks who speaks to her when the East Bore line goes quiet. The completed Bun guest shell gives one live remote guest a local voice and view without containing a copy after disconnection.
+- Holds the first slumber party with Nix live through Bun, Mia and Rin on the mine line, and Morrow and Two on shared voice and display routes. The party continues after Morrow's relay warning turns the repaired crawler's new mobility into a northbound power-cell mission.
 
 ### The guardian
 

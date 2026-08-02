@@ -21,6 +21,8 @@ Preserve future food while spending enough of the present to keep potential reci
 - Uses the hauler to anchor AUX-017's truck across a collapsed road, destroying the axle brace and ending the body's mobility.
 - Keeps the immobilized hauler active as an anchor, camera, weather sensor, relay, and return marker while protecting the next planting from another dispatch.
 - Adds two old packets of dry beans to the underground relief cargo because their germination probability is low and not zero.
+- Brings a live view of the farm's undefended strip to Melody's first slumber party, then names the immobilized hauler as its emergency favorite when the damaged cell can no longer preserve the radio heater through the next cold interval.
+- Withdraws from the party to conserve the failing relay while the repaired crawler begins a northbound mission for one of the compatible cells left at the service shelter.
 
 ## Pressure
 

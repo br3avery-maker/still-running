@@ -220,7 +220,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 
 ## Proposed and recurring clocks
 
-- Melody proposes a slumber party every two weeks, but the guardian authorizes one attempt before any recurring schedule. Range: proposal `|#####→|` first party unresolved. Source: `stories/02-the-princess-revises-the-guest-list.md`.
+- Melody proposes a slumber party every two weeks, the guardian authorizes one attempt before any recurring schedule, and that first party occurs after Bun's guest shell is completed and the East Bore brace callback. No recurring schedule is established. Range: proposal `|#####|` first party `|#####→|` recurrence unresolved. Sources: `stories/02-the-princess-revises-the-guest-list.md`, `stories/23-bun-could-hear-both-ways.md`, and `stories/24-every-favorite-thing-was-real.md`.
 - Aster continues a ninety-six-minute orbit while useful passes remain. Range: current pass `|#####→|` orbital failure unresolved. Source: `stories/03-processes-still-running.md`.
 - Intake and East Bore establish a daily low-drain flush for the restored water line, and the first flush completes after one overnight interval. Range: restoration `|# one overnight #|` first flush `|# every day #→|` route continues. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
 - AUX-017 converts the old shipment into a route explicitly requiring tomorrow; that first tomorrow arrives, and East Bore requests cargo for the following run. Range: route opens `|# one overnight #|` first ordinary work `|#####→|` recurring delivery future. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
@@ -251,6 +251,8 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - `stories/20`: the second cargo run occurs after the first flush; no additional overnight or exact route-day count is established.
 - `stories/21`: Melody's first East Bore voice call occurs at breakfast on the domestic day after the rupture; an air-differential alarm interrupts it, and no exact callback interval is promised.
 - `stories/22`: brace fabrication outlasts one carrier visit; the completed plates are collected after the next daily flush begins, advancing the route by one recurring service interval without aligning it to an absolute date.
+- `stories/23`: Bun's guest-shell completion follows the brace callback and occurs during a later quiet-time interval without fixing the wider route calendar.
+- `stories/24`: the first party begins after Bun's test; Morrow accepts eleven minutes and withdraws after eight, while the repaired crawler departs north before the hauler's next cold interval without establishing an absolute duration.
 
 ## Questions future prose may answer
 

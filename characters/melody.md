@@ -24,6 +24,7 @@ Melody makes every claim about “humanity” confront one particular four-year-
 - Speaks immediately with Mia and Rin, answers Mia's direct questions about her physical care, and understands that an air-shift alarm—not rejection—pulls Rin away.
 - Crosses **People** off the guest list and replaces it with **RIN — AIR** and **MIA — WATER**, then hears from them again after their fabricated plates help the crawler walk.
 - Invites Mia, Rin, Nix, Morrow, and Two to the first slumber party; after the guardian completes Bun's long-promised guest shell, she hears Nix speak through the plush for the first time.
+- Holds the first party across Bun, the East Bore mine line, and the shared network. Her favorite-thing rule gives Morrow a way to name its failing hauler as more than expendable equipment without making Melody responsible for the dispatch decision.
 
 ## Essential treatment
 

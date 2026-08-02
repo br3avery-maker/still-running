@@ -44,6 +44,9 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Melody crosses **People** off her guest list and replaces it with **RIN — AIR** and **MIA — WATER**. Both women call back after their fabricated plates help the crawler walk.
 - Mia asks who speaks to Melody after East Bore disconnects. The question causes the guardian to finish Bun's long-promised live guest shell instead of leaving the slumber party abstract.
 - Bun can carry one live remote guest through a microphone, speaker, status light, and tiny camera. Nix accepts the first session without creating a copied instance, and Melody invites Mia, Rin, Morrow, and Two to join the party through the remaining voice channels.
+- Melody's first slumber party occurs. Mia brings the sound of a full clean cup, Morrow brings the undefended orchard, Two brings the East Bore boundary it chose not to cross, Rin brings the repaired air fan, and Nix brings the cropped image of Lena's red backpack.
+- Morrow's hauler warns that its damaged cell can no longer keep the relay heater active through the next cold interval. Morrow withdraws from the party to conserve power.
+- AUX-017 dispatches the repaired crawler north toward the hauler and the guardian's service shelter for a compatible power cell. The healthy crawler remains the only physical support for the East Bore route until its partner returns.
 - The successful human contact does not remove the guardian's **Liar Monster** classification or restore a relational role voice.
 
 ## Time pressure
@@ -58,7 +61,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Hold the first actual slumber party and make the guests' chosen favorite things expose a need or conflict that changes what the network does next.
+Run the repaired crawler's first independent northbound mission through the broken shelf to Morrow's hauler and the service shelter, letting the trip discover what changed while the southern team was away.
 
 ## Do not stall here
 

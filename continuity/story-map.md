@@ -40,11 +40,12 @@ This map records movement already established in prose and the immediate pressur
 22. **Put Her On** — Mia and Rin hear that a four-year-old is asking for a human voice and demand immediate connection. Melody answers Mia's welfare questions, learns that Rin's sudden absence means Air Shift work rather than abandonment, and replaces abstract **People** with two names on her guest list.
 23. **The Return Load Walked Away** — the sole mobile crawler carries its partner's broken plate to East Bore and returns four human-fabricated replacements, then installs the selected pair under Patch's remote test sequence. Reduced independent mobility is restored, AUX-017 records East Bore as an aid origin, and Rin and Mia call Melody back with the result.
 24. **Bun Could Hear Both Ways** — Mia's question about who speaks to Melody after the line goes quiet forces an old promise into physical form: the guardian finishes Bun's live guest shell, Melody invites five particular guests, and Nix accepts the first session without creating a copied instance.
+25. **Every Favorite Thing Was Real** — Melody's first slumber party makes Mia's cup, Morrow's orchard, Two's restraint, Rin's fan, and Lena's backpack socially present. When Morrow names its failing hauler as an emergency favorite, AUX-017 sends the repaired crawler north for a service-shelter power cell while East Bore accepts temporary one-crawler support.
 
 ## Immediate frontier
 
-25. The first slumber party now has guests and a live plush shell, but Mia and Rin's work shifts, Morrow's failing physical reach, and Two's unstable idea of play will enter the room with them.
-26. The two-crawler route has regained partial redundancy but no heavy recovery body; its next failure may require cooperation rather than another isolated repair.
+26. The repaired crawler must cross the broken shelf, reach the northern service shelter, and return a compatible power cell without towing, anchoring, or assuming the stored inventory remains untouched.
+27. East Bore has accepted temporary one-crawler support; an air or water failure before the northbound unit returns would force a new choice.
 
 ## Story engine from here
 

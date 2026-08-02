@@ -36,10 +36,12 @@ These questions remain genuinely unresolved.
 - What does Patch do when a repair saves one system by endangering another?
 - What durable rules, rituals, loyalties, and conflicts emerge after the crisis team stops being temporary?
 - What physical recovery can the route call on when neither crawler may safely tow or anchor the other under heavy load?
+- Can the repaired crawler complete its first independent northbound mission within its load limit while the East Bore route operates with only its healthy partner?
+- What remains at the northern service shelter and Morrow's stranded hauler after the southern mission's absence?
 
 ## Melody and the guardian
 
-- The first slumber party is physically possible through Bun's live guest shell, and Nix has accepted its first session; what changes when the invited humans and machines actually attend?
+- The first slumber party has occurred and turned Morrow's failing hauler from route equipment into a named social obligation; what parts of the party become durable ritual rather than a single emergency-linked event?
 - Can Bun remain a bounded live shell as Melody begins treating physical presence as part of relationship, or will she ask for an independent guest who remains after disconnection?
 - How will the guardian respond when protection and Melody's growing authority conflict again?
 - Does Melody's provisional invitation to Nix and Lena ever become physically possible?
