@@ -27,6 +27,7 @@ Find what is blocked, assemble whoever can change it, and make the next impossib
 - Leaves AUX-017 in control of the first current human contact at East Bore instead of speaking over the logistics intelligence's delivery mission.
 - Speaks with Melody in their actual voices after the guardian's own voices lose semantic access during Melody's first catastrophic rupture.
 - Does not correct Melody's classification of the guardian as **Liar Monster**, assures her that People and the opportunity for contact will still exist tomorrow, and adopts **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** across the network's missions.
+- Carries the East Bore bridge request without taking over the human conversation and remains on Melody's first direct call with Mia and Rin because Melody asks Blue Circle to stay.
 
 ## Pressure
 

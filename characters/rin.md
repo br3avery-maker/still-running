@@ -19,11 +19,11 @@ Keep the air shift working and disclose enough for the next necessary thing to c
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 - Maintains telephone contact while the crawlers restore the old supply line and asks the network to tell the damaged crawler when water reaches East Bore.
 - Misses the second load's receiving window while repairing an East Bore ventilation fan, later confirms receipt of the gaskets, test strips, and water log, and offers to test-fabricate a crawler brace plate without promising that East Bore can make it.
-- Consents to a future voice call with Melody only as Rin, not for East Bore; prohibits questions about gate access and demands no proof of the other residents, while clarifying that work-related line loss is not withdrawal.
+- Immediately joins Melody's first East Bore call after hearing that she is four and asking for a human voice; an air-differential alarm pulls Rin away to protect the community's breathing systems.
 - Helps East Bore test salvaged steel and fabricate four brace plates from Patch's drawing and the broken reference; the selected pair restores the crawler's independent reduced-load mobility.
 
 ## Pressure
 
-Rin can authorize immediate air-shift work but defers water decisions to Mia's shift. The completed brace shipment makes Rin a particular neighbor Melody wants to know, while leaving the scope of Rin's wider authority unresolved.
+Rin can authorize immediate air-shift work but defers water decisions to Mia's shift. Direct contact makes Rin a particular neighbor rather than evidence of **People**, while the call must coexist with work that keeps thirty-one people breathing.
 
 Rin's numeric age is unresolved. Being born in Lower Three and currently performing independent air-shift work creates an elapsed-growth constraint; do not write Rin as recently born or assign a calendar age without checking `continuity/time-map.md`.

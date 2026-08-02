@@ -135,9 +135,10 @@
 - Provisionally invites Nix and Lena to a future slumber party and persuades the southern mission to apply **ASK FIRST** and **NO SECRET FINDING** to its approach.
 - Learns that thirty-one current humans answered the southern mission and classifies the guardian as **Liar Monster** when it reveals that the promise to find people contained undisclosed limits on Melody's own contact.
 - Cannot accept the offered People call after the rupture makes the guardian's words unusable, then speaks with Nix in their own voices and creates **NO HIDDEN NO** as a rule for promises and contact.
-- Authorizes a future contact request only after the guardian discloses known limits first; chooses to reveal her first name, age, and self-description as a princess while explicitly speaking only for herself.
-- Receives Rin's personal consent to a future call with added conditions, declines to use the offer immediately, and keeps both the call and her **Liar Monster** classification open.
-- Learns that East Bore helped restore the crawler's mobility and wants to speak with Rin as the particular person involved, giving the open call a purpose beyond contact with abstract **People**.
+- Authorizes the guardian to tell East Bore her first name, age, and self-description as a princess who does not claim authority over them.
+- Speaks immediately with Mia and Rin in their own voices after both women hear that a four-year-old is asking for human contact and demand to be put through.
+- Tells Mia that no other humans share her lived household, distinguishes the guardian's physical care from the lie that broke her trust, and understands that Rin leaves the call to protect East Bore's air rather than to abandon her.
+- Replaces **People** on her guest list with **RIN — AIR** and **MIA — WATER**, then speaks with them again after their fabricated plates restore the crawler's mobility.
 
 ### The guardian
 
@@ -153,8 +154,8 @@
 - Mediates Melody's first conversation with Nix through a locally converted, guardian-reviewed text channel that discloses no voice recording or location metadata.
 - Refuses Melody immediate contact with East Bore until its residents consent and Melody's identifying information can be protected, exposing conditions it had not disclosed when promising to keep finding people.
 - Fails to reach Melody through any of its role voices after the resulting rupture and opens a live, unconverted voice channel with Nix while continuing to block location metadata.
-- Presents Melody with known privacy, consent, withdrawal, and uncertainty conditions before requesting authorization to contact East Bore; does not choose a replacement role name or treat compliance as forgiveness.
-- Transmits Melody's authorized request through AUX-017 and preserves Rin's added conditions without scheduling the call or disclosing either protected location.
+- Transmits only the name, age, and self-description Melody chooses, opens a direct East Bore voice channel when Mia and Rin demand immediate contact, and does not answer Mia's welfare questions for Melody.
+- Keeps Melody's location masked and does not assign itself a replacement role name or treat the successful call as forgiveness.
 
 ### The water controller
 
@@ -184,7 +185,7 @@
 - Controls a bounded filter transfer through the gate's freight cradle, reports thirty-one people breathing, and signs the receipt requesting a water test next.
 - Is Mia Velez's child and one of the seven people born in Lower Gallery Three.
 - Receives the second route load after an East Bore fan repair prevents an immediate answer and offers to test whether East Bore can fabricate the damaged crawler's brace plate without promising success.
-- Consents personally to a future voice call with Melody without speaking for East Bore, prohibits access questions and proof demands, and states that work-related line loss does not withdraw the offer.
+- Immediately joins Melody's first East Bore call, identifies themself as Rin, and leaves only when an air-differential alarm requires Air Shift work.
 - Helps transmit material tests and fabricate four replacement plates with Mia and other East Bore workers; the resulting reference-matched pair restores the crawler's independent reduced-load mobility.
 
 ### Mia Velez
@@ -193,6 +194,8 @@
 - Works the East Bore water shift and selects the kitchen sample for the first arsenic test because it represents what people consumed.
 - Closes East Bore's contaminated source, begins reserve rationing, and identifies the old Lower Three supply line as the next possible water route.
 - Opens East Bore's branch after the crawlers restore the isolation assembly and gives Intake the half-pressure and daily-flush limits needed to keep the line operating.
+- Demands immediate connection when told a four-year-old is requesting a human voice, asks Melody directly about injury, food, water, cold, and isolation, and promises only that Mia herself will answer when alive and able.
+- Helps fabricate the crawler's replacement plates and joins Rin's callback after the repaired crawler walks.
 
 ### The southern mission
 

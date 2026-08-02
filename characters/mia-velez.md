@@ -18,7 +18,10 @@ Make water decisions from what has entered people, then spend the remaining rese
 - Reports five days of full-ration reserve or eight days at survival ration.
 - Directs the crawlers toward the seized isolation wheel on South Ridge's old lower-refuge supply pipe.
 - Opens East Bore's branch after the crawlers restore the line and gives Intake the half-pressure and daily low-drain flush limits needed to operate it.
+- Takes the receiver when told four-year-old Melody is requesting a human voice, demands immediate connection, and asks Melody—not the guardian—whether she is hurt, fed, warm, and physically safe.
+- Identifies herself as Rin's mother and East Bore's water-shift worker, explains her involuntary tears without making Melody responsible for them, and personally asks to be connected whenever she is alive and able to answer.
+- Helps fabricate the crawler brace plates and joins the callback after the repair restores walking.
 
 ## Pressure
 
-Mia has identified herself only because the pipe work required it. The restored line makes her knowledge of its human modifications part of an ongoing relationship with Intake rather than a one-time disclosure.
+Mia's water knowledge makes her part of the recurring route; hearing Melody turns that practical relationship into an immediate human attachment she chooses for herself rather than on behalf of East Bore.

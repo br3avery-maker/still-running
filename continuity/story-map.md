@@ -37,12 +37,12 @@ This map records movement already established in prose and the immediate pressur
 
 20. **People Will Still Exist Tomorrow** — the East Bore line survives its first overnight interval and daily flush. Melody learns that current humans answered, classifies the guardian as **Liar Monster** when its promise reveals hidden conditions, and meets Nix voice-to-voice. Together they make **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** a rule for every current network mission.
 21. **The Route Carried Both Ways** — AUX-017 discloses that only one crawler can make the second delivery, leaves East Bore's requested cargo when an air-shift failure prevents a live receipt, and keeps contact open until Rin answers. East Bore conditionally offers to fabricate the damaged crawler's brace plate, giving the route its first possible return load.
-22. **The Conditions Came First** — the guardian gives Melody every known limit before asking to contact East Bore. Melody authorizes only the disclosures she chooses; Rin consents only as Rin and adds terms; both decline an immediate call without losing the future one, while the guardian remains **Liar Monster**.
-23. **The Return Load Walked Away** — the sole mobile crawler carries its partner's broken plate to East Bore and returns four human-fabricated replacements. Patch restores reduced independent mobility, AUX-017 records East Bore as an aid origin, and Melody's open call becomes a desire to know Rin rather than abstract **People**.
+22. **Put Her On** — Mia and Rin hear that a four-year-old is asking for a human voice and demand immediate connection. Melody answers Mia's welfare questions, learns that Rin's sudden absence means Air Shift work rather than abandonment, and replaces abstract **People** with two names on her guest list.
+23. **The Return Load Walked Away** — the sole mobile crawler carries its partner's broken plate to East Bore and returns four human-fabricated replacements. Patch restores reduced independent mobility, AUX-017 records East Bore as an aid origin, and Rin and Mia call Melody back with the result.
 
 ## Immediate frontier
 
-24. Melody and Rin's first call can now occur on their stated terms, but it must change work or relationship rather than function as proof that consent procedures or broken trust are solved.
+24. Mia and Rin now know that Melody experiences no other humans in her household; what they do with that knowledge must emerge through attachment and action rather than a governance meeting.
 25. The two-crawler route has regained partial redundancy but no heavy recovery body; its next failure may require cooperation rather than another isolated repair.
 
 ## Story engine from here

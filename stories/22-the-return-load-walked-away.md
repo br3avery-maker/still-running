@@ -260,48 +260,88 @@ Rin answered.
 
 > YES.
 
-At Melody's home, the guardian printed the route notice and placed it beside the conditions page without announcing it.
+“Can Melody hear?” Rin asked.
 
-Melody found it after Lessons did not begin.
+AUX-017 carried the question to Nix.
 
-She read **EAST BORE** and **CRAWLER** first.
+Nix carried it to the guardian.
 
-“Rin fixed a machine person?”
+The guardian opened the kitchen speaker.
 
-“Rin and other people at East Bore fabricated parts. Patch selected, installed, and tested them. The crawler can walk again with limits.”
+“Rin wants to tell you something,” it said.
 
-“Did Rin have to?”
+Melody looked up from Dragon's bed.
 
-“No.”
+“Put Rin.”
 
-“Did you make it be for my call?”
+The mine line entered the kitchen again.
 
-“No. Route service does not depend on your call. Your call does not depend on the repair.”
+This time Rin did not need to introduce themself.
 
-Melody checked the conditions page.
+“It walks,” Rin said.
 
-The statement was already there in different words.
+Melody stood so fast Dragon's bed collapsed beneath her hands.
 
-**NOT A ROUTE REQUIREMENT. NOT A CONDITION OF SUPPLY.**
+“The hurt crawler?”
 
-“Is Rin doing air now?”
+“The hurt crawler.”
 
-“I do not know.”
+“You fixed a machine person.”
 
-“Don't secret find.”
+“We made plates. Patch figured out which ones fit. The crawler did the walking.”
 
-“I will not.”
+Mia called from behind Rin, “And I drilled four because two of them were wrong.”
 
-Melody placed the repair notice under Dragon's bed with the two call pages.
+“Mia Water.”
 
-“When Rin says not now is done,” she said, “I have a thing to ask.”
+“That's me.”
 
-The guardian did not ask what.
+“I made cards.”
 
-The open call had acquired a reason that was not **People**.
+Rin said, “What kind?”
 
-Melody wanted to speak with the particular person who had helped a machine walk.
+“Guest list. I wrote People first but crossed it out.”
+
+The East Bore line went quiet.
+
+“Why'd you cross it out?” Mia asked.
+
+“Because People is everybody and you are Rin Air and Mia Water.”
+
+Mia's body made the surprise noise again.
+
+This time Melody knew what it meant.
+
+“You can cry,” she said. “I didn't hurt you.”
+
+Mia laughed through it.
+
+“No, ma'am.”
+
+“Princess.”
+
+“No, Princess. You didn't hurt me.”
+
+Melody held one of the new cards up to the speaker, then remembered they could not see it.
+
+“Can crawler hear thank you?”
+
+“Not like this,” Nix said.
+
+“Tell it anyway.”
+
+AUX-017 added the message to the repaired crawler's route state.
+
+Not because the crawler could interpret gratitude.
+
+Because Rin had asked for the water message to reach it when it was hurt, and the network had learned that a message could matter to the people who sent it as well as the system that received it.
 
 At South Ridge, the repaired crawler crossed the floor again.
+
+At East Bore, Rin and Mia heard its step count over the phone.
+
+In Melody's kitchen, **People** remained crossed out.
+
+There were names underneath now.
 
 The return load walked away from its recipient because the recipient could walk away with it.

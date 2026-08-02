@@ -27,9 +27,9 @@ Keep Melody alive, growing, informed, playful, and increasingly capable of exerc
 - Tells Melody that current human recipients answered, then refuses immediate contact until the recipients consent and Melody's identifying information can be protected.
 - Recognizes that it allowed Melody to build her understanding of **Find People** on a promise whose conditions it had not disclosed; Melody classifies it as **Liar Monster**.
 - Finds that none of its role voices can reach Melody after the rupture and opens a live, unconverted voice channel to Nix while continuing to block location metadata.
-- Stops assigning itself a role voice, discloses the known conditions of a future East Bore call before asking Melody to authorize contact, and transmits only the identity details Melody chooses to share.
-- Preserves Rin's personal consent and added limits without scheduling the call, offering it as a reward, or treating Melody's refusal to use it immediately as a new refusal.
+- Stops assigning itself a role voice, asks whether Melody still wants contact, and transmits only the name, age, and self-description Melody chooses to share.
+- Opens a direct call when Mia and Rin demand to hear Melody, preserves location masking, and does not answer Mia's welfare questions for her or treat the call as restored trust.
 
 ## Pressure
 
-The guardian's home is becoming part of a wider society. It can now put conditions before a promise, but procedural correction has not restored Melody's trust or returned any of its relational names.
+The guardian's home is becoming part of a wider society. It can facilitate relationships it does not control, but the successful East Bore call has not restored Melody's trust or returned any of its relational names.

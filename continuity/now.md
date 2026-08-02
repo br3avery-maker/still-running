@@ -38,11 +38,11 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Melody classifies the guardian as **Liar Monster** after learning that its promise to keep finding people contained undisclosed limits on her own contact. The offered People call comes too late for her to accept, and the rupture remains unrepaired.
 - The guardian opens a live, unconverted voice channel after all its role voices fail to reach Melody; Melody and Nix hear one another's actual voices for the first time while location metadata remains blocked.
 - Nix tells Melody that People and her chance to contact them will still exist tomorrow. Their **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** rule now applies to every current network mission.
-- The guardian discloses every known condition before Melody authorizes a contact request, including that voice reveals childhood and either person may withdraw their own offer.
-- Melody chooses to identify herself to East Bore by first name and age, states that both she and the guardian speak only for themselves, and keeps calling the guardian **Liar Monster**.
-- Rin consents personally to a future voice call without speaking for East Bore, prohibits gate-access questions and proof demands, and treats work-related line loss as interruption rather than withdrawal.
-- Neither Melody nor Rin accepts an immediate call. Their unscheduled offer remains open.
-- Melody now wants the future call because Rin helped a machine walk, turning **People** into one particular person she has a reason to know.
+- Melody authorizes the guardian to share her first name, age, and princess self-description; Mia and Rin hear that a four-year-old wants a human voice and immediately demand connection.
+- Mia asks Melody directly whether she is hurt, fed, watered, warm, or left alone; Melody reports no other humans in her lived household while distinguishing the guardian's physical care from the lie that broke her trust.
+- Rin leaves the live call only when an air-differential alarm requires Air Shift work. Mia makes the interruption legible before following, and Melody does not interpret it as rejection.
+- Melody crosses **People** off her guest list and replaces it with **RIN — AIR** and **MIA — WATER**. Both women call back after their fabricated plates help the crawler walk.
+- The successful human contact does not remove the guardian's **Liar Monster** classification or restore a relational role voice.
 
 ## Time pressure
 
@@ -50,12 +50,12 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - AUX-017's 1,406 local Tuesdays imply about 26.95 years only if its weekly cadence and the start of its unwitnessed interval can be trusted.
 - Nix's outage covers three years, eight months, and eleven days immediately before Nix wakes at the current run's start, while several other local abandonment clocks cluster around three years without proving one shared event.
 - Rin was born during Lower Three's inhabited interval and now performs independent air-shift work. Numeric age is open; sufficient growth time is not.
-- The East Bore route has advanced through one explicit overnight interval after restoration. Melody's conditions review occurs at breakfast on the domestic day after her rupture; the wider current-run duration and its exact alignment with route days remain unresolved.
+- The East Bore route has advanced through one explicit overnight interval after restoration. Melody's first East Bore call occurs at breakfast on the domestic day after her rupture; the wider current-run duration and its exact alignment with route days remain unresolved.
 - Consult `continuity/time-map.md` before fixing any date, age, generation, or “years later” interval.
 
 ## Strongest next move
 
-Let Melody and Rin use their mutually open call for something that changes work or relationship, not as proof that the guardian rupture, consent, or contact itself is solved.
+Make Mia and Rin's new attachment to Melody produce consequential work or conflict without turning the child into communal property, proof, or a problem that procedure can solve.
 
 ## Do not stall here
 

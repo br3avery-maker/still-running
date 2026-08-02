@@ -22,7 +22,7 @@ The mission has paid for the route:
 - the healthy crawler delivers that second load alone after disclosing the absence of underground recovery support;
 - an East Bore fan repair prevents a live receipt, so AUX-017 leaves the cargo in the authorized cradle and keeps the receipt open until Rin answers;
 - Rin conditionally offers East Bore's crooked drill press and available material for a replacement crawler brace plate, creating the first possible return load;
-- Rin personally accepts a future call with four-year-old Melody under explicit privacy, authority, and interruption conditions while declining to speak for East Bore;
+- Mia and Rin hear that four-year-old Melody is asking for a human voice, demand immediate connection, and speak with her until an air-differential alarm pulls Rin back to Air Shift work;
 - the healthy crawler carries the broken plate inward and four East Bore-fabricated plates outward after a full carrier cycle cannot wait for the work;
 - Patch installs the reference-matched pair and restores independent mobility at forty percent cargo capacity, with towing and anchor loads prohibited;
 - AUX-017 records East Bore as the origin of the route's first completed return shipment, ending the route's one-way aid model;
@@ -30,7 +30,7 @@ The mission has paid for the route:
 
 ## Next movement
 
-Let Melody and Rin use their mutually open call for a specific relationship and consequence, while preserving the guardian rupture and the route's reduced physical limits.
+Let East Bore's knowledge of Melody produce human attachment and consequential action while preserving the guardian rupture and the route's reduced physical limits.
 
 ## Guardrails
 

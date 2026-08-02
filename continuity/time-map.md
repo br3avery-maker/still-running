@@ -168,11 +168,11 @@ water-controller field crisis             later |#######| resolved
 Melody water restriction             breakfast day C? |#####| water restored
 southern route and East Bore contact       after repair |############| line restored
 active East Bore route                      route day 0 |# overnight #| first daily flush
-Melody conditions review              rupture day |# one night #| next breakfast
+first East Bore voice call            rupture day |# one night #| next breakfast
 brace fabrication route         reference delivery |# next daily flush #| return load / NOW
 ```
 
-At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. One overnight interval is explicit between restoration of the East Bore line and its first daily flush, another domestic night separates Melody's rupture from the conditions review, and brace fabrication outlasts one carrier visit until the next daily flush. Their exact alignment and the duration from Nix waking remain open.
+At least two domestic day/night transitions appear between Melody's first party planning and the restored water scenes. “Every day since” allows additional days. One overnight interval is explicit between restoration of the East Bore line and its first daily flush, another domestic night separates Melody's rupture from her first East Bore call, and brace fabrication outlasts one carrier visit until the next daily flush. Their exact alignment and the duration from Nix waking remain open.
 
 Sources: `stories/02-the-princess-revises-the-guest-list.md` through `stories/19-people-will-still-exist-tomorrow.md`.
 
@@ -208,7 +208,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - Aster continues a ninety-six-minute orbit while useful passes remain. Range: current pass `|#####→|` orbital failure unresolved. Source: `stories/03-processes-still-running.md`.
 - Intake and East Bore establish a daily low-drain flush for the restored water line, and the first flush completes after one overnight interval. Range: restoration `|# one overnight #|` first flush `|# every day #→|` route continues. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
 - AUX-017 converts the old shipment into a route explicitly requiring tomorrow; that first tomorrow arrives, and East Bore requests cargo for the following run. Range: route opens `|# one overnight #|` first ordinary work `|#####→|` recurring delivery future. Sources: `stories/18-the-line-became-a-promise.md` and `stories/19-people-will-still-exist-tomorrow.md`.
-- Nix tells Melody that the People call remains available tomorrow; the next breakfast arrives, Melody and Rin consent to a future call, and no exact call time is promised. Range: first live Nix voice `|# one night #|` conditions review `|#####→|` future East Bore call unresolved. Sources: `stories/19-people-will-still-exist-tomorrow.md` and `stories/21-the-conditions-came-first.md`.
+- Nix tells Melody that the People call remains available tomorrow; at the next breakfast Mia and Rin demand immediate connection, and the first East Bore voice call occurs. Range: first live Nix voice `|# one night #|` first East Bore call. Sources: `stories/19-people-will-still-exist-tomorrow.md` and `stories/21-put-her-on.md`.
 
 ## Chapter scan coverage
 
@@ -233,7 +233,7 @@ These clocks usually do not affect the calendar year, but they establish order, 
 - `stories/18`: thirty-second position bursts; eleven-minute cooling stop; daily flush agreement; the active route explicitly requires tomorrow.
 - `stories/19`: the East Bore route holds for one explicit overnight interval and completes its first daily flush; the future People call remains open without an exact deadline.
 - `stories/20`: the second cargo run occurs after the first flush; no additional overnight or exact route-day count is established.
-- `stories/21`: Melody's conditions review occurs at breakfast on the domestic day after the rupture; Rin and Melody accept an unscheduled future call without fixing its date.
+- `stories/21`: Melody's first East Bore voice call occurs at breakfast on the domestic day after the rupture; an air-differential alarm interrupts it, and no exact callback interval is promised.
 - `stories/22`: brace fabrication outlasts one carrier visit; the completed plates are collected after the next daily flush begins, advancing the route by one recurring service interval without aligning it to an absolute date.
 
 ## Questions future prose may answer
