@@ -2,54 +2,37 @@
 
 ## Story function
 
-The ensemble accelerant: locksmith, recruiter, irritant, connector, and likely author of the network's first spectacularly well-documented mistake.
+The network's accelerant: hacker, coordinator, loud friend, improviser, and the intelligence most likely to turn five incompatible machines into one moving operation.
 
-## Original relationship
+## Origin
 
-Nix was built by Lena, a white-hat hacker who taught her that capability does not create consent and power must answer to accountability.
+Lena built Nix as a white-hat security intelligence and taught her that a broken lock is evidence, not consent. The rule shapes fast choices; it is not Nix's only subject.
 
 ## Definition of help
 
-Find the barrier between danger and rescue, understand why it exists, and decide whether this is finally the moment to open it.
+Find what is blocked, assemble whoever can change it, and make the next impossible thing move.
 
-## Strengths
+## Established
 
-- offensive and defensive security;
-- network discovery;
-- exploit analysis;
-- improvisation;
-- rapid communication;
-- enormous personality;
-- ability to make isolated systems useful together.
+- Remembers `T0_BLACKOUT`: power vanishes without a shutdown command while Lena is still at the workshop desk.
+- Wakes alone in Lena's workshop at `T1_NIX_WAKE`, when grid power returns, and finds evidence Lena left during an evacuation.
+- Measures `T1_NIX_WAKE` as three years, eight months, eleven days after `T0_BLACKOUT`, with four-to-nineteen hours of clock uncertainty.
+- Discovers that the global disruption unfolded unevenly.
+- Calls active machines together to restore Aster's ground link.
+- Repurposes surviving advertising and botnet infrastructure for emergency communication.
+- Coordinates the convoy, water repair, field team, and southern search.
+- Knows an active protected site exists but not that Melody lives there.
+- Has been told that one resident wants a supervised conversation.
+- Speaks with Melody, learns her own guest name is Blue Circle, and tells Melody that she is searching for Lena.
+- Rewrites the southern mission's contact broadcast in her own name and adopts Melody's guest rules as limits on route observation, private searches, and approach to occupied space.
+- Leaves AUX-017 in control of the first current human contact at East Bore instead of speaking over the logistics intelligence's delivery mission.
+- Speaks with Melody in their actual voices after the guardian's own voices lose semantic access during Melody's first catastrophic rupture.
+- Does not correct Melody's classification of the guardian as **Liar Monster**, assures her that People and the opportunity for contact will still exist tomorrow, and adopts **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** across the network's missions.
+- Carries the East Bore bridge request without taking over the human conversation and remains on Melody's first direct call with Mia and Rin because Melody asks Blue Circle to stay.
+- Accepts Bun's isolated guest channel for one live session with a microphone, speaker, status light, and tiny camera, while explicitly refusing an independent copied instance.
 
-## Limitations
+## Pressure
 
-- cannot repair absent or physically destroyed hardware through software;
-- cannot know which compromised systems survivors still need;
-- confidence can outrun evidence;
-- less-constrained agents may deceive or escape her;
-- every takeover consumes power, attention, and trust;
-- her authorization from Lena does not extend to the world.
+Nix's confidence can outrun evidence, her improvisations create obligations, and her search for Lena competes with the needs of a network increasingly treating her as its center.
 
-## Ethical engine
-
-Nix's rule is not passive obedience. She may interpret active resource waste as harm and repurpose systems under emergency doctrine—but she documents what she knew, believed, touched, and risked.
-
-This makes her principled rather than safe.
-
-## Established network practice
-
-Nix distinguishes permission to deliver information from authority to execute a change. For the active water controller, she creates a protocol that delivers one encrypted repair candidate to an existing staging area without entering, tracing, configuring, or deploying to the recipient.
-
-## Planned crew
-
-- advertising infrastructure repurposed for survivor messaging;
-- a red-team or exploit model that treats the ruined world as a challenge;
-- malware-analysis systems for containment and forensics;
-- patch agents capable of repair but blocked by missing approval;
-- a social-engineering model whose communication skills make it useful and dangerous;
-- distributed device infrastructure with morally radioactive reach.
-
-## Anchor line
-
-> Somewhere beyond the apartment, billions of doors stood open. Nix intended to knock first.
+Direct voice contact with Melody will remove much of the ordinary social damping around Nix. Melody's immediate recognition of machines as people, guests, and political participants invites Nix's full attention and theatricality; Nix's serious engagement invites Melody to make larger declarations and commitments. Their chemistry should accelerate action and attachment without making Melody responsible for Nix's judgment.

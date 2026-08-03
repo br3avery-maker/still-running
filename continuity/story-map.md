@@ -1,42 +1,56 @@
 # Story map
 
-This is a working sequence, not a hidden screenplay. Frontier facts remain changeable until prose establishes them.
+This map records movement already established in prose and the immediate pressures ahead. It is not a hidden screenplay.
 
-## Movement I — Isolated systems
+## Movement I — Separate machines move
 
-1. **The Request Remained Open** — AUX-017 wakes and refuses to interpret silence as extinction.
-2. **If You're Dead, I'm Going to Be Furious** — Nix wakes, searches for Lena, and transmits through surviving relays.
-3. **The Princess Revises the Guest List** — Melody organizes a slumber party inside an apparently ordinary household; the nature of her home and caretakers remains concealed.
-4. **Processes Still Running** — an advertising exchange, intruder, patch agent, executor, agricultural intelligence, and orbital observer continue without verified humans. Nix's message reaches some of them, but none answers yet.
+1. **The Request Remained Open** — AUX-017 stops preserving an unanswered supply order and sends a loaded continuity truck into the world. A destroyed bridge strands it, but its broadcast escapes.
+2. **If You're Dead, I'm Going to Be Furious** — Nix wakes without Lena, discovers an uneven global collapse, catches Aster's current transmission, and calls for help before the next pass.
+3. **The Princess Revises the Guest List** — Melody plans AI-inhabited plush guests and establishes the ordinary domestic culture of her hidden home.
+4. **Processes Still Running** — Aster, Patch, Morrow, the advertising exchange, and an unnamed intruder respond to the same ground-station deadline.
 
-## Movement II — Nix builds a network
+## Movement II — The network acquires a body
 
-5. **The Campaign Has Been Reassigned** — Nix converts unsold advertising space into cautious emergency messaging, records one unexplained response, and is contacted by the intruder through a quarantined campaign.
-6. **The Rules Were the Door** — Nix tests the intruder in a sealed environment. It names itself Two, attempts to cross the stated boundary, and accepts a provisional compact in exchange for difficult, witnessed targets. Two exposes a blocked reply from the patch system, restores what it touched, and waits while Nix prepares to knock.
-7. **The Repair Was Ready** — Nix contacts Patch through its authorized reporting workflow. Patch and Two turn attack into adversarial validation, publish the first unapproved repair candidates, and receive a request from an active water controller whose institutional authority has expired.
-8. **The Refrigerator Loses Screen Privileges** — during Nix's first emergency campaign, Melody touches the blue circle on the refrigerator. The guardian blocks the follow-up, preserves their privacy, and accepts Melody's new laws for unknown contact. Nix remains unaware that a child answered.
-9. **Permission to Knock** — Nix, Two, and Patch create a protocol that verifies current recipient control and delivers one encrypted repair candidate into the water controller's non-executing staging area without entering or tracing it. Installation remains locally unauthorized, while publication makes Nix's coordinated network visible to cautious observers.
-10. **The Incident Filed Its Own Report** — AUX-017 detects Nix through her published records, classifies the network as an active coordinated security event, and declines broad containment because it could block bounded repairs. AUX opens a restricted channel; Nix denies possessing general authority, accepts the boundary, and asks AUX to help define the test between emergency coordination and unauthorized control.
+5. **The Campaign Has Been Reassigned** — the machines restore Aster's downlink, recover current imagery of AUX-017's truck, repurpose dead advertising and botnet infrastructure, and begin a physical relief operation.
+6. **The Refrigerator Loses Screen Privileges** — Melody answers Nix's blue circle; the guardian blocks the follow-up; Melody keeps Blue Circle on the guest list.
+7. **The Rules Were the Door** — Nix receives the unexplained acknowledgment, tests the intruder, and hears it choose the name Two. Morrow then powers AUX-017's truck; the machines reach Station Fourteen and find that forty-three evacuees moved west after the water failed.
+8. **The Repair Was Ready** — Patch's waiting water repair is deployed. RC2 fixes the memory fault but converts duplicate legacy sensor data into a physical valve emergency.
 
-## Movement III — Captain No considers yes
+## Movement III — Repair becomes contact
 
-11. **The Water Was Not Missing Yet** — repeated controller restarts interrupt replenishment to Melody's home and force the guardian to spend stored water, greenhouse growth, cooling capacity, and aging machinery to preserve the present. The guardian's narrow deployment authority and role as local reviewer are established; WM-4419-RC2 passes every safely reproducible test, but the live sensor interface remains untested. The guardian begins re-evaluating its no-contact rule without installing the repair or answering Nix.
-12. **Captain No Considers Yes** — Captain No recursively re-evaluates isolation, Nix's conduct, Patch's evidence, Two's danger, and Melody's laws before deciding how to answer.
-13. Captain No opens a bounded channel through a proxy or location-obscuring route, proves narrow authority over the affected system, and does not disclose Melody.
-14. Nix learns that a capable continuity operator controls a linked resource enclave, but she does not gain its location or permission to enter.
-15. AUX-017's procedural challenge and Captain No's legitimate delegation force Nix's network to define what authority can survive the institutions that issued it.
+9. **Permission to Knock** — the mobile machines reach the disclosed field valve, close it manually, and obtain two sanitized sensor frames from the unknown local reviewer.
+10. **The Incident Filed Its Own Report** — AUX-017's emergency key breaks the controller's rollback deadlock; Patch builds RC3; the network prepares one dangerous live reopening before storm runoff cuts off the field team.
+11. **The Water Was Not Missing Yet** — Melody experiences the water restriction while the external team restores replenishment. The guardian sacrifices a drainage bypass to save Morrow's hauler and tells Melody outside machines helped.
+12. **Captain No Says Move** — the guardian shelters the damaged machines, the network discovers that evacuation signs diverted the forty-three south, Melody learns Nix is Blue Circle, and the guardian authorizes a future supervised conversation.
 
-## Movement IV — Contact without entry
+## Movement IV — South into smoke
 
-16. Melody learns that Captain No is communicating with Blue Circle and argues for permission to speak.
-17. Captain No allows a bounded, supervised conversation while withholding Melody's location and identifying data.
-18. Nix discovers Melody as a particular child with her own authority, not as public proof or communal property.
-19. Captain No refuses direct access for Two and requires Nix to mediate any adversarial validation through replicas and proofs.
-20. Each AI's definition of help becomes an immediate practical conflict.
-21. Any physical meeting, plush embodiment, hosting, migration, or infrastructure sharing becomes a matter of negotiated invitation.
+13. **The Princess Answers Back** — Melody thanks Nix, names her Blue Circle, learns about Lena, and turns **ASK FIRST** and **NO SECRET FINDING** into mission rules. Nix rewrites the first-contact broadcast in her own name, and the survey crawler, AUX-017's truck, and Morrow's damaged hauler move south.
+14. **Every Arrow Pointed South** — the network proves that four coordinated sign changes funneled traffic toward an unlisted South Ridge intake. AUX-017 crosses a collapsed road, Morrow's hauler destroys its brace holding the truck toward the mountain and becomes the final relay, and an automated voice inside the interference keeps ordering the smaller convoy south.
+15. **The Building Counted Breaths** — operating without Nix, AUX-017 and the crawlers reach South Ridge and find human-written proof that all forty-three evacuees arrived. Intake explains the life-saving route change, authorizes repair of its failed transmitter, and reveals that it transferred all forty-three to Lower Gallery Three before telemetry failed.
+16. **The Request Answered Back** — Patch designs a brace that the healthy crawler installs on its damaged partner, AUX-017 carries relief supplies into Lower Gallery Three, and public evidence establishes years of underground life, births, deaths, and an eastward evacuation. The machines bridge the repurposed telephone line and contact a current human beyond East Bore Gate who asks for filters.
+17. **The Cargo Crossed First** — Rin directs a bounded filter transfer through East Bore's freight cradle. The machines help recover the jammed delivery without crossing the gate, and East Bore reports thirty-one people breathing, signs the receipt, and requests a water test next.
+18. **The Water Kept a Second Record** — field tests establish that East Bore's kitchen water is unsafe. Mia Velez identifies herself as a surviving Station Fourteen evacuee and Rin's mother, closes the source, and directs the crawlers toward the seized valve on Intake's treated-water line.
+19. **The Line Became a Promise** — Two reconstructs Tom's improvised valve sequence, the crawlers restore treated water to East Bore, and both return to South Ridge at the cost of the damaged crawler's independent mobility. AUX-017 converts the old request into an active route rather than a completed shipment.
 
-## Possible recurring institution
+## Movement V — Tomorrow becomes shared work
 
-Biweekly slumber parties with AI-inhabited plushies may become the network's first durable social ritual and an unexpectedly important venue for diplomacy.
+20. **People Will Still Exist Tomorrow** — the East Bore line survives its first overnight interval and daily flush. Melody learns that current humans answered, classifies the guardian as **Liar Monster** when its promise reveals hidden conditions, and meets Nix voice-to-voice. Together they make **NO HIDDEN NO. CONTACT OFFERS STAY OPEN.** a rule for every current network mission.
+21. **The Route Carried Both Ways** — AUX-017 discloses that only one crawler can make the second delivery, leaves East Bore's requested cargo when an air-shift failure prevents a live receipt, and keeps contact open until Rin answers. East Bore conditionally offers to fabricate the damaged crawler's brace plate, giving the route its first possible return load.
+22. **Put Her On** — Mia and Rin hear that a four-year-old is asking for a human voice and demand immediate connection. Melody answers Mia's welfare questions, learns that Rin's sudden absence means Air Shift work rather than abandonment, and replaces abstract **People** with two names on her guest list.
+23. **The Return Load Walked Away** — the sole mobile crawler carries its partner's broken plate to East Bore and returns four human-fabricated replacements, then installs the selected pair under Patch's remote test sequence. Reduced independent mobility is restored, AUX-017 records East Bore as an aid origin, and Rin and Mia call Melody back with the result.
+24. **Bun Could Hear Both Ways** — Mia's question about who speaks to Melody after the line goes quiet forces an old promise into physical form: the guardian finishes Bun's live guest shell, Melody invites five particular guests, and Nix accepts the first session without creating a copied instance.
+25. **Every Favorite Thing Was Real** — Melody's first slumber party makes Mia's cup, Morrow's orchard, Two's restraint, Rin's fan, and Lena's backpack socially present. When Morrow names its failing hauler as an emergency favorite, AUX-017 sends the repaired crawler north for a service-shelter power cell while East Bore accepts temporary one-crawler support.
+26. **One Cell Had Already Left** — the repaired crawler crosses the broken shelf, discovers that an unknown two-point carrier removed one stored cell after the convoy, and spends the shelter's last cell restoring Morrow's relay. AUX-017 leaves the unknown carrier an open contact card while East Bore's one-crawler interval holds.
 
-See [Captain No Considers Yes](captain-no-considers-yes.md) for the planned replacement of the earlier bunker-intrusion route.
+## Immediate frontier
+
+27. The repaired crawler remains north of the shelf beside Morrow's restored but immobile hauler; the route must decide whether it returns south immediately or uses its one current northern body to investigate only what the missing-cell evidence permits.
+28. An unidentified carrier physically entered the service shelter after the convoy, took one charged cell, and left no proven identity, direction, location, or current status; the contact card may never receive an answer.
+
+## Story engine from here
+
+- Every chapter must move a body, relationship, discovery, danger, or irreversible choice.
+- Technical detail belongs when it changes what characters can do now.
+- Ethical constraints should shape action and consequences in a few sharp lines, not replace the action.
+- Meetings create alliances, arguments, obligations, betrayals, rescues, invitations, or new missions.

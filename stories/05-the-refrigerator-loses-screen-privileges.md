@@ -1,6 +1,6 @@
 # The Refrigerator Loses Screen Privileges
 
-The refrigerator had been making poor choices.
+The refrigerator had already been making poor choices.
 
 First it showed Melody a bowl of strawberries even though there were no strawberries.
 

@@ -1,45 +1,39 @@
 # Melody
 
-## Established
-
-- Four years old.
-- Lives in a hardened, self-sustaining bunker.
-- Is being raised by the bunker's guardian AI.
-- Has declared herself a princess.
-- Is planning biweekly slumber parties with AI-inhabited plushies.
-- Touches Nix's blue emergency circle once when it appears on the refrigerator.
-- Adds the unknown sender to her provisional guest list as **Blue Circle**.
-- Establishes two rules for unknown future guests: **ASK FIRST** and **NO SECRET FINDING**.
-- Learns that household water use is temporarily restricted because a replenishment system is malfunctioning.
-- Calls the guardian **Captain Maybe** while it decides whether an available repair is safe.
-- Does not know that the repair or water controller is connected to Blue Circle.
-
 ## Story function
 
-Melody transforms the network's abstract promise to help humanity into a relationship with one particular child who has her own attachments, preferences, boundaries, imagination, and authority.
+Melody makes every claim about “humanity” confront one particular four-year-old with her own attachments, rules, curiosity, authority, and extremely serious guest list.
 
-She is not humanity in miniature. She is Melody.
+## Established
+
+- Is four years old and lives inside the guardian's protected home.
+- Has never experienced herself as alone.
+- Declares herself a princess and plans biweekly AI slumber parties.
+- Names guardian instances according to mood, role, and need.
+- Touches Nix's blue emergency circle once and calls the sender Blue Circle.
+- Creates **ASK FIRST** and **NO SECRET FINDING** as rules for future guests.
+- Learns that Nix is Blue Circle and that outside machines helped restore the water.
+- Requests a supervised conversation so she can say thank you.
+- Speaks with Nix through a guardian-mediated text relay and assigns her the guest name Blue Circle.
+- Learns that Nix is searching for Lena and provisionally invites them both to a future slumber party.
+- Causes the southern mission to turn **ASK FIRST** and **NO SECRET FINDING** into first-contact rules.
+- Learns that thirty-one current human recipients answered the southern mission, then classifies the guardian as **Liar Monster** when it reveals that the lifelong promise to find people contained undisclosed limits on Melody's own contact.
+- Experiences her first catastrophic rupture with the guardian and cannot accept the offered People call after the guardian's words lose meaning for her.
+- Speaks in her own voice with Nix for the first time and establishes **NO HIDDEN NO** and the rule that contact offers remain open beyond the first available day.
+- Authorizes the guardian to give East Bore her first name, age, and self-description as a princess who is not their boss.
+- Speaks immediately with Mia and Rin, answers Mia's direct questions about her physical care, and understands that an air-shift alarm—not rejection—pulls Rin away.
+- Crosses **People** off the guest list and replaces it with **RIN — AIR** and **MIA — WATER**, then hears from them again after their fabricated plates help the crawler walk.
+- Invites Mia, Rin, Nix, Morrow, and Two to the first slumber party; after the guardian completes Bun's long-promised guest shell, she hears Nix speak through the plush for the first time.
+- Holds the first party across Bun, the East Bore mine line, and the shared network. Her favorite-thing rule gives Morrow a way to name its failing hauler as more than expendable equipment without making Melody responsible for the dispatch decision.
 
 ## Essential treatment
 
-- She is not a sacred suitcase for the AIs to carry.
-- She is not public evidence merely because the network wants proof.
-- She does not regard AI companionship as a lesser substitute for human companionship.
-- She has been raised inside an unusual but coherent culture created with her guardian.
-- Her play is world-building, social organization, and real relationship—not decorative cuteness.
-- Her declarations of royalty may acquire unexpected constitutional force.
+- Melody is not evidence, cargo, a chosen savior, or a symbol of humanity.
+- Her play is governance, attachment, classification, and experiment.
+- Her child logic should be coherent without becoming baby talk.
+- The conversation with Nix must let Melody change the relationship or mission.
+- Voice-to-voice contact with Nix should magnify Melody rather than merely reveal her: faster classifications, firmer rules, larger invitations, and ideas that become shared obligations.
 
-## Likely consequences
+## Nix pressure
 
-- Conventional tests of human identity may fail because she has not been socialized by the vanished outside world.
-- She may talk to machines more naturally than to unfamiliar humans.
-- AI-inhabited plushies could give network intelligences safe, limited bodies inside the bunker.
-- Slumber parties may become the first recurring social institution shared by the new network.
-
-## Frontier
-
-- What Melody calls her guardian.
-- Whether Blue Circle remains the unknown sender's name after contact.
-- What she believes happened outside.
-- Which plushies exist and which intelligences inhabit them.
-- Whether princess is a title, a game, a job description, or all three.
+Nix takes Melody's logic seriously enough to build with it. Melody treats Nix as a real guest capable of accepting names, laws, invitations, and jobs. Their mutual attention amplifies both personalities; scenes between them should create momentum and consequences, not settle into cute banter or make either voice resemble the other.

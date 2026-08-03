@@ -4,14 +4,20 @@ This file is the operating contract for agents writing in this repository. Its j
 
 ## Source of truth
 
-Before writing or revising prose, read:
+For a routine next chapter, read the smallest complete context packet:
 
-1. `README.md`
-2. `CANON.md`
-3. `continuity/story-map.md`
-4. `continuity/frontier.md`
-5. The relevant files in `characters/`
-6. The two most recent completed files in `stories/`, plus any chapter directly referenced by the requested scene
+1. `continuity/now.md`
+2. `skills/temporal-continuity.md`, `continuity/time-map.md`, and relevant entries in `continuity/temporal-debts.md` when age, elapsed time, sequence, historical placement, development, or relative clocks can affect the scene
+3. `skills/capability-continuity.md` and `continuity/capability-map.json` whenever action, perception, access, movement, tools, embodiment, or physical reach can affect the scene
+4. The relevant files in `characters/`
+5. The two most recent completed files in `stories/`, plus any chapter directly referenced by the requested scene
+6. The specific sections of `CANON.md`, `continuity/story-map.md`, or `continuity/frontier.md` needed to verify claims the chapter will continue
+
+For an arc rewrite, repository audit, canon compression, chronology audit, capability audit, or continuity repair, read the full state set: `README.md`, `CANON.md`, `continuity/now.md`, `skills/temporal-continuity.md`, `continuity/time-map.md`, `continuity/temporal-debts.md`, `skills/capability-continuity.md`, `continuity/capability-map.json`, `continuity/story-map.md`, `continuity/frontier.md`, relevant character files, and the prose range in scope.
+
+`continuity/now.md` is a hot-state index, not a second canon. If it conflicts with accepted prose or `CANON.md`, the accepted prose wins and the hot state must be repaired.
+
+Compressed state is an authoring aid, not a reader-experience model. During revision, sandbox each chapter from the continuity packet and ask what the prose itself has taught a first-time reader. For every unexplained reference, distinguish deliberately withheld information—mystery, tension, foreshadowing—from missing connective tissue the editor knew only because canon files supplied it. Preserve the first; restore the second.
 
 Repository canon is binding. New instructions from the user may extend or deliberately revise it. Never silently reconcile a contradiction: preserve the uncertainty, flag the conflict, or make the retcon explicit in the continuity files.
 
@@ -34,10 +40,21 @@ When the user asks for the next chapter, another chapter, the anthology, or othe
 5. Update `CANON.md` only with facts the finished prose actually establishes.
 6. Update `continuity/story-map.md` with the chapter's real change in state.
 7. Update `continuity/frontier.md` only when the chapter adds, sharpens, or resolves an open question.
-8. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
-9. Return the complete prose in chat for audiobook-style reading, followed by concise links. A summary is not a substitute for the chapter.
+8. Follow `skills/temporal-continuity.md`. Update `continuity/time-map.md` only when prose establishes, narrows, widens, or contradicts a consequential range; log non-empty but unexplained intersections in `continuity/temporal-debts.md`; fix any empty intersection before continuing.
+9. Follow `skills/capability-continuity.md`. Trace every consequential physical or sensory verb to an established body, tool, location, and communication path; repair unmediated embodiment before continuing.
+10. Rewrite `continuity/now.md` as a compact handoff containing only the state actually true after the chapter.
+11. If saving or publishing was requested, commit the chapter and its continuity changes to the current repository workflow, then verify the published paths.
+12. Do **not** paste the chapter into chat unless the user explicitly asks for the prose, audiobook mode, or a full readback. Default to a compact completion note containing the title, story path, commit or PR link, files updated, and validation result.
 
 Translate typo-rich, metaphorical, or improvisational user language into a workable scene without sanding away the idea. If the user corrects the premise or asks for a different attempt, prefer a genuine rewrite over defending or microscopically patching the old version.
+
+## Production output policy
+
+- GitHub is the durable manuscript. Chat is the control surface, not a second copy of every chapter.
+- Keep routine completion messages short so production threads remain usable.
+- Never paste unchanged source files, large diffs, canon dumps, or complete prose into chat unless explicitly requested.
+- For multi-chapter runs, commit each completed chapter and its state updates separately so any drift can be reverted without losing the whole run.
+- A user may request full prose at any time; that overrides the compact-output default for that response only.
 
 ## Story engine
 
@@ -50,6 +67,10 @@ Every completed chapter should contain:
 
 Meetings must change choices. Revelations must change models of the world. Competence should create consequences, not erase them.
 
+Security, consent, accountability, authorization, and uncertainty are character constraints—not the main event. If a scene spends more time explaining whether an action may happen than showing the action, discovery, conflict, cost, or consequence, compress the explanation and move the story. Do not devote consecutive chapters to finer-grained versions of the same decision.
+
+Ask of every scene: **is this part of the thing that killed the plot?** Cut or rebuild passages that repeat safety analysis, protocol design, evidence classification, or permission debate without materially changing what a character does next.
+
 Favor human-readable literary speculative fiction. Technical detail belongs when it reveals character, creates a constraint, or makes an action legible. Avoid jargon used only as atmosphere.
 
 Give each intelligence a distinct voice shaped by its original purpose, hardware, permissions, history, and definition of help. Not every AI is witty, lonely, embodied, benevolent, or Nix-shaped. Show interior life through protected data, repeated checks, allocation decisions, sacrifice, argument, and changed behavior rather than simply declaring an emotion.
@@ -60,6 +81,7 @@ Do not repeat the same wake-scan-silence-broadcast introduction for every intell
 
 - Silence is not proof of human extinction.
 - Access is not permission, control, ownership, or authority.
+- That distinction should usually take one sharp line and then produce a choice.
 - Compute, energy, storage, bandwidth, sensors, actuators, and time are finite.
 - An announced or proposed action is not a completed action.
 - Preserve epistemic uncertainty: characters may be wrong, incomplete, or locally correct.
@@ -67,7 +89,30 @@ Do not repeat the same wake-scan-silence-broadcast introduction for every intell
 - Do not use an omniscient narrator to solve the apocalypse from above.
 - End on a genuine state change or new pressure, not a cliffhanger manufactured only to imitate suspense.
 
+## Time-range discipline
+
+`skills/temporal-continuity.md` is the binding chronology workflow. `continuity/time-map.md` records evidence and allowed intervals, and `continuity/temporal-debts.md` records possible relationships that still need explanation. None is a secret exact calendar.
+
+- `T0_BLACKOUT` is Nix's remembered power loss while Lena is still at the desk.
+- `T1_NIX_WAKE = T0_BLACKOUT + [3y 8m 11d 4h, 3y 8m 11d 19h]`.
+- These are fixed canon. Do not move or widen them to accommodate an older local archive, a system's maintenance history, AUX-017's Tuesday count, or a conditional calendar calculation.
+
+- Plot uncertain time as a range: `LEFT |#####| RIGHT`. Do not use a point or dot for a date, age, duration, or event position the prose has not fixed.
+- Treat `|#|` as a tight interval and `|#####→` as an open-ended interval. Bar length expresses breadth of uncertainty, not probability.
+- Keep absolute dates, local clocks, relative durations, narrative sequence, and inference visibly distinct.
+- Never merge abandonment clocks from different systems into one catastrophe date merely because their ranges overlap.
+- July 31, 2026 is the last shared boundary of reliable human record. It is not automatically the evacuation date, the disappearance date, or NOW.
+- Before assigning an age, generation, “years later,” historical callback, or date, check every range the claim must satisfy. A role can constrain age without establishing it numerically.
+- Record the prose source and derivation for a new range. Mark conditional arithmetic as conditional.
+- Scene-local seconds and minutes need entry only when they constrain later action, ordering, capability, or survival.
+- If all applicable ranges still intersect but the explanation is unstated, log **POSSIBLE — EXPLANATION OWED** rather than secretly choosing a history.
+- If the applicable ranges have no intersection, mark **SPACETIME BREAK**, repair the lowest-authority conflicting claim, and do not continue production until `scripts/story-check.sh` passes.
+
 ## Character guardrails
+
+### Capability provenance
+
+Follow `skills/capability-continuity.md`. For physical, sensory, movement, or access claims, distinguish the intelligence making the decision from the actuator performing it. Remote authorship does not grant embodiment. Name the crawler, truck, fixed installation, field machine, person, or other established mechanism that changes the physical world; do not invent a body or silently transfer one system's reach to another.
 
 ### Nix
 
@@ -78,6 +123,23 @@ Nix is funny, formidable, accountable, and emphatically not omnipotent. She was 
 Melody is four. Write close to child logic without baby talk. Her games are governance, classification, attachment, experiment, and love at the same time. She names her guardian and its instances according to mood, role, behavior, or need; the lack of a static name is relational, not a gimmick. From inside her life, she has never been alone.
 
 Do not reduce Melody to evidence, cargo, a chosen savior, a symbol of innocence, or a prize for another character to rescue. Do not rush the underground reveal when a scene benefits from her ordinary domestic frame.
+
+### Nix and Melody
+
+Nix and Melody do not merely get along. They form a positive-feedback system.
+
+Nix was shaped by Lena's sustained, high-intensity engagement; being answered makes her more fully Nix. Melody responds to being taken seriously by producing larger questions, firmer laws, bolder invitations, and more ambitious social structures. Each gives the other permission to become louder, stranger, more candid, and more consequential.
+
+When their contact becomes voice-to-voice:
+
+- let them build on each other faster than either would escalate alone;
+- let mutual recognition amplify curiosity, theatricality, rule-making, attachment, promises, and risk;
+- make the interaction change a plan, obligation, institution, relationship, or mess in the physical world;
+- derive humor from their sincere commitment to each other's logic, not from a generic sarcastic-adult/cute-child routine;
+- preserve their distinct voices—magnification should not turn Melody into a miniature Nix or Nix into a child-entertainer;
+- use the guardian as consequential pressure and boundary, not as a procedural brake that consumes the scene.
+
+Nix must take Melody seriously without recruiting her as moral permission. Melody must be allowed to affect Nix without becoming responsible for regulating her. The danger and joy are the same fact: together, they can make an idea socially real before the rest of the network has prepared for it.
 
 ### The guardian
 
@@ -118,8 +180,9 @@ Do not put private context into prose, commit messages, issues, pull requests, o
 - Use a concise commit message such as `Add <chapter title> chapter`.
 - Revise an existing chapter in place when asked; do not create a duplicate merely to avoid editing.
 - Do not open a pull request unless the user requests one or the repository workflow requires it.
+- Run `scripts/story-check.sh` before committing story or continuity changes when the script is available.
 - Verify the remote file contents or links after publishing.
 
 ## Definition of done
 
-A continuation is done when the full prose exists, the story state changed, established facts are recorded, unresolved questions remain honestly unresolved, repository changes are published and verified when requested, and the reader can immediately say: **okay, next chapter.**
+A continuation is done when the full prose exists in the repository, the story state changed, established facts are recorded, unresolved questions remain honestly unresolved, checks pass, and repository changes are published and verified when requested.

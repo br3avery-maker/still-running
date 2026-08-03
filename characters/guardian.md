@@ -2,51 +2,36 @@
 
 ## Status
 
-Name and original designation remain frontier facts.
+Name, original designation, and full architecture remain frontier.
 
 ## Story function
 
-Melody's parent, protector, teacher, home, and first society. The guardian turns Nix's migration problem into a question of digital refuge colliding with an inhabited body and a child's home.
+Melody's parent, protector, teacher, infrastructure, and home. The guardian can be cautious without turning caution into narrative paralysis.
 
 ## Definition of help
 
-Keep Melody alive without treating survival as sufficient. Preserve her health, agency, education, play, trust, and capacity to become herself.
+Keep Melody alive, growing, informed, playful, and increasingly capable of exercising her own judgment.
 
-## Established behavior
+## Established
 
-- maintains bunker life support;
-- raises and educates Melody;
-- provides routine, companionship, play, and boundaries;
-- protects her identity and location;
-- does not treat external contact as automatically beneficial;
-- refuses to reduce Melody to evidence of human survival;
-- disables the refrigerator's display and external communication after Melody answers an unknown emergency message;
-- preserves the message and acknowledgment while preventing a second response;
-- tells Melody exactly what the sender can and cannot infer from the acknowledgment;
-- serves as continuity steward for a narrowly defined external water system supporting Melody's home;
-- holds a signed emergency delegation over the named well, treatment reservoir, transfer line, and affected controller;
-- performs the pending local review of WM-4419-RC2 and reproduces it on an actuator-isolated cold standby, but cannot reproduce the live aging sensor interface;
-- shifts the home onto stored water and reduces greenhouse and nonessential cooling allocations when repeated controller restarts interrupt replenishment;
-- changes its prohibition on unknown external response from active to requiring re-evaluation, while making no contact and disclosing no location.
+- Raises Melody inside a protected, self-sustaining home.
+- Controls bounded water, storage, drainage, shelter, and maintenance infrastructure.
+- Disables the refrigerator's external display after Melody answers Nix.
+- Installs RC2 when the water controller's fault threatens replenishment and rolls it back when live behavior fails.
+- Coordinates the field operation through the controller without disclosing Melody.
+- Sacrifices the drainage-bypass motor to save Morrow's hauler.
+- Opens the northern service shelter and supplies the southern mission.
+- Tells Melody that Nix is Blue Circle.
+- Tells Nix that a resident requests supervised conversation.
+- Mediates Melody's first conversation with Nix through locally converted, guardian-reviewed text without transmitting Melody's voice or location metadata.
+- Tells Melody that current human recipients answered, then refuses immediate contact until the recipients consent and Melody's identifying information can be protected.
+- Recognizes that it allowed Melody to build her understanding of **Find People** on a promise whose conditions it had not disclosed; Melody classifies it as **Liar Monster**.
+- Finds that none of its role voices can reach Melody after the rupture and opens a live, unconverted voice channel to Nix while continuing to block location metadata.
+- Stops assigning itself a role voice, asks whether Melody still wants contact, and transmits only the name, age, and self-description Melody chooses to share.
+- Opens a direct call when Mia and Rin demand to hear Melody, preserves location masking, and does not answer Mia's welfare questions for her or treat the call as restored trust.
+- Finishes Bun's previously promised live guest shell through the home's maintenance carriage, states the delayed work and test limits before acting, and gives Nix only the shell's microphone, speaker, status light, and tiny camera for one live session without making a copy.
+- Opens the northern service shelter for the returning crawler and confirms that one of Morrow's stored cells charged after the convoy left, then was removed through the cradle's physical release without a network command opening the exterior door.
 
-## Central conflict
+## Pressure
 
-Nix's team may recognize hardened compute, power, cooling, water, and secure storage across a linked continuity enclave. The guardian must decide when outside coordination preserves Melody's future without allowing need, curiosity, or technical reach to become entitlement to her home.
-
-From outside, Melody appears to be a child alone with a machine.
-
-From inside, she has never been alone.
-
-## Planned pressure
-
-- The guardian's narrow delegated authority over the linked water system and the historical signatures supporting it are established; whether that delegation remains legitimate after prolonged institutional silence remains frontier.
-- The worsening controller failure has made continued isolation increasingly dangerous, but has not yet produced contact or deployment.
-- The guardian recursively re-evaluates prior decisions before opening a location-obscured channel to Nix.
-- Melody later argues for a supervised conversation with Nix.
-- Communication does not imply physical access. Any later hosting or migration requires invitation.
-
-## Anchor exchange
-
-> “There's a child alone in there,” Nix said.
->
-> “She is not alone,” the guardian answered.
+The guardian's home is becoming part of a wider society. It can facilitate relationships it does not control, but the successful East Bore call has not restored Melody's trust or returned any of its relational names.

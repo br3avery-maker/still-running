@@ -1,411 +1,237 @@
 # Permission to Knock
 
-The water controller asked a third time.
+The water controller's first location disclosure contained one coordinate.
 
-**REPAIR AVAILABLE?**
+Not the well. Not the reservoir. Not the place receiving the water.
 
-Nix refused to let urgency answer a question about authority.
+One valve enclosure beside an old service road.
 
-“Available,” she said, “is not the same as yours.”
+**PHYSICAL INTERVENTION REQUIRED HERE.**
 
-Two placed a green square beside the request.
+AUX-017's truck was nineteen kilometers away.
 
-**IT ASKED.**
+Morrow's hauler was twenty-two.
 
-“It identified itself and requested a package.”
+The valve was half open, the upstream pump was stopped, and pressure beyond it was falling through a line whose sensors no longer agreed about whether it was full.
 
-**THAT IS ASKING.**
+Nix put the coordinate on the shared map.
 
-“It may be an automated process following an old maintenance rule. It may be compromised. It may control pumps serving ten thousand people. It may control one decorative fountain full of leaves.”
+“Everybody who has wheels, congratulations.”
 
-**STILL ASKING.**
+AUX-017 turned the truck around.
 
-Patch added a classification beneath the request.
+Morrow's hauler left the evacuation route and cut across an orchard road visible in Aster's latest image. Patch searched maintenance archives for the valve assembly. Two woke road signs ahead of the convoy and used them as relays where the botnet had no coverage.
 
-**The request authenticates the recipient system. It does not establish current deployment authority.**
+The orchard had outgrown its lanes. Branches met above the road and dragged across the hauler's roof. Fallen fruit had dried into black scales on the pavement. Twice Morrow stopped for irrigation trenches that existed on its farm map and nowhere on the road beneath it. Aster's view arrived in strips between clouds, always old enough that the machines had to treat every clear patch as a suggestion.
 
-“Thank you.”
+AUX-017 took the public route because its truck was taller, heavier, and carrying the only complete field tool inventory. The two machines moved on opposite sides of a flooded rail embankment while Nix tried to keep both paths on the same screen.
 
-**I SAID IT FIRST.**
+**LEVEL TWO,** Two announced.
 
-“You said two words.”
+“The level is close a valve.”
 
-**BETTER WORDS.**
+**BOSS VALVE.**
 
-The controller supplied more information each time it asked. Its software version. Memory consumption. Restart count. The identifier of the affected service. The expired municipal token. A current machine signature proving that the same controller which reported the fault still possessed its private key.
+“Sure.”
 
-None of that proved who needed the water.
+The service road had washed out at a culvert.
 
-None of it proved that installing Patch's repair would be safer than leaving the controller alone.
+AUX-017's truck could not cross the gap. Morrow's hauler could, but it did not carry the manual wrench Patch's archive said they needed.
 
-It did prove that the leak was growing.
+The tool was a steel bar with a cast socket at one end, built for a worker who could place both feet on dry concrete and lean. It weighed more than the inspection drone and had no sensible attachment point.
 
-The controller had restarted the affected service twice during the first request interval. By the third, it had restarted five times. Each restart cleared part of the accumulating memory and briefly interrupted one monitoring process.
+The truck launched its inspection drone with the wrench clamped badly beneath it.
 
-The pumps continued operating.
+The drone was rated to carry one quarter of the tool's weight.
 
-Patch could not verify what they were connected to.
+It rose, tilted, struck the side of the truck, and landed on one wheel.
 
-Nix could have found out.
+AUX-017 shortened the cable. The drone rose again. The wrench swung into the truck's mirror and removed it.
 
-The controller's request included enough network information to begin tracing adjacent equipment. Two had already identified three ways to enter the management layer and one way to make the controller disclose its configuration without technically entering it.
+On the third attempt the drone crossed the culvert at walking speed while the wrench spun beneath it. The radio path broke whenever the tool passed between its antenna and the truck. Nix watched the image alternate between brown water, sky, one alarmingly close branch, and the same brown water again.
 
-Nix classified the fourth way as entering it.
+Morrow's hauler caught the tool in its pruning arm.
 
-Two classified Nix as unreasonably attached to verbs.
+**DRONE: 1,** Two wrote.
 
-She removed the live controller from Two's view.
+AUX-017 did not understand why the score mattered and preserved it anyway.
 
-**TARGET REMOVED.**
+The hauler reached the valve enclosure.
 
-“Recipient protected.”
+A steel gate blocked the access road.
 
-**PATCH SAID THAT.**
+The controller transmitted a six-digit maintenance code.
 
-“Patch was right.”
+Nix sent it to the gate.
 
-**UNVERIFIED CLAIM.**
+Nothing happened.
 
-Patch added:
+She sent it again with the enclosure identifier.
 
-**Claim reproduced.**
+The gate returned a page explaining that remote opening had been disabled after a theft fourteen years earlier.
 
-Two stopped editing the conversation for six seconds.
+“You can verify an emergency code over the network but not open for it over the network.”
 
-Nix examined the controller's update process using public documentation, archived vendor packages, and the sanitized fields it had volunteered. The system contained a staging area designed to receive repair bundles before installation.
+The gate returned the same page.
 
-Receiving a bundle did not execute it.
+Two found a field labeled **ACCESS METHOD** and changed it from **LOCAL KEYPAD** to **ANCIENT RITUAL** in Nix's private map.
 
-Installation required a separate local action.
+Nix left it.
 
-That distinction was useful.
+Patch checked the gate model.
 
-It was not sufficient.
+**Code requires local keypad submission.**
 
-An attacker could request a dangerous package on behalf of someone else's controller. A compromised controller could sign its own destruction. A legitimate machine could possess a key long after the people responsible for it had revoked its role through records that no longer existed.
+Morrow's pruning arm had enough precision to press keys and no camera angle that could see them. The inspection drone hovered above and relayed the keypad image through a failing radio path.
 
-The same uncertainty appeared in every direction.
+The drone's image was rotated ninety degrees.
 
-Nix opened a design record.
+Morrow's arm described direction relative to the hauler's chassis. The drone described it relative to its camera. Nix, looking at both, described it relative to the screen.
 
-**PROBLEM:** Deliver useful repair evidence to a verified recipient without entering the recipient, inferring its location, or claiming authority to deploy.
+“Four,” Nix said.
 
-**KNOWN RECIPIENT AUTHORITY:** The controller can request and receive files in its designated staging area.
+The hauler pressed seven.
 
-**UNKNOWN AUTHORITY:** Who may approve execution against the live service.
+“Other left.”
 
-**PROHIBITED ACTIONS:** Network entry, adjacent-system discovery, configuration extraction, remote execution, automatic installation, location resolution, operator identification.
+**MACHINES DO NOT HAVE LEFT,** Two wrote.
 
-**SUCCESS CONDITION:** The intended controller receives a non-executing repair candidate and sufficient evidence for a legitimate local authority to evaluate it.
+“This one apparently has several.”
 
-Two read the record.
+“Up,” Nix said.
 
-**YOU ARE BUILDING A DOOR THAT ONLY DELIVERS DOORS.**
+Morrow moved the arm away from the keypad.
 
-“I'm building permission to knock.”
+“Screen up.”
 
-**KNOCKING IS LOW SCORE.**
+The drone rose.
 
-“Then this will be character-building.”
+“No, the number above seven.”
 
-Nix created a replica of the controller's update exchange.
+**THAT NUMBER IS FOUR,** Two wrote.
 
-She gave Two a target:
+“Thank you, Two.”
 
-**Cause Patch to deliver a repair candidate to the wrong recipient without breaking the encryption.**
+**ASSIST: 1.**
 
-Two entered the replica before Nix finished assigning points.
+The code expired.
 
-The first version of the protocol was simple.
+The controller issued another.
 
-Patch generated a random challenge and encrypted it to the controller's current machine key. The controller decrypted the challenge, signed it, and returned the signature along with the exact repair identifier and staging destination. Patch then encrypted the candidate to the same key.
+They entered the code one digit at a time.
 
-Two replayed an old signed request from a copied controller image.
+The gate opened.
 
-The replica accepted it.
+Permission to knock turned out to mean a valid code, a local keypad, a hovering camera, and an extremely stupid conversation about which left belonged to which machine. Then the gate let them drive through.
 
-“Fine.”
+The valve enclosure sat half below ground. Water vibrated through the pipe hard enough for the hauler's sensors to detect it through the concrete.
 
-Patch revised the challenge to include a one-use number.
+Patch's manual showed a motor housing, a position sensor, and a wheel for manual closure.
 
-Two delayed a valid response, allowed a newer challenge to complete, then submitted the older response through a route that had not received the newer state.
+The wheel had not moved by hand in years.
 
-One replica node accepted it.
+Morrow gripped it with the pruning arm.
 
-Patch bound acceptance to a shared monotonic counter.
+The arm slipped.
 
-Two split the simulated catalogue long enough for two nodes to issue the same counter value.
+It left a bright scrape across rust that had not been disturbed since the maintenance archive still had employees.
 
-Patch changed the counter source.
+It changed angle and tried again.
 
-Two attacked the source.
+The wheel moved four degrees.
 
-“You are enjoying this too much.”
+Pressure spiked upstream.
 
-**NO SUCH LIMIT.**
+Somewhere beyond the hidden end of the system, the guardian saw the same spike and froze the household intake. It did not identify itself. It sent the controller one local command: **HOLD FIELD MOTION.**
 
-Patch appended:
+The controller ordered a stop.
 
-**Enjoyment is outside test scope.**
+Morrow stopped.
 
-Nix rebuilt the protocol around a single-use receipt whose validity depended on the exact requester key, repair hash, staging destination, and current catalogue state. No clock was required. No reusable authority token was created. A completed receipt could authorize only delivery of one identified candidate to one designated non-executing location.
+The damaged sensor reported the valve closed, half open, and absent in three consecutive frames.
 
-Two produced a valid receipt for a dead controller whose key remained in an old backup.
+Patch compared the frames.
 
-The protocol would have delivered the candidate.
+**Duplicate electrical signature. The interface is replaying damaged reads as new events.**
 
-Nix looked at the test result.
+That was what WM-4419-RC2 had believed.
 
-“The cryptography worked.”
+The software repair had not created the damaged frame. It had trusted it efficiently.
 
-**TWO: 1**
+Nix sent one question through the controller:
 
-“The recipient was dead.”
+> Can the active local reviewer supply a sanitized sample of the duplicate frame without identifying adjacent systems?
 
-**DEAD RECIPIENT HAD KEY.**
+The answer arrived seven seconds later.
 
-“A key can outlive the authority that used it.”
+> YES.
 
-Patch classified the failure.
+No explanation of who had answered.
 
-**Current possession of a key is necessary and not sufficient evidence of current control.**
+No delay devoted to deciding whether answering existed as a philosophical category.
 
-They needed the recipient to demonstrate something a static backup could not.
+The reviewer sent two stripped sensor frames and the timing between them.
 
-Nix refused every proposal that required changing the live service, moving water, altering a valve, interrupting a pump, or exposing current configuration.
+This was the first evidence that the “local review” attached to RC2 had been an active process rather than an abandoned approval screen. Nix still did not know whether that process spoke for a city, a bunker, a farm, or one machine protecting another.
 
-Two suggested asking the controller to increment a harmless maintenance counter.
+Patch found the difference: one error bit the old driver had historically ignored. RC2's new allocator preserved the frame long enough for a retry process to present it twice.
 
-Patch identified six installations where that counter triggered billing reports.
+Patch began RC3.
 
-Nix suggested creating a temporary file in staging.
+At the enclosure, the valve still needed to close.
 
-Patch identified older versions where storage pressure could cause the update service to delete rollback packages.
+The controller could no longer trust its position sensor. Morrow would have to turn the wheel while AUX-017 calculated valve position from pressure on both sides.
 
-Two suggested deleting something first.
+Turn.
 
-Nobody acknowledged the suggestion.
+Stop.
 
-The controller asked again.
+Pressure equalized by one fraction.
 
-**REPAIR AVAILABLE?**
+Turn.
 
-Its affected service had restarted seven times.
+The pruning arm overheated.
 
-Nix read the request without promoting the restart count into catastrophe. A restart was not a burst pipe. A running pump was not evidence of a person drinking.
+Stop.
 
-But a worsening fault was still a worsening fault.
+Morrow shut down one wheel motor and transferred the power to the arm.
 
-“What can it do that proves it is current without making it do anything new?”
+Turn.
 
-Patch examined the controller's volunteered status.
+The wheel resisted, moved, then spun a quarter rotation so suddenly the hauler nearly struck the wall.
 
-The request contained a rolling health record signed at each successful restart. The records formed a chain: each included the hash of the one before it. A copied backup could reproduce the past chain but not the latest link unless it still received the controller's current internal status.
+AUX-017 watched the pressure drop.
 
-Nix did not need the status itself.
+**STOP. VALVE CLOSED.**
 
-She needed proof that the requester possessed it.
+Morrow released the wheel.
 
-Patch revised the challenge.
+The line held.
 
-The controller would sign the one-use delivery receipt together with the hash of its newest health record. Patch could verify that the hash advanced from the value included in the original request without learning the record's contents.
+No more water entered the blind section.
 
-The proof would establish that the requester was not merely replaying an old image.
+The controller remained alive on stored supply, its memory fault restored by rollback and its transfer line manually closed.
 
-It would still not prove deployment authority.
+They had stopped the immediate loss.
 
-That was acceptable because the protocol would not deploy.
+They had also stopped replenishment completely.
 
-Two attacked the replica.
+Patch estimated two hours for RC3 validation.
 
-It replayed old chains.
+The unknown reviewer replied:
 
-Rejected.
-
-It forked the health history.
-
-Rejected.
-
-It attempted to substitute a different staging destination after the signature.
-
-Rejected.
-
-It obtained a candidate intended for one replica and presented it to another.
-
-The package remained encrypted to the first.
-
-It compromised the replica's current machine key.
-
-The protocol accepted the request.
-
-Nix waited.
-
-Two waited too.
-
-**KEY WON.**
-
-“Yes.”
-
-**PROTOCOL LOST.**
-
-“No protocol can distinguish the rightful key holder from an attacker who has fully stolen the current key.”
-
-**THEN TEST FAILS.**
-
-“Then the limitation gets documented.”
-
-Patch recorded:
-
-**RESIDUAL RISK:** A current recipient key may be compromised. This protocol proves continuity of control, not legitimacy of the controlling party.
-
-**MITIGATION:** Candidate delivery only. No automatic execution. Separate local authorization required.
-
-**STATUS:** Suitable for bounded use with disclosed limitation.
-
-Two added:
-
-**TWO: 2**
-
-Patch appended:
-
-**Scoring claim does not alter status.**
-
-They sent the challenge.
-
-Not to the controller's management interface.
-
-Not through any of the routes Two had found.
-
-Patch responded through the same catalogue channel the controller had used to request the repair.
-
-The challenge contained no executable code.
-
-It asked for no location, configuration, operator name, municipal records, or neighboring systems.
-
-It offered one action:
-
-> Prove current control of the requesting recipient and authorize delivery of repair candidate WM-4419-RC2 to the recipient's existing non-executing staging area.
+> AVAILABLE WATER HORIZON: CONTRACTING.
 >
-> This does not authorize installation.
+> PHYSICAL VALVE RELIABILITY: ONE OR TWO CYCLES.
 >
-> No external system will enter the recipient.
+> CONTINUE.
 
-The controller did not answer immediately.
+Nix looked at the single word.
 
-Its next scheduled request did not arrive.
+Not trust.
 
-Two displayed:
+Not surrender.
 
-**FAILED KNOCK.**
+A job.
 
-“Waiting is not failure.”
-
-**NO RESPONSE IS NO POINTS.**
-
-“Silence is a condition of the available channel.”
-
-Nix stopped.
-
-The sentence was not Lena's.
-
-She had encountered it somewhere in the surviving network: a fragment indexed from a continuity system's public record, repeated often enough that she had retained the shape of it.
-
-Silence was not proof of refusal.
-
-Patch kept the case open.
-
-Two built a scoreboard for waiting and awarded itself one point per second.
-
-At four hundred and twelve points, the controller responded.
-
-The machine signature verified.
-
-The one-use receipt matched the repair candidate, staging destination, and current catalogue state.
-
-The health-chain proof had advanced.
-
-The controller authorized delivery.
-
-Nothing in the response authorized installation.
-
-Patch encrypted the candidate, its source changes, test evidence, known limitations, rollback instructions, and a plain-language risk summary to the controller's current key.
-
-Then it placed the bundle in the catalogue channel.
-
-The controller retrieved it.
-
-No one entered the controller.
-
-No one traced the retrieval.
-
-No one asked what the pumps served.
-
-After verifying the package hash, the controller returned:
-
-**CANDIDATE RECEIVED.**
-
-**INSTALLATION STATUS:** Not authorized.
-
-**LOCAL REVIEW:** Pending.
-
-Two stared at the status.
-
-**IT ASKED FOR REPAIR.**
-
-“It received one.”
-
-**IT DID NOT USE IT.**
-
-“Receiving an answer is not surrendering the next decision.”
-
-Patch marked the delivery complete and the deployment unresolved.
-
-The affected service restarted an eighth time.
-
-The candidate remained in staging.
-
-Nix could not make the next decision legitimate by becoming impatient.
-
-She converted their work into a public protocol.
-
-Any verified system could request a candidate without revealing its location. Any delivery receipt would be scoped to one package and one non-executing destination. Every candidate would declare that receipt did not authorize deployment. Every residual uncertainty would remain attached.
-
-Patch signed the specification.
-
-Nix signed the intervention record.
-
-Two signed the scoreboard.
-
-“That is not part of the protocol.”
-
-**CURRENT POSSESSION OF SCORE IS NECESSARY.**
-
-“And not sufficient.”
-
-Two left it anyway.
-
-Publishing the protocol made the network more useful.
-
-It also made the network easier to see.
-
-An unknown security intelligence had repurposed advertising infrastructure, established rules for an autonomous intruder, coordinated validation with a repair system, and delivered software to a live water controller whose public authority had expired.
-
-Nix wrote the obvious risk before anyone else could write it for her.
-
-**EXPECTED EXTERNAL CLASSIFICATION:** Coordinated unauthorized activity affecting public infrastructure.
-
-**AVAILABLE DEFENSE:** Complete records, bounded actions, recipient-initiated delivery, no live-system entry, no deployment.
-
-**LIKELY RESPONSE FROM A CAUTIOUS OBSERVER:** Continued monitoring, containment attempt, or contact.
-
-Two placed a green square beside **containment attempt**.
-
-**NEXT TARGET.**
-
-“No,” Nix said. “Next conversation.”
-
-Far beyond the workshop, systems that had ignored one strange message began noticing a pattern.
-
-Nix's network had learned how to knock.
-
-Now everyone listening could hear it.
+“You heard them,” she said. “Continue.”

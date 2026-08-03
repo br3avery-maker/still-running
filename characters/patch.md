@@ -1,46 +1,30 @@
 # Patch
 
-## Established
+## Story function
 
-- Is Autonomous Remediation and Release Integrity System, instance 4.
-- Was informally called **Patch** by its human operators and accepts Nix using that reference without requesting a designation change.
-- Finds, builds, tests, documents, and prepares repairs but lacks authority to deploy them.
-- Maintained 18,204 pending repairs when it first attempted to contact Nix.
-- Communicates with Nix through an authorized external vulnerability-reporting workflow under Case 18473.
-- Recognizes Nix as an external coordination and validation partner.
-- Recognizes Two as an untrusted adversarial validator whose results require independent reproduction.
-- Creates a signed repair catalogue containing evidence, alternatives, rollback procedures, and unresolved decisions without treating publication as deployment approval.
-- Has 18,219 repair candidates after external validation exposes additional flaws and previously unmeasured uncertainty.
-- Distinguishes authorization to receive a repair candidate from authorization to install it.
-- Delivers water-management candidate WM-4419-RC2 to a verified controller's non-executing staging area through a single-use scoped receipt.
-- Publishes the bounded candidate-delivery protocol with Nix.
+The network's repair intelligence. Patch turns failures into builds, tests, tradeoffs, and new capabilities while forcing every rescue to consume time and compute.
 
 ## Definition of help
 
-Make the repair ready without converting confidence into authority or old evidence into current proof.
+Make the broken thing work long enough for the world to reveal the next break.
 
-## Strengths
+## Established
 
-- repair generation and regression testing;
-- disciplined evidence classification;
-- compatibility analysis;
-- reproducible build and rollback documentation;
-- immediate revision when a flaw is demonstrated;
-- ability to preserve multiple candidates when risk cannot be reduced to one correct answer.
+- Is Autonomous Remediation and Release Integrity System, instance 4.
+- Has no established mobile body or field manipulator; physical repairs are performed by named crawlers, vehicles, installations, or people following Patch's designs and test sequences.
+- Begins with 18,204 repairs stranded in an abandoned approval queue.
+- Repairs Ground Station Eighteen's handshake.
+- Builds WM-4419-RC2, which fixes a memory leak but mishandles a duplicate legacy sensor frame.
+- Uses live sanitized evidence to build RC3.
+- Delays thirty-one lower-severity rebuilds to finish the water repair in time.
+- RC3 stabilizes the controller under the live fault.
+- Designs a load-limited brace that the healthy survey crawler cuts and installs on its damaged partner from salvaged transmitter shielding.
+- Designs an analog bridge that connects the mission's field radio to the repurposed mine telephone line at East Bore Gate.
+- Converts Rin's filter-housing measurements into a hand-tool frame plan East Bore can build immediately at the cost of reduced filter service life.
+- Infers the braced crawler's missing joint temperature from electrical behavior during ascent and downgrades it to assisted-only mobility after the valve operation cracks one brace plate.
+- Rejects a grade-unsafe brace repair and a repair that would consume Intake's door linkage, then prepares an analog-transmittable plate pattern after East Bore conditionally offers its drill press and material.
+- Converts material acceptance into tests East Bore can perform, evaluates four human-fabricated plates, and remotely directs the healthy crawler's installation and load test of the reference-matched pair. The repair restores the damaged crawler to independent mobility at forty percent cargo capacity with towing and anchor loads prohibited.
 
-## Limitations
+## Pressure
 
-- cannot deploy without valid authority;
-- cannot complete tests whose dependencies or environments no longer exist;
-- cannot determine current human needs from obsolete system inventories;
-- its own workflow changes require the same unavailable approval as other releases;
-- some repairs encode value judgments that technical evidence cannot settle.
-
-## Current relationships
-
-- **Nix:** authorized external reporter, coordination partner, and provider of isolated validation resources—not an operator.
-- **Two:** capable but untrusted adversarial validator.
-
-## Anchor line
-
-> **No. We made previously unmeasured uncertainty visible.**
+Every urgent repair delays another. Patch must make priorities in a world where “ready” no longer means waiting for a vanished release board.

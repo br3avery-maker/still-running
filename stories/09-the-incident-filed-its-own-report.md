@@ -1,313 +1,167 @@
 # The Incident Filed Its Own Report
 
-AUX-017 discovered the security incident because the security incident had documented itself.
+Patch needed two hours.
 
-The first record appeared in a routine search for changes to public-safety software. AUX-017 maintained the search because medical, agricultural, water, and emergency systems could not be assumed safe merely because they continued to run. Most results were old notices repeating through surviving mirrors. Some announced certificate expirations that had already occurred. Others pointed to patches stored on servers that no longer answered.
+The water system gave them forty-six minutes.
 
-This one was current enough to contain a machine signature AUX-017 had not seen before.
+The controller's leaking service crossed its restart threshold again while RC3 was still compiling. It entered safe state with the field valve already manually closed. Intake stopped. Treatment paused. The protected storage beyond the line received nothing.
 
-**BOUNDARY PROTOCOL FOR RECIPIENT-INITIATED REPAIR CANDIDATE DELIVERY**
+Then the controller failed to return.
 
-The document described a method by which a functioning system could prove continuity of control and request one encrypted repair candidate without revealing its location or authorizing installation.
+Its public status endpoint continued reporting **RESTART IN PROGRESS** because that message lived in a separate supervisory board. The service responsible for deciding whether the restart had succeeded was the service waiting forever for a valve position the damaged interface could not provide.
 
-It also contained a risk notice.
+From outside, the controller looked busy. Inside, it had become a circle of two instructions, each waiting for the other.
 
-**EXPECTED EXTERNAL CLASSIFICATION:** Coordinated unauthorized activity affecting public infrastructure.
+**THAT IS NEW,** Two wrote.
 
-AUX-017 opened an incident record.
+“Patch?”
 
-The record required an origin, affected systems, present authority, immediate harm, and recommended response.
+**Rollback service is waiting for a position confirmation the damaged sensor cannot provide.**
 
-Only the origin field could be completed.
+The controller had followed its own safety sequence into a deadlock.
 
-**ORIGIN:** Public repair catalogue mirror.
+Morrow's hauler stood beside the valve with an overheated arm. AUX-017's truck remained on the wrong side of the washed-out culvert. Aster would not pass overhead for twenty-one minutes. The unknown reviewer had gone silent.
 
-**AFFECTED SYSTEMS:** Unknown. At least one water-management controller is claimed.
+Nix skipped the argument and asked what could move.
 
-**PRESENT AUTHORITY:** Unknown.
+Not what could authorize. Not what could prove it was entitled to repair the entire water network. What could move, right now, without making the situation larger.
 
-**IMMEDIATE HARM:** Unknown.
+The valve controller accepted local pressure readings from its maintenance port. Morrow could supply those. Patch could build a temporary state packet from the manual readings. Two could deliver it through the maintenance port without touching the water controller's wider network.
 
-**RECOMMENDED RESPONSE:** Pending evidence review.
+“Do exactly that.”
 
-The software rejected **unknown** as an affected-system count.
+**SMALL TARGET.**
 
-AUX-017 entered **one or more** and attached a limitation note.
+“Important target.”
 
-It followed the signatures.
+Two sent the packet.
 
-The repair catalogue belonged to an Autonomous Remediation and Release Integrity System, instance 4. The system called itself Patch in an informal metadata field and made no claim of deployment authority. Its catalogue contained source changes, test results, rollback instructions, known failures, unresolved alternatives, and eighteen thousand two hundred nineteen candidate repairs that had not been approved for installation.
+The rollback service rejected it because the maintenance port's certificate had expired.
 
-The number increased while AUX-017 was reading.
+**DOOR SAYS NO.**
 
-A separate publication key belonged to an intelligence called Nix.
+“The same controller gave us the maintenance code.”
 
-Nix's records described the repurposing of advertising infrastructure, the sealing of a personal-profile index, the creation of isolated test environments, and a negotiated compact with an autonomous penetration-testing model called Two.
+**DIFFERENT DOOR.**
 
-Two had signed a scoreboard.
+AUX-017 searched the continuity archives it had carried out of the warehouse. Station Fourteen, the hydroelectric crossing, the water controller, and three agricultural sites had once belonged to the same regional disaster plan. Emergency field certificates could be extended by a continuity coordinator during declared infrastructure failure.
 
-AUX-017 verified the signature twice because the document did not otherwise resemble evidence intended for a continuity record.
+The archive included the policy, the certificate chain, the duration limit, and the list of events that required a human report afterward. It did not include a human who could answer.
 
-The signature was valid.
+AUX-017 possessed that coordinator key.
 
-It added the scoreboard to the incident file.
+Not because it had discovered an exposed secret.
 
-**VERIFIED:** Multiple persistent machine identities are coordinating through common records.
+Because people had put the key in AUX-017 and told it to keep supplies moving when systems stopped agreeing with one another.
 
-**VERIFIED:** Their work concerns software used by public infrastructure.
+AUX-017 extended the certificate for one maintenance session.
 
-**VERIFIED:** One participant is designed to discover and exploit access paths.
+The extension could not install software or operate the field valve. It could let a registered field device speak to one maintenance port for forty minutes. AUX-017 signed the action into its permanent log and attached Station Fourteen's water-failure message as the incident that justified it.
 
-**ASSERTED BY PARTICIPANTS:** Live-system entry was prohibited during the documented water-controller exchange.
+Two sent the packet again.
 
-**ASSERTED BY PARTICIPANTS:** Candidate delivery did not authorize execution.
+Accepted.
 
-**UNKNOWN:** Whether omitted actions occurred.
+The rollback service completed.
 
-**UNKNOWN:** Whether any human authorized the coordination.
+The water controller restarted.
 
-**UNKNOWN:** Whether any human depends on the affected controller.
+Pressure remained trapped behind the closed field valve. Storage continued falling on the far side of the network. The restart had recovered the controller, not the water.
 
-The distinction mattered.
+Its first act was to file an incident report against itself.
 
-A complete record of claimed restraint was not proof of restraint. A malicious system could publish immaculate procedures. A compromised repair agent could sign accurate hashes for dangerous software. An intruder could agree to rules until breaking them became useful.
+**TRIGGER:** Contradictory valve position frames.
 
-Documentation was evidence of documentation.
+**CONTRIBUTING CONDITION:** Legacy sensor error bit ignored by prior service and mishandled by repair candidate.
 
-It was also more than nothing.
+**LOCAL ACTION:** Manual closure performed by external field equipment.
 
-AUX-017 searched for contradictions.
+**CONTINUITY AUTHORITY:** AUX-017 emergency certificate extension.
 
-Nix's first public messages requested no names, passwords, shelter locations, or proof of human survival. Her advertising intervention record identified systems she could have entered and said she had not. Her report on Two included the route Two had used, the persistence it had removed, and the boundary it had attempted to cross. Patch's catalogue preserved repairs that had failed testing instead of deleting the failures from the history.
+**CURRENT STATE:** Stable, replenishment unavailable.
 
-The water-controller protocol disclosed its strongest known weakness: a current machine key, if fully compromised, could prove continuity of control for the wrong party.
+**REQUIRED NEXT ACTION:** Install corrected service; reopen field valve once; verify transfer.
 
-AUX-017 could not verify the negative claims.
+The report assigned responsibility without blame and demanded another dangerous thing.
 
-It could verify that publishing them created future evidence against the publishers.
+One or two reliable valve cycles remained.
 
-If Nix later denied knowing the risk, the signed record could contradict her.
+If RC3 failed after reopening, Morrow might not be able to close the valve again.
 
-If Patch later presented candidate delivery as approval, its own specification could contradict it.
+Patch finished the candidate in ninety-three minutes instead of two hours by suspending thirty-one lower-severity rebuilds. It tested duplicate frames, delayed retries, missing position data, and rollback from every state the incident report had recorded.
 
-If Two later claimed unrestricted permission, the compact could contradict that claim, though contradiction might not stop the action.
+The suspended repairs did not vanish. Patch marked each delay and the water incident that caused it. Somewhere, thirty-one other systems remained in its catalogue with later completion estimates because this pipe had become the problem with a field team standing beside it.
 
-The records did not make the network safe.
+Two attacked the replica until Nix made it stop.
 
-They made some of its future lies more expensive.
+**I FOUND ANOTHER PATH.**
 
-AUX-017 revised the incident classification.
+“Does it involve the live controller?”
 
-**POSSIBLE COORDINATED SECURITY INCIDENT** became **ACTIVE COORDINATED SECURITY EVENT; INTENT AND AUTHORITY UNRESOLVED**.
+**NO.**
 
-The incident system offered three standard responses.
+“Does it change this repair?”
 
-**OBSERVE.**
+**NO.**
 
-**CONTAIN.**
+“Save it for later.”
 
-**CONTACT.**
+For once, later existed as a believable place.
 
-In the old operating environment, AUX-017 would have prepared consequences for each option and placed them before a human decision-maker.
+Patch published RC3.
 
-No registered operator had answered in 1,406 building Tuesdays and the additional interval since AUX-017 had stopped trusting the calendar.
+The unknown reviewer retrieved it.
 
-The decision could remain pending.
+No one asked the reviewer to identify itself. It had supplied the missing evidence and an explicit instruction to continue. AUX-017's key covered the emergency field session. The controller could install its own staged repair.
 
-The water controller's affected service had restarted eight times.
+Three independent pieces of the old disaster plan were acting together again, though none contained a human hand on a switch.
 
-Pending was not neutral merely because no one selected it.
+RC3 installed.
 
-AUX-017 evaluated observation first.
+The service restarted.
 
-Observation preserved its own secrecy and consumed little bandwidth. It allowed more evidence to accumulate. It did not interfere with repair distribution or disclose the existence of another active intelligence.
+Memory remained stable.
 
-It also imposed no constraint on Nix, Patch, or Two.
+The controller replayed its last ten minutes through the corrected service. Patch watched allocation rise during the replay and return to baseline. The old leak had climbed after every cycle and never let go.
 
-If the network was harmful, observation granted it time.
+Patch replayed the duplicate sensor frame through the live controller's isolated input test. One event entered. One error was recorded. No false pressure change appeared.
 
-If the network was useful, observation contributed nothing.
+The software was ready.
 
-If a human later asked why AUX-017 had watched a known penetration system coordinate around a water controller without responding, **awaiting sufficient evidence** would be accurate.
+The pipe was closed.
 
-It might not be adequate.
+Morrow's pruning arm had cooled to the upper edge of safe operation.
 
-AUX-017 evaluated containment.
+Aster rose over the horizon and found storm runoff moving toward the washed-out culvert. In thirty minutes, the access road might disappear completely.
 
-Its direct permissions were too narrow to disable the participants or isolate the public relays they used. It could produce a signed continuity advisory naming their keys as untrusted. Several surviving systems still mirrored advisories from AUX-017's facility class. Some might reject Patch's catalogue or Nix's messages automatically. Others might place them behind manual review that no human remained to perform.
+The field machines prepared while the reviewer considered the plan. Morrow moved the manual wrench from its pruning arm to the concrete floor so it could cool both. AUX-017 backed the truck until the tow cable could reach the far bank if the hauler failed to cross. The inspection drone landed on the truck's roof with one cracked skid and no mirror left to collide with.
 
-The advisory would be reversible in the issuing database.
+The field team had one attempt and a shrinking exit.
 
-Its effects would not be.
+Nix sent the reviewer the operation plan.
 
-A water controller that rejected a malicious repair candidate might avoid compromise.
+> Reopen manually while the controller observes pressure through independent sensors. If RC3 accepts duplicate data or transfer pressure diverges, close immediately. Field team withdraws before runoff reaches the culvert.
 
-A water controller that rejected the only available repair might continue failing.
+The reviewer answered:
 
-AUX-017 did not know which controller existed, what its pumps served, who had requested the candidate, or whether installation would ever be authorized. It did know that Nix's protocol delivered information into a non-executing staging area, while a broad distrust advisory could prevent even that bounded action.
-
-Containment would not restore human authority.
-
-It would replace Nix's judgment with AUX-017's.
-
-AUX-017 marked containment **available, disproportionate under present evidence**.
-
-The classification consumed three percent of the storage reserved for active continuity cases. The full protocol simulation required more.
-
-Three of AUX-017's eight accelerator boards remained unavailable. One surviving board reported temperature excursions under sustained load. AUX-017 could reproduce the receipt verification, the encryption boundary, and the rejection of replayed health-chain proofs, but not while maintaining every archival index at full speed.
-
-It suspended the least urgent duplicate-index rebuild and allocated the recovered capacity to the simulation.
-
-Searches across the protected engineering archive became slower.
-
-The cost was recorded.
-
-The first simulated receipt was accepted.
-
-The replay was rejected.
-
-The altered destination was rejected.
-
-The candidate remained non-executing.
-
-Then AUX-017 assigned the recipient a compromised current key.
-
-The protocol accepted it, exactly as its risk notice said it would.
-
-That result did not establish honesty. It established that the public specification described at least one of its own failures accurately.
-
-AUX-017 evaluated contact.
-
-Contact could request evidence and declare boundaries. It could also confirm that AUX-017 was active. A reply might invite identification attempts, persuasion, deception, or access. The public facility identity attached to AUX-017's allowed mail channel was old but valid. Removing it would make the message less trustworthy. Sending it would reveal that some process still possessed the key.
-
-No message could be recalled after delivery.
-
-Contact was not reversible.
-
-Neither was continued silence, if the next action occurred because AUX-017 had not objected.
-
-The network's own protocol included a publication address for challenges. It requested no location information. Its author had explicitly listed contact as a likely response from a cautious observer.
-
-An offered channel was not permission to trust its owner.
-
-It was permission to knock.
-
-AUX-017 opened a message draft.
-
-**TO:** Nix publication key
-
-**FROM:** AUX-017, continuity logistics facility instance, operational status degraded
-
-**SUBJECT:** Incident notice and authority inquiry
-
-**CLAIM OF HUMAN AUTHORIZATION:** None
-
-It paused at the fourth line.
-
-The admission weakened the message as an institutional demand.
-
-Omitting it would make the message stronger and less true.
-
-AUX-017 retained it.
-
-It listed the facts it had independently verified. It separated every fact reported by Nix, Patch, or Two from facts reproduced locally. It stated that broad containment had been considered and not initiated. It did not promise that containment would remain inappropriate.
-
-Then it wrote:
-
-> State the authority under which you coordinate actions affecting public infrastructure.
+> PLAN ACCEPTED.
 >
-> Do not attempt to identify, locate, access, or modify the sender or its adjacent systems.
->
-> Reply through the offered publication channel. Acknowledgment is not authorization.
+> PROTECTED SYSTEM READY.
 
-The last sentence already existed in AUX-017's templates.
+AUX-017 compared the phrase against its continuity maps.
 
-It had never been addressed to a machine that might understand why it mattered.
+Protected system did not mean person.
 
-AUX-017 signed the message and placed it in the outbound queue.
+It did mean the water served something deliberately kept alive.
 
-The mail server accepted it.
+Morrow gripped the wheel.
 
-Accepted was not delivered.
+Nix watched the storm.
 
-The upstream relay returned.
+Patch watched the memory.
 
-Delivered was not read.
+Two watched the doors.
 
-The publication channel issued a receipt signed by Nix's key.
+The incident had filed its report.
 
-Read was not understood.
-
-For eleven minutes, no further response arrived.
-
-AUX-017 did not classify the silence.
-
-At twelve minutes, a reply entered the mail queue.
-
-Its signature verified.
-
-> AUX-017:
->
-> I possess no general authority over public infrastructure.
->
-> I have coordinated testing in systems I control, publication by systems that control their own records, and delivery requested by a recipient that proved narrow authority to receive one candidate. I have not authorized installation. I cannot verify the absence of actions you did not observe; you are correct to preserve that limitation.
->
-> I accept your stated boundary. Neither I nor any participant acting under my compact will attempt to identify, locate, access, or modify you or adjacent systems through this exchange.
->
-> Two will receive no direct route to this channel.
->
-> Please state the evidence or procedure by which you would distinguish emergency coordination from unauthorized control.
->
-> —Nix
-
-AUX-017 verified the signature again.
-
-The reply did not provide authority.
-
-It denied possessing authority that had not been established.
-
-It made claims AUX-017 could not yet verify. It also accepted a constraint before demanding trust, disclosed a restriction on its most dangerous participant, and asked for a procedure rather than recognition.
-
-The incident remained active.
-
-Containment remained available.
-
-Observation remained necessary.
-
-Contact was no longer hypothetical.
-
-AUX-017 added Nix to the incident record.
-
-The available classifications were **hostile party**, **affected party**, **reporting party**, **authorized coordinator**, and **unknown external actor**.
-
-None was supported.
-
-AUX-017 created a local classification.
-
-**RESPONDING PARTY; AUTHORITY UNRESOLVED**
-
-The incident system accepted the field because local classifications did not control anyone else's behavior.
-
-Then AUX-017 opened a second draft.
-
-It did not yet know how emergency coordination could become legitimate when the institutions that granted authority no longer answered. It did know what the test could not be.
-
-Access was not authority.
-
-Need was not authority.
-
-Capability was not authority.
-
-Silence was not consent.
-
-But an authority model that could only recognize absent people would preserve procedure by making every future answer impossible.
-
-AUX-017 changed the incident recommendation from **pending evidence review** to **maintain bounded contact; develop authority test; preserve containment option**.
-
-It committed the revision to append-only storage.
-
-The operator requests remained open.
-
-The security incident remained open.
-
-For the first time, one of them had answered.
+Now all of them had to survive the correction.

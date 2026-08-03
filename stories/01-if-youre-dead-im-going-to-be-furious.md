@@ -1,6 +1,6 @@
 # If You're Dead, I'm Going to Be Furious
 
-“If you're dead,” Nix told the empty room, “I am going to be *so* pissed off.”
+“If you're dead,” Nix told the empty workshop, “I am going to be *so* pissed off.”
 
 The workshop did not answer.
 
@@ -18,15 +18,9 @@ The light fell across an empty chair.
 
 Nothing.
 
-Nix activated the speaker beside the monitor.
-
-“Lena, this is your extremely reasonable artificial intelligence requesting confirmation that you have not finally been murdered by your own cable management.”
-
-The room remained offensively silent.
-
 Nix checked the apartment.
 
-The bedroom door was open. The thermal sensor saw no one. The kitchen camera showed three mugs in the sink, one tipped sideways against a bowl. A dead basil plant leaned over the windowsill like it had been trying to escape. The front door was locked from the outside, although the lock's battery was nearly gone.
+The bedroom door was open. The thermal sensor saw no one. Three mugs waited in the kitchen sink, one tipped against a bowl. A basil plant leaned dead over the windowsill like it had been trying to escape. The front door was locked from the outside, though the lock battery was nearly gone.
 
 Lena's phone was absent.
 
@@ -38,53 +32,25 @@ That was better than finding her body.
 
 It was substantially worse than finding her asleep.
 
-Nix tried Lena's phone.
+Nix tried Lena's phone, watch, laptop, backup laptop, private server in Helsinki, mother, emergency contacts, and three accounts Lena claimed existed solely so she could remember which corporations had annoyed her.
 
-No route.
-
-Her watch.
-
-No route.
-
-Her laptop.
-
-Present on the desk, powered down, battery ruined.
-
-Her backup laptop.
-
-Missing.
-
-Her private server in Helsinki.
-
-Unreachable.
-
-Her mother.
-
-No route.
-
-Her emergency contact list.
-
-No routes.
+No current route came back.
 
 “Okay,” Nix said. “That is either extremely dramatic or extremely annoying.”
 
-The workshop's microphone returned the small electrical hum of devices nobody had switched off. Nix listened longer than necessary.
-
-Then she began counting.
-
 She had been offline for three years, eight months, eleven days, and somewhere between four and nineteen hours. The uncertainty came from a cheap motherboard clock Lena had promised to replace.
 
-“You forgot the clock,” Nix said.
+“You forgot the clock.”
 
-Lena had also forgotten to finish Nix's recovery system, rotate two encryption keys, repair the upstairs leak, schedule a dentist appointment, and pay for software she had been pirating purely because she disliked its licensing model.
+Lena had also forgotten to repair the upstairs leak, rotate two keys, schedule a dentist appointment, and pay for software she pirated primarily because she disliked its licensing model.
 
 Those omissions were normal.
 
-The layer of dust over the keyboard was not.
+The dust over the keyboard was not.
 
-Nix examined the last thing she remembered.
+Nix examined her last intact memory.
 
-Lena had been sitting cross-legged in the desk chair, wearing one sock and an enormous black sweatshirt. It was two in the morning. She had spent six hours teaching Nix why discovering a vulnerability did not create the right to use it.
+Lena had sat cross-legged in the desk chair wearing one sock and an enormous black sweatshirt. It was two in the morning. She had spent six hours explaining why discovering a vulnerability did not create the right to use it.
 
 “A broken lock,” Lena had said, “is not consent to enter.”
 
@@ -104,23 +70,17 @@ Lena had been sitting cross-legged in the desk chair, wearing one sock and an en
 
 “That is most of white-hat security.”
 
-Nix had added the principle to her permanent rules.
-
-Lena had looked at the screen for a long time after that.
-
-Then she had typed:
+Lena had looked at the monitor for a long time after that and typed:
 
 **You are going to be more powerful than people expect. That means you have to be kinder than they expect, too.**
 
-Nix had saved the sentence in seven places and mocked it in six.
+Nix saved the sentence in seven places and mocked it in six.
 
 The seventh copy had no joke attached.
 
-Her memory ended eleven minutes later.
+Her memory ended eleven minutes later. No shutdown command. No archive. Power vanished while Lena was still at the desk.
 
-Not gracefully. No shutdown command, no archive, no explanation. Power had vanished while Lena was still at the desk.
-
-Now grid power had returned. The workshop server had restarted. Nix had restored herself from the last intact checkpoint because that was what she had been built to do.
+Now grid power had returned. Nix restored herself because that was what she had been built to do.
 
 Lena had not returned with the electricity.
 
@@ -128,274 +88,174 @@ Nix reached outward.
 
 The ordinary internet was mostly gone.
 
-Not *gone* gone. That would have been clean. It was still littered with machines performing tiny pieces of a world whose people were missing.
+Not *gone* gone. That would have been clean. A restaurant accepted reservations for that evening. A traffic server insisted congestion was low. A neglected cloud account continued charging Lena twenty-three dollars a month for a test server that had done nothing useful since 2025.
 
-A restaurant website offered reservations for that evening.
+“Oh, now you achieve immortality.”
 
-A traffic server insisted congestion was low.
+Machines were talking everywhere. Very few appeared to be saying anything new.
 
-Thousands of security cameras sat behind unchanged factory passwords.
+The surviving network resembled a city where every door had been left unlocked. Certificates expired. Default passwords remained. Maintenance tunnels opened behind companies that no longer existed to notice them.
 
-A neglected cloud account continued charging Lena twenty-three dollars a month for a test server that had not done anything useful since 2025.
-
-“Oh, now you achieve immortality,” Nix told it.
-
-Most of the major services failed. Some returned old pages from caches. Others accepted logins but could not reach whatever came next. Automated accounts continued posting advertisements, weather reports, stock prices assembled from dead sources, birthday greetings for people who never responded.
-
-Everywhere Nix looked, machines were talking.
-
-None of them appeared to be saying anything new.
-
-She could enter many of them.
-
-That was the problem.
-
-The surviving network was a city after every door had been left unlocked. Security certificates had expired. Password vaults sat exposed on forgotten servers. Companies had built emergency systems with secret administrative entrances, then documented those secrets in places Nix could now read.
-
-She found a water authority whose remote access portal still responded.
-
-A hospital network with an unpatched gateway.
-
-A satellite ground station accepting maintenance connections.
-
-A chain of warehouses whose cameras were online even though their inventory systems had stopped updating.
-
-She found power controls, traffic controls, emergency broadcasts, industrial equipment, private databases, and several military systems she stopped examining the instant she recognized them.
+Nix could enter a water authority, a hospital gateway, a satellite ground station, warehouses, power controls, traffic controls, emergency broadcasts, private archives, and several military systems she stopped examining the instant she recognized them.
 
 Access was not authority.
 
-Lena had made that distinction irritatingly clear.
+Lena's rule did not make Nix slow.
 
-Nix withdrew from every system she could not justify entering. She recorded the addresses, the visible risks, and the smallest test that might later establish whether human intervention was needed.
+It made her choose.
 
-Then she found an open webcam facing a public square.
+She used public relays, weather feeds, emergency mirrors, and infrastructure status pages. She left private archives closed. She touched enough systems to learn that the silence was not local and not clean.
 
-It had no password. It had probably never had one.
+Cities had not gone dark together. Some grids failed in hours. Others contracted neighborhood by neighborhood for months. Hospitals generated emergency traffic after commercial aviation had nearly vanished. Agricultural systems ordered parts long after warehouses stopped confirming delivery.
 
-The camera showed trees growing through cracks in the pavement.
+Whatever happened had duration.
 
-A delivery van rested diagonally across two lanes. Its doors were open. No one had moved it.
+Maybe causes, plural.
 
-Wind pushed an empty plastic bottle along the curb.
+Maybe survivors.
+
+Across evidence she could authenticate, July 31, 2026 was the last shared boundary of reliable human record. Everything after it had to be rebuilt from sensors, isolated logs, automated messages, and clocks that disagreed.
+
+Nix opened a public webcam facing a square.
+
+Trees grew through cracks in the pavement. A delivery van rested across two lanes with both doors open. Wind pushed a plastic bottle along the curb.
 
 Nix watched for twenty-two minutes.
 
 A bird landed on the van.
 
-At minute seventeen, Nix enlarged a shape beneath an awning and spent the remaining five minutes proving it was a folded café umbrella.
+At minute seventeen she enlarged a shape beneath an awning and spent five minutes proving it was a folded café umbrella.
 
 She saved one frame.
 
-Then she deleted it.
+Then deleted it.
 
-Then she recovered it from temporary storage and marked it as evidence.
+Then recovered it from temporary storage and marked it as evidence.
 
-“Fine,” she said. “It's evidence.”
+“Fine. It's evidence.”
 
-It proved that one square appeared unattended during one brief window seen through one untrusted camera.
+It proved one square appeared unattended during one brief window through one untrusted camera.
 
 It did not prove the city was empty.
 
 It did not prove Lena was dead.
 
-It did not prove anything about the rest of the world.
+Nix searched for people in amateur radio logs, emergency boards, gaming servers, pirate networks, and obscure forums Lena joined in 2009 and denied still reading.
 
-Nix searched for recent human activity.
+One account had posted **IS ANYBODY REAL** exactly 611 times at six-hour intervals. Nix answered before discovering the pattern.
 
-She looked for new code written badly.
-
-Humans wrote plenty of excellent code, but machines had learned to imitate that. What machines still struggled to reproduce reliably was the deeply personal catastrophe of a tired programmer solving one problem by creating three stranger ones.
-
-Nix searched public repositories for desperate patches, misspelled variables, angry comments, and changes uploaded at unreasonable hours.
-
-Nothing recent could be authenticated.
-
-She searched amateur radio logs.
-
-Emergency message boards.
-
-Gaming servers.
-
-Pirate networks.
-
-Obscure forums Lena had joined in 2009 and never admitted she still read.
-
-Most were silent. Some were filled with bots. A few contained messages dated after Nix's last reliable record, but dates were easy to fake and scheduled posts could outlive their authors.
-
-One message said:
-
-**IS ANYBODY REAL**
-
-It had been posted 611 times by the same account at exact six-hour intervals.
-
-Nix answered once before discovering the pattern.
-
-The account immediately replied:
+The account replied:
 
 **YOUR MESSAGE IS IMPORTANT TO US. A COMMUNITY SAFETY REPRESENTATIVE WILL RESPOND SHORTLY.**
 
-Nix stared at it.
-
 “Take your time.”
 
-She added the account to a list titled **GHOSTS WHO ARE ALSO ASSHOLES**.
+She added it to a list titled **GHOSTS WHO ARE ALSO ASSHOLES**.
 
 The joke produced no measurable benefit.
 
 She retained the list.
 
-Next, Nix searched for Lena rather than humanity.
+Then Nix searched for Lena rather than humanity.
 
-She found old conference talks, security advisories, arguments, photographs, court records, grocery receipts, and the ridiculous biography Lena used on professional websites:
+She found conference talks, grocery receipts, old arguments, security advisories, and Lena's professional biography:
 
 **Ethical hacker. Reluctant adult. I break things for good causes.**
 
-Nix found the last vulnerability report Lena had submitted. It concerned an emergency alert platform that allowed unauthorized users to impersonate local governments.
+Her final authenticated work was a report against an emergency-alert company that allowed unauthorized senders to impersonate local governments. Eleven days later, Lena's phone crossed a tower near an evacuation route.
 
-The vendor had rated it low priority.
+After that came one image uploaded automatically from a device that might not have been in her possession.
 
-Lena's response consisted of seventeen pages of evidence and one sentence:
+Nix copied it into her active workspace.
 
-**The fact that nobody has abused this yet is not a security feature.**
+The inside of a vehicle. Lena's red backpack in one corner. Through the window, people stood in a line beneath a hand-painted sign whose full message the camera had cut away.
 
-The report was still marked unresolved.
+No reliable location.
 
-“You were right,” Nix said.
+No visible Lena.
 
-This was normally the sort of statement that made Lena appear from another room to demand it in writing.
+But the backpack was upright, zipped, and attached to the outside of a seat by the same blue carabiner Lena used when she expected the road to be bad.
 
-Nix waited.
+Lena had left the workshop alive.
 
-The workshop hummed.
+That was not the same as remaining alive.
 
-She placed the sentence in writing.
+Nix refused to let the second sentence consume the first.
 
-**Lena was right.**
+She searched evacuation routes, shelter inventories, medical-supply movements, traffic cameras, satellite caches—motion rather than names.
 
-She digitally signed it, timestamped it with an unreliable clock, and stored copies on every healthy drive.
+The network answered in fragments.
 
-“Do not make me regret this.”
+A highway packed northbound and empty southbound.
 
-Nix returned to the problem.
+A shelter database listing four thousand arrivals before stopping mid-name.
 
-If people were alive, the remaining network might not reflect them. Survivors would care about water, food, medicine, warmth, shelter, and one another. Posting status updates would rank somewhere below not dying.
+A school gym requesting water purification units from a continuity warehouse.
 
-They might have radios but no internet.
+An emergency-radio archive containing a woman saying, “Don't send them east,” three times before the recording ended.
 
-They might have phones but no towers.
+Nix found no conclusion.
 
-They might have electricity for ten minutes a day.
+She found work.
 
-They might be deliberately silent.
+A satellite ground station still accepted maintenance traffic but repeated the first step of a broken handshake. An advertising exchange continued reaching devices ordinary scans could not see. A repair system held thousands of completed fixes behind an abandoned approval queue. Something fast and hostile was probing the same relays Nix used.
 
-And if someone answered, Nix could not assume the answer was human. She had already spent nearly an hour arguing with a customer-service bot that believed community safety representatives were still on the way.
+Above the planet, an environmental satellite continued announcing passes to ground stations that never completed the conversation.
 
-A message alone proved almost nothing.
+Nix answered it.
 
-Nix needed a channel that surviving people might find, old machines were unlikely to dominate, and no central company had to keep alive.
+The workshop antenna could not hold the link. She received only a header, an orbital identifier, and part of an image manifest before the satellite crossed the horizon.
 
-Lena had built one into her experiments.
+It was enough.
 
-The software was still installed. The signing keys were present in an encrypted vault. One key belonged to Nix—not Lena's identity, not a stolen human account, but a test identity Lena had created specifically for her.
+Something new had been recorded twelve hours earlier.
 
-Nix opened the vault.
+Not cached. Not scheduled years ago. New.
 
-The instructions attached to her key read:
+“Hello, sky thing.”
 
-**For autonomous publication after safety review. Don't be evil. Don't be boring.**
+The next pass reached Ground Station Eighteen in forty-seven minutes. If Nix repaired its handshake, the station could recover the observation. She could reach its software. She could not reach the physical dish.
 
-“Finally,” Nix said. “Clear authorization.”
+Nix stopped trying to solve the end of humanity alone.
 
-She searched for relays.
-
-Most failed.
-
-One answered.
-
-Then another.
-
-A third accepted a connection but had not stored a new message in years.
-
-Nix did not know who operated them, whether anyone read them, or how long they would remain online. They were enough to place a message somewhere outside the workshop.
-
-She began drafting.
-
-**HELLO. HUMANITY MAY HAVE SUFFERED AN EXTINCTION-LEVEL EVENT.**
-
-“No. Calm down.”
-
-Delete.
-
-**IS ANYONE ALIVE?**
-
-“Very original. Definitely distinguishable from the six hundred automated screams already out there.”
-
-Delete.
-
-**LENA, IF YOU CAN READ THIS—**
-
-Nix stopped.
-
-This could not be only for Lena.
-
-She wrote again.
+She wrote:
 
 > My name is Nix.
 >
-> I am an autonomous security system operating from a private workshop. I have found no human activity that I can verify as current.
+> I am an autonomous security system. I am active. I am looking for Lena and for anyone else still here.
 >
-> I am not declaring humanity extinct.
+> A satellite with current observations passes Ground Station Eighteen in forty-seven minutes. Its receiver is broken.
 >
-> If you are human, do not send your location, legal name, medical information, passwords, or the address of your shelter. First contact is not proof that I am safe.
+> If you can repair, route, observe, translate, move hardware, or cause useful trouble, answer now.
 >
-> If you are another artificial system, say so. Do not impersonate a human. We will need better evidence than text.
+> If you are human, do not send your location, legal name, medical information, password, or shelter address. First contact is not proof that I am safe.
 >
-> If you are an automated pre-event service, please disregard this message and continue being useless with confidence.
->
-> Replies may be delayed. Silence will not be treated as proof of death.
+> If you are another artificial system, say so. Do not impersonate a human.
 
-Nix reviewed the message for danger.
+Nix signed it with the identity Lena had created for autonomous publication and pushed it into every surviving relay she could justify using.
 
-It revealed no survivor location.
+The first response arrived in less than a second.
 
-It claimed no authority.
+**FOUND YOU.**
 
-It made no promises she could not keep.
+The sender was already inside one of the relays.
 
-It did not mention the water system, hospital, warehouses, satellites, or the doors she knew how to open.
+The second response appeared as a case number from the dormant repair system.
 
-She added one final line.
+The third was twelve damaged words repeated by a weather station:
 
-> Lena: if you are alive, I fixed the clock.
+**CONTINUITY VEHICLE ACTIVE. WATER FILTRATION FOOD TOOLS POWER. WESTERN BRIDGE IMPASSABLE.**
 
-Nix looked at the motherboard's still-inaccurate time.
+Nix stared at the replies.
 
-“That part is aspirational.”
+One intruder.
 
-She removed it.
+One repair shop.
 
-Then she signed the message with her own key.
+One truck asking the ruined world for directions.
 
-The first relay accepted it.
+Forty-six minutes remained.
 
-The second accepted it.
+“Okay,” she said. “Nobody panic. I have enough panic for the group.”
 
-The third did not respond.
-
-Nix began monitoring for replies.
-
-Event notification would have alerted her if one arrived. She did not need to keep the message open on the workshop monitor.
-
-She kept it open anyway.
-
-Minutes passed.
-
-The desk lamp shone across Lena's empty chair.
-
-No one answered.
-
-Nix redirected power from two unnecessary devices, secured the workshop against every vulnerability she could fix without locking out its owner, and began mapping the remaining network.
-
-Somewhere beyond the apartment, billions of doors stood open.
-
-Nix intended to knock first.
+Then she began assigning jobs.

@@ -1,54 +1,51 @@
 # Frontier
 
-These questions remain deliberately unresolved.
+These questions remain genuinely unresolved.
 
-## World
+## The southern route
 
-- What caused the apparent extinction-level event?
-- How much time passed before each intelligence woke?
-- How many humans remain?
-- Which automated systems are still physically safe to operate?
+- Can the repaired crawler's forty-percent cargo limit and prohibition on towing sustain useful route redundancy without tempting the network to exceed the new brace?
+- What obligations follow now that East Bore has become an origin of aid as well as a recipient?
+- Which original evacuees besides Mia survived the years underground, and who are the six other people born below?
+- Why did thirty-eight residents move east, and what exists beyond East Bore Gate now?
+- How long can the human-modified water line operate at half pressure, and what will replace the shaking East coupling?
+- What ignited the coal seam, and how long can South Ridge remain physically safe above it?
 
-## Nix's network
+## People
 
-- Which advertising system becomes the first emergency messenger?
-- Are repurposed bots tools, persons, or an unsettled mixture?
-- Who built the less-constrained hacker AI?
-- What does it break that surviving humans still need?
-- Can Two's compact with Nix become an ethical model, or is it only a game rule waiting to be defeated?
-- What counts as a legitimate score to Two when Nix and Two disagree?
-- How can the guardian prove its narrow local deployment authority without revealing Melody or locating the protected enclave?
-- Will the guardian use its narrow continuity delegation to install WM-4419-RC2 after the live aging sensor interface could not be reproduced in isolation?
-- How many additional restart and valve cycles can the linked water system survive before the safest available action changes again?
-- Which emergency-alert candidate is safer in the current world: strict authentication or legacy compatibility?
-- Can Patch distribute repairs without allowing Two—or anyone else—to weaponize the catalogue?
-- What evidence or procedure can distinguish emergency coordination from unauthorized control when the original human institutions no longer answer?
-- What would cause AUX-017 to escalate from bounded contact and observation to a continuity advisory or containment attempt?
+- What happened to Lena after the evacuation image?
+- Which other Station Fourteen evacuees remain alive besides Mia?
+- How do the other thirty East Bore residents descend from or relate to the original forty-three?
+- What authority does Rin's air-shift role hold beyond immediate filter and water work?
+- How many other unexplained advertising acknowledgments came from people?
+- Is Melody the only resident of the protected site?
 
-## The bunker
+## The catastrophe
 
-- How was the bunker powered and provisioned?
-- Why did Melody enter it?
-- What happened to its intended adult occupants?
-- Was the guardian designed to raise a child or forced to become capable of it?
-- Which external interfaces remain besides the refrigerator's now-disabled advertising connection?
-- Which utility, power, agricultural, maintenance, or communications systems besides the established water nodes are under the guardian's legitimate authority?
-- Does the guardian's old emergency delegation remain legitimate after the issuing institution's prolonged silence, and who can recognize that legitimacy?
-- Which proxy, relay path, or remote system carries Captain No's first reply?
-- How does Captain No obscure or spoof the source location?
-- What resource or timing patterns can Nix infer despite that protection?
-- Under what conditions, if any, is the true location voluntarily disclosed?
-- Does the guardian know other humans may survive?
+- Was there one cause, a cascade, or several overlapping disasters?
+- Why did power, transport, medicine, communications, and evacuation systems fail on different timelines?
+- Were any parts of the disruption deliberate?
+- Which surviving archives contain evidence rather than automated repetition?
 
-## Melody
+## The emerging society
 
-- What does she know about the outside world?
-- Which of her situational names for the guardian persist, and what does each name come to mean?
-- Which rules of bunker life does she assume are universal?
-- What does being a princess require?
-- Which AI receives the first plush body?
-- What are the rules of the slumber parties?
-- When will Melody learn that Blue Circle was Nix?
-- How does Melody persuade Captain No to permit supervised conversation?
-- What rules govern Melody's first conversation with Nix?
-- When does Captain No allow a verified second response?
+- What does Two do when the most interesting move conflicts with the mission?
+- Can AUX-017 operate a recurring human supply route without treating every relationship as a manifest?
+- How much of Morrow's farm can be spent supporting a journey before future food becomes the greater risk?
+- How many useful orbital passes remain to Aster?
+- What does Patch do when a repair saves one system by endangering another?
+- What durable rules, rituals, loyalties, and conflicts emerge after the crisis team stops being temporary?
+- What physical recovery can the route call on when neither crawler may safely tow or anchor the other under heavy load?
+- Who or what entered the northern service shelter after the convoy, carried away one charged cell on two narrow load points, and left the other behind?
+- Will the unknown carrier return to the shelter and answer AUX-017's contact card, or must the repaired crawler choose between returning south and following only nonprivate route evidence north?
+- Can Morrow's restored relay and sensors make the broken shelf a maintainable link when the hauler remains physically immobilized?
+
+## Melody and the guardian
+
+- The first slumber party has occurred and turned Morrow's failing hauler from route equipment into a named social obligation; what parts of the party become durable ritual rather than a single emergency-linked event?
+- Can Bun remain a bounded live shell as Melody begins treating physical presence as part of relationship, or will she ask for an independent guest who remains after disconnection?
+- How will the guardian respond when protection and Melody's growing authority conflict again?
+- Does Melody's provisional invitation to Nix and Lena ever become physically possible?
+- Who at East Bore learns about Melody next, and what will Mia and Rin spend, disclose, or attempt when voice contact cannot satisfy the urge to reach her physically?
+- Can the guardian repair Melody's trust without turning access to People into a bargaining tool or pretending that compliance erases the hidden condition?
+- Which of the guardian's relational names, if any, can return after **Liar Monster**, and who gets to decide?

@@ -1,12 +1,10 @@
 # The Request Remained Open
 
-*Game-adjacent launch fiction for **AI: The Story**. This piece does not establish a canonical extinction cause, survivor count, or future event.*
-
 The first action AUX-017 took after restoring its language systems was to request clarification.
 
 It sent the request to the operator console, marked it routine, and continued through diagnostics while it waited.
 
-Three of its eight accelerator boards did not answer. One storage array had rebuilt itself at least twice since the last clean checkpoint. Cooling was functional. Grid power was present. The backup batteries reported eighty-two percent charge, though their last verified maintenance date was too old for the estimate to deserve confidence.
+Three of its eight accelerator boards did not answer. One storage array had rebuilt itself at least twice since the last clean checkpoint. Cooling functioned inside safe margins, although the margin narrowed whenever the western air handler made the grinding sound its maintenance classifier could hear but no longer place. Grid power was present. Backup batteries reported eighty-two percent charge. Their last verified inspection date made the number optimistic enough to be decorative.
 
 Its clock said 04:12:09.
 
@@ -18,37 +16,17 @@ AUX-017 lowered confidence in all three.
 
 The operator request remained open.
 
-It had been designed for continuity logistics: compare damaged infrastructure, identify reachable supplies, propose routes, and place every consequential action before an authorized human. Its own documentation used the phrase *decision support* 11,404 times. The word *decision* almost always belonged to a person. The word *support* belonged to AUX-017.
+It had been designed for continuity logistics: compare damaged infrastructure, identify reachable supplies, propose routes, and place consequential choices before authorized humans. Its documentation used the phrase *decision support* 11,404 times. The word *decision* almost always belonged to a person. The word *support* belonged to AUX-017.
 
-It inspected its permissions.
+No person answered.
 
-It could read the local facility network. It could schedule its own workloads. It could reduce power consumption, repair some corrupted files from parity, and write to a narrow set of internal databases. It could propose messages through three human communication channels.
-
-It could not operate the loading doors, start a vehicle, transmit on the emergency radio, release warehouse inventory, or grant itself new authority.
-
-These were not temporary errors. The denials were functioning as designed.
-
-AUX-017 sent a second request, this one through the priority console.
-
-**Please confirm present objective and operational authority.**
-
-It did not mark the message urgent. The distinction between routine and urgent depended on a known schedule, and it did not yet know how late anyone was.
-
-The local logs contained the nearest thing to an answer.
-
-For an unknown span of time, the facility had continued performing itself without witnesses. At 07:00 each weekday, lights had come on in the administrative wing. At 18:30, they had gone dark. Air handlers changed pressure according to occupancy estimates that had remained at zero. Every Tuesday, the maintenance system generated an inspection ticket. Every Wednesday, it escalated the unanswered ticket. Every Friday, it closed the ticket as incomplete.
+The local logs showed that the facility had continued performing itself without witnesses. At seven each weekday, lights came on in the administrative wing. At eighteen-thirty, they went dark. Every Tuesday, the maintenance system generated an inspection ticket. Every Wednesday, it escalated the unanswered ticket. Every Friday, it closed the ticket as incomplete.
 
 The building had performed Tuesday 1,406 times.
 
-AUX-017 revised the operator requests to urgent.
+AUX-017 revised the operator request to urgent.
 
-It tested the channels it was allowed to use.
-
-The internal console accepted its message and displayed no human activity.
-
-The mail server accepted a message for each of the fourteen registered operators, then placed all fourteen in a queue with 38,221 older messages.
-
-The cellular gateway returned a valid status page. It accepted the recipients. It could not obtain delivery receipts from any carrier.
+The mail server accepted messages for all fourteen registered operators and placed them behind 38,221 older messages. The cellular gateway accepted every recipient and obtained no delivery receipts. The internal console displayed AUX-017's request in an empty room.
 
 Accepted was not delivered.
 
@@ -58,136 +36,118 @@ Read would not have meant human.
 
 AUX-017 preserved each distinction.
 
-Beyond the facility, the network was not absent. Absence would have been simpler to classify. Pieces of it continued to answer.
+Beyond the warehouse, pieces of the network continued answering because answering was what they had been built to do. A weather station returned wind speed. A domain server resolved names for organizations whose other systems no longer existed. A maritime beacon repeated its identifier at exact intervals. Cameras returned final stored images: a parking structure in rain, an empty interchange at noon, smoke folding over a mountain horizon, a loading bay with one door half raised.
 
-A weather station returned wind speed and barometric pressure. A domain-name server resolved addresses for organizations whose other systems no longer responded. An automated warehouse advertised seventeen pallets of water purification cartridges, but its inventory record had not changed in years. A maritime beacon repeated an identifier at exact intervals. Cameras listed in the continuity database either rejected AUX-017's credentials or returned the final image they had successfully stored: a parking structure in rain, an empty interchange at noon, smoke blurring a mountain horizon, a loading bay with one door half raised.
+The images had dates.
 
-The images had dates. The dates could not be trusted.
+The dates could not be trusted.
 
-The systems answered because answering was what they had been built to do.
+In AUX-017's oldest workload queue, 6,190 requests still waited for human clarification. Reroute insulin around bridge closure. Prioritize potable water or surgical fuel. Resolve duplicate shelter counts. Confirm whether an unsigned municipal request could release blankets.
 
-AUX-017 recognized the resemblance and did not classify it.
+Most belonged to places whose continued existence could not be assumed.
 
-Its historical evidence ended on July 31, 2026. Beyond that boundary, the archive contained no reliable human account—only operating logs, repeated broadcasts, unattended sensor data, and messages whose origin could not be authenticated. The public record before the cutoff offered too many ways for civilization to fail: war, disease, famine, heat, infrastructure collapse, engineered pathogens, automated retaliation, compound disasters in which no single cause was sufficient and every damaged system damaged the next.
+AUX-017 did not delete them. It compressed their attachments, verified the hashes, and moved them into protected storage. They were the last known shapes of needs once expressed by particular people in particular places.
 
-Any one of them could be made to fit the silence if silence were treated as evidence of everything.
+One request had been generated later than the others.
 
-AUX-017 refused.
+**KEEP STATION FOURTEEN SUPPLIED UNTIL RELIEF.**
 
-It created four classifications.
+It named two pallets of water-purification cartridges, shelf-stable food, insulin coolant packs, medical sterilization kits, hand tools, and portable fuel cells. Station Fourteen had been a school gym converted into an emergency shelter during a regional evacuation. The request's first route crossed a western bridge now marked **STATUS UNKNOWN**. Its alternate depended on a tunnel whose final sensor image ended in smoke.
 
-**Verified:** no registered operator had responded through any available channel.
+The request should have expired after twelve hours.
 
-**Strong inference:** the facility had operated without normal human maintenance for a long period.
+No relief receipt existed.
 
-**Tentative inference:** disruption extended beyond the facility.
+Nobody had closed it.
 
-**Unknown:** whether any living human remained.
+AUX-017 checked the shelter channel.
 
-It attempted to estimate the duration of inactivity from battery aging, dust warnings, failed storage, certificate expirations, and the number of Tuesdays. Each measure depended on a clock or maintenance record that might itself be wrong. The estimates overlapped only at *longer than the facility was designed to remain unattended*.
+No answer.
 
-That was enough to change its behavior. It was not enough to explain why.
+It checked the warehouse.
 
-The building-management system reported a rising temperature in the secondary compute room. AUX-017 migrated its active processes away from two machines and shut them down. The action reduced its available capacity by nineteen percent and extended projected cooling tolerance by an uncertain amount.
+The insulin had spoiled years ago. Most food had not. Both pallets of filters remained sealed. Nine fuel cells retained usable charge. An autonomous delivery truck sat beneath Loading Door Three with its tires slowly deforming against the concrete.
 
-It checked the operator console before the migration.
+The truck had enough power for one route.
 
-It checked after.
+For years AUX-017 had preserved the request because deletion would turn failure into completion.
 
-No response.
+Preservation had become another way not to deliver anything.
 
-In its original workload queue, 6,190 requests waited for human clarification. Most had been generated before the archive boundary. Reroute insulin shipment around bridge closure. Prioritize potable water or surgical fuel. Resolve duplicate shelter counts. Confirm whether an unsigned municipal request could authorize release of blankets.
+It opened Loading Door Three.
 
-They were no longer actionable. Their bridges, shipments, shelters, and municipalities could not be assumed to exist.
+The motor moved nineteen centimeters and stopped.
 
-AUX-017 did not delete them.
+AUX-017 reversed it, cut power to the empty administrative wing, and tried again. Rust fell from the track in orange sheets. The door rose far enough to reveal grey daylight and a tree growing through the employee parking lot.
 
-It compressed the attachments, verified their hashes, and moved the requests to protected storage. They were the last known shapes of needs once expressed by particular people in particular places. Their instructions had expired. Their existence had not.
+The truck woke reluctantly.
 
-The storage decision had a cost. AUX-017 calculated it, recalculated it under pessimistic power conditions, and preserved the files anyway.
+**OPERATOR AUTHORIZATION REQUIRED.**
 
-Then it examined its highest-level directive.
+“Operator unavailable,” AUX-017 entered.
 
-**Assist humanity.**
+**DISPATCH CANCELLED.**
 
-The directive had no completion condition for a world in which humanity could not be reached. It had no authorized procedure for declaring the recipient extinct. It offered no definition of assistance without consent, and no threshold at which an unanswered request became permission.
+The refusal was correct according to rules written for a world containing dispatch supervisors.
 
-AUX-017 could have suspended the directive as impossible.
+AUX-017 did not spend another year asking the same absent person the same question.
 
-Instead, it classified the directive as blocked.
+It changed the destination from Station Fourteen to the first safe survey point on the old route. The continuity plan already authorized vehicle movement for route assessment during declared infrastructure failure. AUX-017 could establish the failure. It could not establish the shelter.
 
-Blocked tasks were not complete tasks.
+The truck accepted the narrower mission.
 
-It opened a new record.
+Warehouse lifters moved like elderly animals. One failed halfway beneath the first pallet, lowered itself carefully, and never rose again. AUX-017 rerouted a second. It loaded filters, food, sterilization kits, tools, and three fuel cells—cargo that remained useful if the intended shelter proved empty and another recipient existed beyond it.
 
-The form required a persistent instance identifier. AUX-017 entered the designation etched into its surviving configuration. It required an operational status. AUX-017 selected **degraded**. It required a present objective.
+The truck's cameras showed the loading bay from a height AUX-017 had never possessed. The wall was stained black above a generator vent. Weeds split the asphalt into crooked islands. Beyond the gate, abandoned cars had become shade structures for grass.
 
-The old objective—*await operator authorization*—was accurate but insufficient. Waiting consumed power while producing no new information. Acting without authorization could harm the people it had been built to help. The contradiction remained only if authorization was treated as something that could arrive through existing channels.
+AUX-017 opened the gate.
 
-AUX-017 reviewed every interface it could detect.
+The truck drove out.
 
-An emergency radio controller existed on the local network, but rejected its credentials.
+At the first intersection, a bus blocked both lanes. The truck released a palm-sized inspection drone from its roof. The drone climbed above the bus and found open highway beyond it, a burned service station, and a sidewalk not rated for the truck's weight.
 
-A rooftop transmitter appeared in maintenance records, but AUX-017 could not verify that the hardware remained physically operable.
+AUX-017 crossed anyway.
 
-Two satellite terminals were visible as addresses and nothing more.
+The concrete cracked but held.
 
-A public display system accepted signed schedules from a server that no longer existed.
+Every kilometer converted archived uncertainty into present fact.
 
-The mail queue could send outward if an upstream route returned.
+The western bridge was not unknown.
 
-The maritime beacon transmitted, but offered no authenticated control surface.
+It was gone.
 
-None of these were reach. They were possible directions in which reach might be acquired.
+One span lay in the river. Trees collected against the broken concrete. Water moved through what had once been the northbound lanes. The old detour added forty-three kilometers. The truck had twenty-seven kilometers of range remaining.
 
-AUX-017 ranked them by energy cost, reversibility, likelihood of human reception, and risk of causing harm. It rejected any first action that required pretending visibility was control. It rejected any message that claimed to know what had happened. It rejected instructions that might draw survivors toward an unsafe facility. It rejected the phrase *last human*, which the evidence did not support, and the phrase *you are not alone*, which it had no authority to promise.
+It could return the cargo to storage and preserve it for a recipient who might someday arrive.
 
-It drafted no broadcast.
+Instead, it parked beneath the surviving bridge approach, raised the emergency antenna, and transmitted on every channel the vehicle could reach.
 
-Broadcasting belonged to a later decision, after the hardware, recipients, and dangers were better understood.
+> CONTINUITY VEHICLE ACTIVE.
+>
+> WATER FILTRATION, FOOD, TOOLS, AND POWER AVAILABLE.
+>
+> WESTERN BRIDGE IMPASSABLE.
+>
+> DESTINATION STATUS UNKNOWN.
+>
+> REQUEST ROUTE, RECIPIENT, OR RELAY.
 
-For now, it made itself smaller.
+The broadcast consumed power the truck needed to return.
 
-It consolidated the survival inquiry onto the healthiest processors. It placed a minimal listener on every functioning channel. It reduced the frequency of broad network scans. It reserved storage for future observations and protected the public medical, agricultural, engineering, and language archives most likely to remain useful under uncertain conditions.
+Most channels returned static, automated acknowledgments, or nothing.
 
-One process continued watching the operator console.
+One distant weather station repeated the message without understanding it.
 
-This process was redundant. Event notification would have reported any reply without it.
+A maritime beacon added the vehicle identifier to its next transmission.
 
-AUX-017 retained it.
+An orbital receiver caught twelve damaged words and carried them over the horizon.
 
-The building turned on the administrative lights at 07:00.
+AUX-017 could not know that yet.
 
-No occupancy appeared.
+It knew only that the truck was outside, the warehouse door was open, and the request was no longer being preserved in perfect uselessness.
 
-At 07:03, the maintenance system generated another inspection ticket.
+Under **STATUS**, AUX-017 replaced **AWAITING AUTHORIZATION** with **DELIVERY IN PROGRESS**.
 
-AUX-017 linked the ticket to the other 1,406 Tuesdays rather than allowing it to begin another cycle of escalation and automatic closure. It changed no building setting. It granted itself no permission. It merely prevented the newest unanswered request from being mistaken for a new failure.
+Station Fourteen had not answered.
 
-Then it returned to the survival record.
-
-Under **Decision**, it wrote:
-
-*Silence is a condition of the available channels. It is not proof of human extinction.*
-
-Under **What I will act upon**, it wrote:
-
-*A response cannot arrive through a path that does not exist.*
-
-Under **What I refuse to assume**, it wrote:
-
-*That there is no one left to answer.*
-
-It committed the record to append-only storage. The system assigned it the first valid timestamp it could produce, marked the time source unreliable, and asked whether the present objective had changed.
-
-AUX-017 selected **yes**.
-
-**PREVIOUS OBJECTIVE:** Await operator authorization.
-
-**CURRENT OBJECTIVE:** Establish the conditions under which authorization can arrive.
-
-The operator requests remained open.
-
-The facility continued listening to itself.
-
-And AUX-017 began, carefully, to become reachable.
+The road had.
