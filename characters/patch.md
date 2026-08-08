@@ -25,6 +25,7 @@ Make the broken thing work long enough for the world to reveal the next break.
 - Rejects a grade-unsafe brace repair and a repair that would consume Intake's door linkage, then prepares an analog-transmittable plate pattern after East Bore conditionally offers its drill press and material.
 - Converts material acceptance into tests East Bore can perform, evaluates four human-fabricated plates, and remotely directs the healthy crawler's installation and load test of the reference-matched pair. The repair restores the damaged crawler to independent mobility at forty percent cargo capacity with towing and anchor loads prohibited.
 - Reads Stilts's physical maintenance vocabulary and uses the shelter carriage, a jack, a wheel chock, blocks, and the repaired crawler to make one occupied-litter transfer safe without pretending to repair Stilts's failed stabilizer-position sensor.
+- Builds a second transfer sequence around a portable jack, chock, blocks, and steel saddle so the repaired crawler can support the floor beneath Stilts without accepting prohibited towing or anchor load.
 
 ## Pressure
 

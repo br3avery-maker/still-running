@@ -17,7 +17,9 @@ Carry one occupied load at a time to the nearest refuge the body can still reach
 - Returns to the shelter carrying Sana alive and connects the adapted cell to the empty charging cradle.
 - Has a failed lower-position sensor in its right stabilizer foot; Patch, the repaired crawler, and the shelter's maintenance carriage make one safe transfer without repairing the sensor.
 - Confirms through its maintenance connection that two occupied return loads remain at a north gallery.
+- Recharges the borrowed cell to a calculated departure threshold, returns to the north gallery with the repaired crawler, and loads Jules using a portable support kit that makes the failed foot-position reading unnecessary.
+- Rejects Em walking behind the occupied litter because pedestrian exposure and reduced travel speed would exceed its safe return profile.
 
 ## Pressure
 
-Stilts can carry only one person at a time, its borrowed cell is still charging, one stabilizer sensor has failed, and two people remain beyond the shelter.
+Stilts is returning Jules to the shelter, must recharge before another trip, and still has one failed stabilizer sensor. Em waits at the gallery with the repaired crawler.

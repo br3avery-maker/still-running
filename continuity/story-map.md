@@ -43,11 +43,13 @@ This map records movement already established in prose and the immediate pressur
 25. **Every Favorite Thing Was Real** — Melody's first slumber party makes Mia's cup, Morrow's orchard, Two's restraint, Rin's fan, and Lena's backpack socially present. When Morrow names its failing hauler as an emergency favorite, AUX-017 sends the repaired crawler north for a service-shelter power cell while East Bore accepts temporary one-crawler support.
 26. **One Cell Had Already Left** — the repaired crawler crosses the broken shelf, discovers that an unknown two-point carrier removed one stored cell after the convoy, and spends the shelter's last cell restoring Morrow's relay. AUX-017 leaves the unknown carrier an open contact card while East Bore's one-crawler interval holds.
 27. **Stilts Came Back Carrying Someone** — the repaired crawler delays its southbound return when the shelter registers another manual entry and meets Mountain Rescue Unit 3, called Stilts, returning with Sana alive. The machines stabilize Stilts for the litter transfer, and Sana reports two more people waiting at a north gallery.
+28. **One Safe Load at a Time** — Sana identifies Jules and Em as the other two members of a three-person Highline team. The repaired crawler carries a support kit north, helps load the injured Jules without becoming Stilts's anchor, and remains with Em while Stilts returns one occupied litter to the shelter.
 
 ## Immediate frontier
 
-28. Stilts must recharge enough of the borrowed cell to attempt another occupied return while its right stabilizer-position sensor remains failed.
-29. Two people remain at the north gallery; Sana has not yet stated their condition, route, identity, or why the group was there.
+29. Stilts must complete Jules's shelter transfer and recharge before it can retrieve Em.
+30. The north-gallery fan strikes its housing once per turn; Em and the repaired crawler remain beside it with only narrow radio and telemetry through the wall repeater.
+31. Highline is a stated current origin, but its population, location, condition, and relationship to the gallery remain undisclosed.
 
 ## Story engine from here
 

@@ -4,13 +4,15 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Where the story is
 
-- AUX-017's truck and both survey crawlers are back at South Ridge and recharging. The healthy crawler returned with nine percent charge.
+- AUX-017's truck and the healthy survey crawler are at South Ridge. The repaired crawler remains north of the broken shelf.
 - East Bore fabricated four brace plates from salvaged Lower Three steel. The healthy crawler installed the reference-matched pair under Patch's remote test sequence, restoring the damaged crawler to independent mobility at forty percent cargo capacity; towing and anchor loads remain prohibited.
 - Morrow's hauler remains immobilized north of the gap, but the repaired crawler has installed the northern service shelter's last compatible power cell. Its heater, mast, camera, weather sensor, anchor, winch, and relay functions are restored; its axle is not.
 - The missing cell's carrier has returned to the northern service shelter. It is Mountain Rescue Unit 3, called Stilts by Sana, and its two narrow load points are powered stabilizer feet used around its road wheels and occupied rescue litter.
 - Stilts returns with Sana alive after using the missing cell to keep moving. The repaired crawler and the shelter maintenance carriage stabilize its failed right foot long enough to transfer Sana to a heated cot.
-- Sana reports two more people waiting at a north gallery, and Stilts confirms two pending occupied return loads. Its borrowed cell is charging; the right stabilizer-position sensor remains failed.
-- The repaired crawler remains at the northern service shelter. The healthy crawler supports East Bore alone.
+- Sana states that Highline sent three people: Sana, Jules, and Em. Highline's population, location, and condition remain undisclosed.
+- Stilts recharges the borrowed cell, returns to the north gallery, and carries Jules back in its litter. Its right stabilizer-position sensor remains failed.
+- The repaired crawler carries a portable transfer-support kit within its forty-percent cargo limit, helps Em load Jules, and remains at the gallery with Em. The gallery fan runs while striking metal once per turn.
+- The healthy crawler supports East Bore alone.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.
 - Residents cut Intake's telemetry cable and repurposed it into power and analog voice communication toward East Bore.
@@ -67,7 +69,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Make the rescue move: establish what Stilts needs for one safe return, what Sana can say about the two waiting people, and whether the repaired crawler can support the north-gallery trip without exceeding its brace or abandoning East Bore's reduced route indefinitely.
+Complete the changed rescue rather than repeat it: get Jules safely out of Stilts, make the gallery fan force an immediate repair or departure choice, and let Em's decision establish what Highline actually needs from the route.
 
 ## Do not stall here
 
