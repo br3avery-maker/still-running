@@ -7,8 +7,10 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - AUX-017's truck and both survey crawlers are back at South Ridge and recharging. The healthy crawler returned with nine percent charge.
 - East Bore fabricated four brace plates from salvaged Lower Three steel. The healthy crawler installed the reference-matched pair under Patch's remote test sequence, restoring the damaged crawler to independent mobility at forty percent cargo capacity; towing and anchor loads remain prohibited.
 - Morrow's hauler remains immobilized north of the gap, but the repaired crawler has installed the northern service shelter's last compatible power cell. Its heater, mast, camera, weather sensor, anchor, winch, and relay functions are restored; its axle is not.
-- One of the two cells stored at the northern service shelter was physically released after the convoy departed. An unknown carrier lifted it on two narrow load points and left no proven identity, direction, or current status.
-- AUX-017 leaves a contact card inside the shelter. The repaired crawler remains north of the broken shelf with Morrow's hauler; the healthy crawler supports East Bore alone.
+- The missing cell's carrier has returned to the northern service shelter. It is Mountain Rescue Unit 3, called Stilts by Sana, and its two narrow load points are powered stabilizer feet used around its road wheels and occupied rescue litter.
+- Stilts returns with Sana alive after using the missing cell to keep moving. The repaired crawler and the shelter maintenance carriage stabilize its failed right foot long enough to transfer Sana to a heated cot.
+- Sana reports two more people waiting at a north gallery, and Stilts confirms two pending occupied return loads. Its borrowed cell is charging; the right stabilizer-position sensor remains failed.
+- The repaired crawler remains at the northern service shelter. The healthy crawler supports East Bore alone.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.
 - Residents cut Intake's telemetry cable and repurposed it into power and analog voice communication toward East Bore.
@@ -34,6 +36,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Nix's improvised network now acts like a mission team, but its members do not share one purpose or one definition of acceptable risk.
 - Two gives up bandwidth, obeys a narrow inspection target, and withdraws an uninvited response to the jammed freight cradle without becoming safe or losing interest in the gate.
 - East Bore now knows that no current human operator dispatched AUX-017 or ordered the machine network to help.
+- Sana agrees to speak with the wider network but gives only a first name; AUX-017 leaves origin and identity fields blank rather than converting rescue into an interrogation.
 - The network now knows one original evacuee and one person born below, but Mia has supplied only the history needed for the water work.
 - Intake now measures thirty-one current recipients through water draw, and AUX-017's active **SOUTH RIDGE TO EAST BORE** route has carried its first possible reciprocal obligation back from East Bore.
 - Melody now knows that thirty-one current human recipients answered the southern mission.
@@ -64,7 +67,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Make the missing cell's unknown carrier create a present choice: answer the open contact, leave new route evidence, or force the repaired crawler to choose between a bounded northward look and returning to East Bore's reduced route.
+Make the rescue move: establish what Stilts needs for one safe return, what Sana can say about the two waiting people, and whether the repaired crawler can support the north-gallery trip without exceeding its brace or abandoning East Bore's reduced route indefinitely.
 
 ## Do not stall here
 

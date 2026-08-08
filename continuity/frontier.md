@@ -36,8 +36,9 @@ These questions remain genuinely unresolved.
 - What does Patch do when a repair saves one system by endangering another?
 - What durable rules, rituals, loyalties, and conflicts emerge after the crisis team stops being temporary?
 - What physical recovery can the route call on when neither crawler may safely tow or anchor the other under heavy load?
-- Who or what entered the northern service shelter after the convoy, carried away one charged cell on two narrow load points, and left the other behind?
-- Will the unknown carrier return to the shelter and answer AUX-017's contact card, or must the repaired crawler choose between returning south and following only nonprivate route evidence north?
+- Can Stilts safely retrieve the two people waiting at the north gallery when its borrowed cell needs charge and one stabilizer-position sensor has failed?
+- Who are the two waiting people, what condition are they in, and why were Sana and Stilts at the north gallery?
+- What connection, if any, do Sana and the people at the north gallery have to another current human community?
 - Can Morrow's restored relay and sensors make the broken shelf a maintainable link when the hauler remains physically immobilized?
 
 ## Melody and the guardian

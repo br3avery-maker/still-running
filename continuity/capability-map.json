@@ -78,6 +78,12 @@
     ],
     "Morrow machines": [
       "agricultural manipulators and hauling only through the named local machine"
+    ],
+    "Stilts / Mountain Rescue Unit 3": [
+      "road wheels and two powered stabilizer legs",
+      "one strapped insulated rescue litter",
+      "one occupied human load at a time",
+      "right lower-position sensor currently failed"
     ]
   }
 }

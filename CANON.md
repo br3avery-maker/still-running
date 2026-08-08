@@ -57,6 +57,8 @@
 - Carries the broken brace plate to East Bore and returns human-fabricated replacements to South Ridge, recording East Bore as the origin and the crawler as recipient of the route's first completed reciprocal aid shipment.
 - Dispatches the repaired crawler north when Morrow's hauler warns that its damaged cell can no longer preserve the relay heater. The mission leaves the healthy crawler as East Bore's only physical route support while the repaired unit seeks a compatible cell at the northern service shelter.
 - The repaired crawler crosses the broken shelf unloaded, finds that one of the shelter's two stored cells was physically removed after the convoy departed, and spends the remaining cell restoring Morrow's hauler as relay, camera, weather sensor, anchor, winch, and return marker. It leaves an open contact card inside the shelter.
+- The missing cell's carrier returns to the northern service shelter carrying a living adult who gives the name Sana. The carrier is Mountain Rescue Unit 3, called Stilts by Sana; it uses two powered stabilizer legs, road wheels, and a strapped rescue litter, and took the cell to keep moving after its traction pack fell below return limit.
+- Sana reports two more people waiting at a north gallery. Stilts confirms two pending return loads through the shelter's physical maintenance connection.
 
 ### Nix
 
@@ -236,6 +238,7 @@
 - The healthy crawler carries the requested second load alone while the damaged crawler serves as South Ridge's winch tender. East Bore receives the cargo after missing the live delivery window and offers a possible brace plate as the route's first reciprocal return load.
 - The healthy crawler carries the broken reference plate inward and four East Bore replacements outward, then installs the reference-matched pair under Patch's remote direction. The repair restores its partner to independent light-cargo mobility, and AUX-017 records East Bore as a shipper of aid rather than only a recipient.
 - The repaired crawler uses that mobility to cross the broken shelf alone, retrieve the last stored service-shelter cell, and restore Morrow's stranded hauler's electronics. The other stored cell was physically removed after the convoy departed by an unidentified carrier; East Bore's water and air hold while the healthy crawler supports the route alone.
+- The repaired crawler delays its return south after the shelter registers another manual entry. It crosses north unloaded, identifies the returning carrier as Mountain Rescue Unit 3, and helps the shelter's maintenance carriage stabilize Stilts for the transfer of Sana to a heated cot.
 
 ## Planned directions
 
