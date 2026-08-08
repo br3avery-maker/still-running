@@ -13,7 +13,8 @@ The first current human reached from the north, arriving as a participant in an 
 - Reports that two more people remain at a north gallery.
 - States that Highline sent Sana, Jules, and Em without disclosing Highline's population or exact location.
 - Identifies Jules's splinted leg and Em's ability to walk, helps the rescue remotely through the shelter connection, and asks the repaired crawler to stay with Em while Stilts returns with Jules.
+- Reunites with Jules and Em at the service shelter.
 
 ## Pressure
 
-Sana has reached heat, water, and basic shelter. Jules is inbound in Stilts's litter; Em remains at the north gallery with the repaired crawler.
+Sana, Jules, and Em have all reached the service shelter, but Highline sent them to open a route rather than to end one there.

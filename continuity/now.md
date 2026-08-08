@@ -9,9 +9,11 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 - Morrow's hauler remains immobilized north of the gap, but the repaired crawler has installed the northern service shelter's last compatible power cell. Its heater, mast, camera, weather sensor, anchor, winch, and relay functions are restored; its axle is not.
 - The missing cell's carrier has returned to the northern service shelter. It is Mountain Rescue Unit 3, called Stilts by Sana, and its two narrow load points are powered stabilizer feet used around its road wheels and occupied rescue litter.
 - Stilts returns with Sana alive after using the missing cell to keep moving. The repaired crawler and the shelter maintenance carriage stabilize its failed right foot long enough to transfer Sana to a heated cot.
-- Sana states that Highline sent three people: Sana, Jules, and Em. Highline's population, location, and condition remain undisclosed.
-- Stilts recharges the borrowed cell, returns to the north gallery, and carries Jules back in its litter. Its right stabilizer-position sensor remains failed.
-- The repaired crawler carries a portable transfer-support kit within its forty-percent cargo limit, helps Em load Jules, and remains at the gallery with Em. The gallery fan runs while striking metal once per turn.
+- Sana states that Highline sent three people: Sana, Jules, and Em. Em establishes that they are a route-opening team and that Highline has been making the south passage usable one section at a time. Highline's population, exact location, condition, and authority remain undisclosed.
+- Sana, Jules, and Em are all inside the heated northern service shelter. Jules's lower leg remains splinted; definitive care is unavailable there.
+- Stilts completes all three occupied rescue loads. Its borrowed cell remains installed, and its right stabilizer-position sensor remains failed.
+- The north-gallery fan seizes after losing a housing bolt. Em and the repaired crawler sacrifice part of the equipment-cabinet windbreak to build Patch's temporary mount shoe; the fan returns to green status under a reduced current stop and requires inspection before each occupied passage.
+- The repaired crawler returns to the service shelter within its forty-percent cargo limit. The healthy crawler supports East Bore alone.
 - The healthy crawler supports East Bore alone.
 - The protected site's water replenishment is restored under RC3. The sacrificed drainage bypass remains failed open.
 - Lower Gallery Three supported a named community for years. Its public records list fifty-one names, seven people born below, six marked deaths, and thirty-eight residents moving east when coal heat threatened the refuge; overlapping counts prevent a complete reconstruction.
@@ -69,7 +71,7 @@ This is the one-screen handoff for the next writing pass. It records no secret l
 
 ## Strongest next move
 
-Complete the changed rescue rather than repeat it: get Jules safely out of Stilts, make the gallery fan force an immediate repair or departure choice, and let Em's decision establish what Highline actually needs from the route.
+Turn the completed rescue into reciprocal route work: get Em's message to Highline, address Jules's need for care and the two temporary machine repairs, and make the broken shelf determine whether north and south can exchange people or only messages and light cargo.
 
 ## Do not stall here
 

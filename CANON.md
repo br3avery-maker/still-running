@@ -61,6 +61,10 @@
 - Sana reports two more people waiting at a north gallery. Stilts confirms two pending return loads through the shelter's physical maintenance connection.
 - Sana states that Highline sent three people without disclosing its population or exact location. They identify the waiting people as Jules, whose leg is splinted, and Em, who can walk.
 - After the borrowed cell recharges to its departure threshold, Stilts returns to the north gallery accompanied by the repaired crawler carrying a support kit within its forty-percent cargo limit. Stilts carries Jules toward the shelter while the crawler remains with Em for the next return.
+- Jules reaches the shelter and is transferred to a second cot. At the gallery, the fan seizes after its lower housing mount loses a bolt; Em requests repair, and Em and the repaired crawler turn part of the equipment-cabinet door into a temporary mount shoe under Patch's remote direction.
+- Em establishes that Highline sent the three-person team to make the south passage usable for a later trip. After the fan returns to green status, Stilts retrieves Em, the repaired crawler follows, and all three Highline workers reach the shelter.
+- When the gallery sensor turns yellow, Stilts leaves the charging cradle below its original departure threshold under a shortened profile that keeps occupied-return reserve but removes blocked-road and waiting margin.
+- Em gives AUX-017 a return message for Highline: **South answers. The shelter is open. The fan runs. Bring a big bolt.**
 
 ### Nix
 
@@ -242,6 +246,7 @@
 - The repaired crawler uses that mobility to cross the broken shelf alone, retrieve the last stored service-shelter cell, and restore Morrow's stranded hauler's electronics. The other stored cell was physically removed after the convoy departed by an unidentified carrier; East Bore's water and air hold while the healthy crawler supports the route alone.
 - The repaired crawler delays its return south after the shelter registers another manual entry. It crosses north unloaded, identifies the returning carrier as Mountain Rescue Unit 3, and helps the shelter's maintenance carriage stabilize Stilts for the transfer of Sana to a heated cot.
 - The repaired crawler carries a jack, wheel chock, blocks, steel saddle, water, filter masks, blanket, and first-aid pouch to the north gallery. It uses the support kit rather than accepting Stilts's weight as an anchor load, helps Em move Jules's reinforced pad into the litter, and remains at the gallery with Em.
+- When the north-gallery fan seizes, the repaired crawler uses its camera, manipulator, and cutter to disconnect the motor, remove a cabinet door, cut and fold a temporary mount shoe, and install it with Em. It then returns to the service shelter behind Stilts within its reduced cargo limit.
 
 ## Planned directions
 

@@ -26,6 +26,7 @@ Make the broken thing work long enough for the world to reveal the next break.
 - Converts material acceptance into tests East Bore can perform, evaluates four human-fabricated plates, and remotely directs the healthy crawler's installation and load test of the reference-matched pair. The repair restores the damaged crawler to independent mobility at forty percent cargo capacity with towing and anchor loads prohibited.
 - Reads Stilts's physical maintenance vocabulary and uses the shelter carriage, a jack, a wheel chock, blocks, and the repaired crawler to make one occupied-litter transfer safe without pretending to repair Stilts's failed stabilizer-position sensor.
 - Builds a second transfer sequence around a portable jack, chock, blocks, and steel saddle so the repaired crawler can support the floor beneath Stilts without accepting prohibited towing or anchor load.
+- Directs the repaired crawler and Em in converting cabinet steel and smaller bolts into a temporary fan-mount shoe, restores the gallery fan under a reduced current stop, and requires inspection before each occupied passage.
 
 ## Pressure
 

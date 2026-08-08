@@ -36,9 +36,10 @@ These questions remain genuinely unresolved.
 - What does Patch do when a repair saves one system by endangering another?
 - What durable rules, rituals, loyalties, and conflicts emerge after the crisis team stops being temporary?
 - What physical recovery can the route call on when neither crawler may safely tow or anchor the other under heavy load?
-- Can Stilts complete Jules's transfer, recharge, and retrieve Em while its right stabilizer-position sensor remains failed?
-- Can the repaired crawler and Em keep the north-gallery fan operating without exceeding the crawler's repair limits?
-- What is Highline's population, location, condition, and relationship to the north gallery?
+- Can Jules's splinted leg receive definitive care at or beyond the service shelter?
+- Can Stilts's failed right-foot sensor and the gallery fan's temporary mount be repaired before another occupied passage?
+- How will AUX-017 deliver Em's return message to Highline, and what will Highline send on the next trip?
+- What are Highline's population, exact location, physical condition, and authority structure?
 - Can Morrow's restored relay and sensors make the broken shelf a maintainable link when the hauler remains physically immobilized?
 
 ## Melody and the guardian
